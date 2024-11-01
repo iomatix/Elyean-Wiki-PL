@@ -31,6 +31,12 @@ export const sharedPageComponents: SharedLayout = {
         maxFiles: 6,
       })
     ),
+    Component.DesktopOnly(
+      Component.NewestFiles({
+        newestType: "created",
+        maxFiles: 3,
+      })
+    ),
   ],
   footer: Component.Footer({
     links: {
