@@ -7,13 +7,13 @@
 
   &.desktop-only {
     @media all and ($mobile) {
-      display: none !important;
+      display: none;
     }
   }
 
   &.mobile-only {
       @media all and ($desktop) {
-        display: none !important;
+        display: none;
    }
   }
 
