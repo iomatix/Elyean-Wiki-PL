@@ -23,11 +23,11 @@ export default {
     },
     newestFiles: {
       title: {
-        published: "Newest Published Files",
-        modified: "Newest Modified Files",
-        created: "Newest Created Files",
+        published: "Newest Published",
+        modified: "Newest Modified",
+        created: "Newest Created"
       },
-      noFilesFound: "No new files has been found",
+      noFilesFound: "No new files found",
     },
     backlinks: {
       title: "Backlinks",

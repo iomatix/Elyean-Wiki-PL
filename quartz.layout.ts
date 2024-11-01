@@ -39,19 +39,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(
     Component.NewestFiles({
       newestType: "published",
       maxFiles: 3 }),
-    Component.NewestFiles({
-      newestType: "modified",
-      maxFiles: 3 }),
-    Component.NewestFiles({
-      newestType: "created",
-      maxFiles: 3 }),
-    Component.Explorer({
-      sortFn: customSortFn_filesFirst,
-      })
+    Component.DesktopOnly(
+      Component.Explorer({
+        sortFn: customSortFn_filesFirst,
+        })
     ),
   ],
   right: [
