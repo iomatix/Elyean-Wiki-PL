@@ -23,9 +23,9 @@ export default {
     },
     newestFiles: {
       title: {
-        published: "Najnowsze opublikowane",
-        modified: "Najnowsze zmodyfikowane",
-        created: "Najnowsze utworzone"
+        published: "Ostatnio opublikowane",
+        modified: "Ostatnio zmodyfikowane",
+        created: "Ostatnio utworzone"
       },
       noFilesFound: "Nie znaleziono nic nowego"
     },
