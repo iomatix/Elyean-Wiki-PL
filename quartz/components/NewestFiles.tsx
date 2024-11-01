@@ -39,14 +39,13 @@ const NewestFiles: QuartzComponent = ({
   // Validation of maxFiles, default = 5
   const validMaxFiles = options.maxFiles > 0 ? options.maxFiles : 5
 
+
   // Sort all files by date and pick the top X newest files
   const newestFiles = allFiles
     .filter((file) => fileData.dates?.[validNewestType as keyof typeof file.dates])
     .sort(sortByDateDescending)
     .slice(0, validMaxFiles)
-    
-
-
+  
   return (
     <div class={classNames(displayClass, "newest-files")}>
       <h3>{i18n(cfg.locale).components.newestFiles.title[validNewestType as "published" | "modified" | "created"]}</h3>
@@ -67,8 +66,10 @@ const NewestFiles: QuartzComponent = ({
   )
 }
 
-NewestFiles.css = style
+
 export default ((userOpts?: Partial<Options>) => {
-  const options = { ...defaultOptions, ...userOpts };
-  return (props: QuartzComponentProps) => NewestFiles({ ...props, inputOptions: options });
-}) satisfies QuartzComponentConstructor;
+  const options = { ...defaultOptions, ...userOpts }
+
+  NewestFiles.css = style
+  return (props: QuartzComponentProps) => NewestFiles({ ...props, inputOptions: options })
+}) satisfies QuartzComponentConstructor
