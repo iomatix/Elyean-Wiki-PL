@@ -21,15 +21,13 @@ export default {
       example: "Przykład",
       quote: "Cytat",
     },
-    {
-      newestFiles: {
-        title: {
-          published: "Najnowsze Opublikowane Pliki",
-          modified: "Najnowsze Zmodyfikowane Pliki",
-          created: "Najnowsze Utworzone Pliki"
-        },
-        noFilesFound: "Nie znaleziono nowych plików"
-      }
+    newestFiles: {
+      title: {
+        published: "Najnowsze Opublikowane Pliki",
+        modified: "Najnowsze Zmodyfikowane Pliki",
+        created: "Najnowsze Utworzone Pliki"
+      },
+      noFilesFound: "Nie znaleziono nowych plików"
     },
     backlinks: {
       title: "Odnośniki zwrotne",
