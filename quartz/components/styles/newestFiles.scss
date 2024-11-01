@@ -1,7 +1,7 @@
 @use "../../styles/variables.scss" as *;
 
 .newest-files {
-  flex-direction: row;
+  flex-direction: column;
   /*&:after {
       pointer-events: none;
       content: "";
