@@ -39,6 +39,8 @@ const NewestFiles: QuartzComponent = ({
   // Validation of maxFiles, default = 5
   const validMaxFiles = options.maxFiles > 0 ? options.maxFiles : 5
 
+  // Setup CSS
+  NewestFiles.css = style
 
   // Sort all files by date and pick the top X newest files
   const newestFiles = allFiles
@@ -66,7 +68,7 @@ const NewestFiles: QuartzComponent = ({
   )
 }
 
-NewestFiles.css = style
+
 export default ((userOpts?: Partial<Options>) => {
   const options = { ...defaultOptions, ...userOpts }
   return (props: QuartzComponentProps) => NewestFiles({ ...props, inputOptions: options })
