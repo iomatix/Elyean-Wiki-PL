@@ -7,6 +7,7 @@ description: Description of the page used for link previews.
 aliases:
   - Other names for this note. This is a list of strings.
 date: "{{date}}"
+enableToc: true
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
