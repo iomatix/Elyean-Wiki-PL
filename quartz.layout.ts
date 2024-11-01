@@ -59,7 +59,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Darkmode(),
-    Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(
       Component.NewestFiles({
         newestType: "published",
@@ -72,7 +71,6 @@ export const defaultContentPageLayout: PageLayout = {
         maxFiles: 4,
       })
     ),
-    Component.MobileOnly(Component.Spacer()),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
@@ -89,7 +87,6 @@ export const defaultListPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(
       Component.Explorer({
