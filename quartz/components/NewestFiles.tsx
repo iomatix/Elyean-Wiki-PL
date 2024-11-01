@@ -28,9 +28,10 @@ const NewestFiles: QuartzComponent = ({
   allFiles,
   displayClass,
   cfg,
+  inputOptions
 }: QuartzComponentProps) => {
-  // Use defaults if not in cfg
-  const options: Options = { ...defaultOptions, ...cfg }
+  // Use defaults if not in userOpts
+  const options: Options = { ...defaultOptions, ...inputOptions }
 
   // Validation of newestType, default = published
   const validNewestType = ["published", "modified", "created"].includes(options.newestType) ? options.newestType : "published"
@@ -68,4 +69,7 @@ const NewestFiles: QuartzComponent = ({
 }
 
 NewestFiles.css = style
-export default ((userOpts?: Partial<Options>) => NewestFiles) satisfies QuartzComponentConstructor
+export default ((userOpts?: Partial<Options>) => {
+  const options = { ...defaultOptions, ...userOpts };
+  return (props: QuartzComponentProps) => NewestFiles({ ...props, inputOptions: options });
+}) satisfies QuartzComponentConstructor;
