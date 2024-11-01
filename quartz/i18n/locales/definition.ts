@@ -27,6 +27,11 @@ export interface Translation {
       title: string
       noBacklinksFound: string
     }
+    newestFiles: {
+      title: string
+      noFilesFound: string
+
+    }
     themeToggle: {
       lightMode: string
       darkMode: string
