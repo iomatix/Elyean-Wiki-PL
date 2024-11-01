@@ -56,7 +56,7 @@ export default {
     },
     search: {
       title: "Szukaj",
-      searchBarPlaceholder: "Search for something",
+      searchBarPlaceholder: "Przeszukaj wiki w poszukiwaniu czegoś",
     },
     tableOfContents: {
       title: "Spis treści",

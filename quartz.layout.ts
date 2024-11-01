@@ -63,9 +63,9 @@ export const defaultContentPageLayout: PageLayout = {
         sortFn: customSortFn_filesFirst,
       })
     ),
+    Component.Darkmode(),
   ],
   right: [
-    Component.Darkmode(),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
