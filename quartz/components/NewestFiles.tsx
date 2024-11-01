@@ -11,9 +11,16 @@ const sortByDateDescending = (a: any, b: any) => {
   return dateB - dateA // Newest files first
 }
 
-interface NewestFilesProps extends QuartzComponentProps {
-    newestType: "published" | "modified" | "created";
-    maxFiles?: number;
+// Interface Declaration
+interface Options {
+  newestType: "published" | "modified" | "created"
+  maxFiles: number
+}
+
+// Default Interface Values
+const defaultOptions: Options = {
+  newestType: "published",
+  maxFiles: 5,
 }
 
 const NewestFiles: QuartzComponent = ({
@@ -21,22 +28,24 @@ const NewestFiles: QuartzComponent = ({
   allFiles,
   displayClass,
   cfg,
-  newestType,
-  maxFiles,
 }: QuartzComponentProps) => {
+  // Use defaults if not in cfg
+  const options: Options = { ...defaultOptions, ...cfg }
+
+  // Validation of newestType, default = published
+  const validNewestType = ["published", "modified", "created"].includes(options.newestType) ? options.newestType : "published"
+
+  // Validation of maxFiles, default = 5
+  const validMaxFiles = options.maxFiles > 0 ? options.maxFiles : 5
+
   // Sort all files by date and pick the top X newest files
   const newestFiles = allFiles
-    .filter((file) => fileData.dates?.[newestType as keyof typeof file.dates])
+    .filter((file) => fileData.dates?.[validNewestType as keyof typeof file.dates])
     .sort(sortByDateDescending)
-    .slice(0, (() => {
-      // Validation of maxFiles, default = 5
-      const validMaxFiles = maxFiles > 0 ? maxFiles : 5;
-      return validMaxFiles;
-    })())
+    .slice(0, validMaxFiles)
     
-  // Validation of newestType, default = published
-  const validNewestType = (newestType === "published" || newestType === "modified" || newestType === "created") ? newestType : "published";
-  
+
+
   return (
     <div class={classNames(displayClass, "newest-files")}>
       <h3>{i18n(cfg.locale).components.newestFiles.title[validNewestType as "published" | "modified" | "created"]}</h3>
@@ -59,4 +68,4 @@ const NewestFiles: QuartzComponent = ({
 }
 
 NewestFiles.css = style
-export default (() => NewestFiles) satisfies QuartzComponentConstructor
+export default ((userOpts?: Partial<Options>) => NewestFiles) satisfies QuartzComponentConstructor
