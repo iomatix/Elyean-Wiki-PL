@@ -6,14 +6,14 @@
   overflow-y: hidden;
 
   &.desktop-only {
-    @media all and not ($mobile) {
-      display: flex;
+    @media all and ($mobile) {
+      display: none;
     }
   }
 
   &.mobile-only {
-      @media all and not ($desktop) {
-        display: flex;
+      @media all and ($desktop) {
+        display: none;
    }
   }
 
