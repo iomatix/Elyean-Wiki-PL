@@ -18,7 +18,20 @@ const customSortFn_filesFirst = (a, b) => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.DesktopOnly(
+      Component.NewestFiles({
+        newestType: "published",
+        maxFiles: 3,
+      })
+    ),
+    Component.DesktopOnly(
+      Component.NewestFiles({
+        newestType: "modified",
+        maxFiles: 6,
+      })
+    ),
+  ],
   footer: Component.Footer({
     links: {
       PL: "https://iomatix.github.io/Elyean-Wiki-PL/",
@@ -34,18 +47,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.DesktopOnly(
-      Component.NewestFiles({
-        newestType: "published",
-        maxFiles: 3,
-      })
-    ),
-    Component.DesktopOnly(
-      Component.NewestFiles({
-        newestType: "modified",
-        maxFiles: 6,
-      })
-    ),
   ],
   left: [
     Component.PageTitle(),
