@@ -42,19 +42,43 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.Explorer({
         sortFn: customSortFn_filesFirst,
-        })
+      })
     ),
-    Component.NewestFiles({
-      newestType: "modified",
-      maxFiles: 3 }),
+    Component.DesktopOnly(
+      Component.NewestFiles({
+        newestType: "published",
+        maxFiles: 3,
+      })
+    ),
+    Component.DesktopOnly(
+      Component.NewestFiles({
+        newestType: "modified",
+        maxFiles: 6,
+      })
+    ),
   ],
   right: [
     Component.Darkmode(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(
+      Component.NewestFiles({
+        newestType: "published",
+        maxFiles: 3,
+      })
+    ),
+    Component.MobileOnly(
+      Component.NewestFiles({
+        newestType: "modified",
+        maxFiles: 4,
+      })
+    ),
+    Component.MobileOnly(Component.Spacer()),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 };
+
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {

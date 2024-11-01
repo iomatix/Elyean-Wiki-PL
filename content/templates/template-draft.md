@@ -1,14 +1,15 @@
 ---
+lang: pl-PL
 title: "{{title}}"
-draft: true
 tags:
   - tag-me
-description: Description of the page used for link previews.
 aliases:
   - Other names for this note. This is a list of strings.
 date: "{{date}}"
+description: Description of the page used for link previews.
 enableToc: true
-lang: pl-PL
+draft: true
+published: false
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
