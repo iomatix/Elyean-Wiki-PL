@@ -30,6 +30,7 @@ const NewestFiles: QuartzComponent = ({
   cfg,
   inputOptions
 }: QuartzComponentProps) => {
+
   // Use defaults if not in userOpts
   const options: Options = { ...defaultOptions, ...inputOptions }
   // Validation of newestType, default = published
@@ -63,6 +64,7 @@ const NewestFiles: QuartzComponent = ({
     </div>
   )
 }
+
 
 
 
