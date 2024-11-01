@@ -1,6 +1,19 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg";
 import * as Component from "./quartz/components";
 
+// sorting function, prioritaze files above directories
+const customSortFn_filesFirst = (a, b) => {
+  if ((!a.file && !b.file) || (a.file && b.file)) {
+    return a.displayName.localeCompare(b.displayName);
+  }
+  if (a.file && !b.file) {
+    return -1;
+  } else {
+    return 1;
+  }
+};
+
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -27,18 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(
-      Component.Explorer({
-        sortFn: (a, b) => {
-          if ((!a.file && !b.file) || (a.file && b.file)) {
-            return a.displayName.localeCompare(b.displayName);
-          }
-          if (a.file && !b.file) {
-            return -1;
-          } else {
-            return 1;
-          }
-        },
-      })
+      Component.Explorer(sortFn: customSortFn_filesFirst),
     ),
   ],
   right: [
@@ -61,18 +63,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(
-      Component.Explorer({
-        sortFn: (a, b) => {
-          if ((!a.file && !b.file) || (a.file && b.file)) {
-            return a.displayName.localeCompare(b.displayName);
-          }
-          if (a.file && !b.file) {
-            return -1;
-          } else {
-            return 1;
-          }
-        },
-      })
+      Component.Explorer(sortFn: customSortFn_filesFirst),
     ),
   ],
   right: [Component.Darkmode(),],
