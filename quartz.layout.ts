@@ -79,18 +79,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.DesktopOnly(
-      Component.NewestFiles({
-        newestType: "published",
-        maxFiles: 3,
-      })
-    ),
-    Component.DesktopOnly(
-      Component.NewestFiles({
-        newestType: "modified",
-        maxFiles: 6,
-      })
-    ),
   ],
   left: [
     Component.PageTitle(),
