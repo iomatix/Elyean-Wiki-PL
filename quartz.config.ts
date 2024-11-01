@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🦄 Elyean Wiki [PL]",
+    pageTitle: "🦄**Elyean** Wiki",
     pageTitleSuffix: "Elyean Projekt - Edycja Zero",
     enableSPA: true,
     enablePopovers: true,
