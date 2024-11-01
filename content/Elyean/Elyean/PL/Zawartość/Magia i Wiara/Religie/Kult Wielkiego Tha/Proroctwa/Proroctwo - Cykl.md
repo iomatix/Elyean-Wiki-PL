@@ -1,0 +1,1 @@
+proroctwo głosi, że wszechświat istnieje w cyklach, gdzie thatum rozdziela energia tworząc twórców, którzy tworzą mniejsze światy, a później jednoczy je, gdy nadejdzie czas

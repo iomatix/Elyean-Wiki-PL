@@ -1,0 +1,1 @@
+o tym, że należy przezwyciężyć strach przed końcem (jest nieuchronny i tak nadejdzie), przygotować się na jego  nadejście bo jest to nieuniknione
