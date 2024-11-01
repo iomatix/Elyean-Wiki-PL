@@ -1,7 +1,22 @@
 @use "../../styles/variables.scss" as *;
 
 .newest-files {
+  display: flex;
   flex-direction: column;
+  overflow-y: hidden;
+
+  &.desktop-only {
+    @media all and not ($mobile) {
+      display: flex;
+    }
+  }
+
+  &.mobile-only {
+      @media all and not ($desktop) {
+        display: flex;
+   }
+  }
+
   /*&:after {
       pointer-events: none;
       content: "";
