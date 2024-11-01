@@ -35,6 +35,7 @@ export {
   Explorer,
   TagList,
   Graph,
+  NewestFiles,
   Backlinks,
   Search,
   Footer,
