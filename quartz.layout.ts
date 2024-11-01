@@ -34,16 +34,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-  ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        sortFn: customSortFn_filesFirst,
-      })
-    ),
     Component.DesktopOnly(
       Component.NewestFiles({
         newestType: "published",
@@ -57,23 +47,21 @@ export const defaultContentPageLayout: PageLayout = {
       })
     ),
   ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.DesktopOnly(
+      Component.Explorer({
+        sortFn: customSortFn_filesFirst,
+      })
+    ),
+  ],
   right: [
     Component.Darkmode(),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.MobileOnly(
-      Component.NewestFiles({
-        newestType: "published",
-        maxFiles: 3,
-      })
-    ),
-    Component.MobileOnly(
-      Component.NewestFiles({
-        newestType: "modified",
-        maxFiles: 4,
-      })
-    ),
   ],
 };
 
@@ -84,6 +72,18 @@ export const defaultListPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.DesktopOnly(
+      Component.NewestFiles({
+        newestType: "published",
+        maxFiles: 3,
+      })
+    ),
+    Component.DesktopOnly(
+      Component.NewestFiles({
+        newestType: "modified",
+        maxFiles: 6,
+      })
+    ),
   ],
   left: [
     Component.PageTitle(),
