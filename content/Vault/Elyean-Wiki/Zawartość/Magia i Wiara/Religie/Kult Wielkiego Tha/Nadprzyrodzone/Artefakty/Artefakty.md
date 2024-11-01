@@ -4,4 +4,4 @@ Artefakty to potężne magiczne relikwie powiązane z obrzędami, wiarą lub tra
 ### Artefakty:
 - [[Wieczna Pieśń]]
 - [[Wieczny Płomień]]
-- [[Wieczna Ciemność]]
+- [[Wieczna Ciemność
