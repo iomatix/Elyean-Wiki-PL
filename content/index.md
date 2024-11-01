@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Witaj na Elyean Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+### Witaj na Elyean Wiki
+
+#### [Zajrzyj do skarbca wiedzy](Vault/Vault.md)
