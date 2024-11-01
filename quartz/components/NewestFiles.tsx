@@ -42,19 +42,19 @@ const NewestFiles: QuartzComponent = ({
 
   // Sort all files by date and pick the top X newest files
   const newestFiles = allFiles
-    .filter((file) => fileData.dates?.[validNewestType as keyof typeof file.dates])
+    .filter((file) => file.dates?.[validNewestType as keyof typeof file.dates])
     .sort(sortByDateDescending)
     .slice(0, validMaxFiles)
   
   return (
-    <div class={classNames(displayClass, "newest-files")}>
+    <div class={classNames(displayClass, "newestFiles")}>
       <h3>{i18n(cfg.locale).components.newestFiles.title[validNewestType as "published" | "modified" | "created"]}</h3>
       <ul class="overflow">
         {newestFiles.length > 0 ? (
-          newestFiles.map((f) => (
+          newestFiles.map((file) => (
             <li>
-              <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-              {f.frontmatter?.title} - {new Date(f.dates?.[validNewestType as keyof typeof f.dates] || new Date()).toLocaleString()}
+              <a href={resolveRelative(fileData.slug!, file.slug!)} class="internal">
+              {file.frontmatter?.title} - {new Date(file.dates?.[validNewestType as keyof typeof file.dates] || new Date()).toLocaleString()}
               </a>
             </li>
           ))
@@ -66,10 +66,8 @@ const NewestFiles: QuartzComponent = ({
   )
 }
 
-
+NewestFiles.css = style
 export default ((userOpts?: Partial<Options>) => {
   const options = { ...defaultOptions, ...userOpts }
-
-  NewestFiles.css = style
   return (props: QuartzComponentProps) => NewestFiles({ ...props, inputOptions: options })
 }) satisfies QuartzComponentConstructor
