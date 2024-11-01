@@ -12,31 +12,34 @@ const sortByDateDescending = (a: any, b: any) => {
 }
 
 interface NewestFilesProps extends QuartzComponentProps {
-    maxFiles?: number; // Add maxFiles as an optional prop
-  }
+    newestType: "published" | "modified" | "created";
+    maxFiles?: number;
+}
 
 const NewestFiles: QuartzComponent = ({
   fileData,
   allFiles,
   displayClass,
   cfg,
-  maxFiles = 5,
+  newestType = "published", // Use this prop to determine which date type to use
+  maxFiles = 5, // Default to 5 if not provided
 }: QuartzComponentProps) => {
   // Sort all files by date and pick the top X newest files
   const newestFiles = allFiles
-    .filter((file) => file.frontmatter?.date)
+    .filter((file) => fileData.dates?.[newestType as keyof typeof file.dates])
     .sort(sortByDateDescending)
     .slice(0, maxFiles)
 
   return (
     <div class={classNames(displayClass, "newest-files")}>
-      <h3>{i18n(cfg.locale).components.newestFiles.title}</h3>
+      <h3>{i18n(cfg.locale).components.newestFiles.title[newestType as "published" | "modified" | "created"]}</h3>
+
       <ul class="overflow">
         {newestFiles.length > 0 ? (
           newestFiles.map((f) => (
             <li key={f.slug}>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-                {f.frontmatter?.title} - {new Date(f.frontmatter?.date).toLocaleDateString()}
+              {f.frontmatter?.title} - {new Date(f.dates?.[newestType as keyof typeof f.dates] || new Date()).toLocaleDateString()}
               </a>
             </li>
           ))

@@ -8,6 +8,7 @@ aliases:
   - Other names for this note. This is a list of strings.
 date: "{{date}}"
 enableToc: true
+lang: pl-PL
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)

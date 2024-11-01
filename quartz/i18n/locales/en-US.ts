@@ -21,6 +21,14 @@ export default {
       example: "Example",
       quote: "Quote",
     },
+    newestFiles: {
+      title: {
+        published: "Newest Published Files",
+        modified: "Newest Modified Files",
+        created: "Newest Created Files",
+      },
+      noFilesFound: "No new files has been found",
+    },
     backlinks: {
       title: "Backlinks",
       noBacklinksFound: "No backlinks found",
