@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pl-PL",
-    baseUrl: "iomatix.github.io/Elyean-Wiki-PL",
+    baseUrl: "iomatix.github.io/Elyean-Wiki-PL/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
