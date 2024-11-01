@@ -50,13 +50,12 @@ const NewestFiles: QuartzComponent = ({
   return (
     <div class={classNames(displayClass, "newest-files")}>
       <h3>{i18n(cfg.locale).components.newestFiles.title[validNewestType as "published" | "modified" | "created"]}</h3>
-
       <ul class="overflow">
         {newestFiles.length > 0 ? (
           newestFiles.map((f) => (
             <li key={f.slug}>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-              {f.frontmatter?.title} - {new Date(f.dates?.[validNewestType as keyof typeof f.dates] || new Date()).toLocaleDateString()}
+              {f.frontmatter?.title} - {new Date(f.dates?.[validNewestType as keyof typeof f.dates] || new Date()).toLocaleString()}
               </a>
             </li>
           ))
