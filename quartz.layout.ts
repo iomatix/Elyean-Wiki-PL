@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg";
 import * as Component from "./quartz/components";
 
-// sorting function, prioritaze files above directories
+// Sorting function to prioritize files above directories
 const customSortFn_filesFirst = (a, b) => {
   if ((!a.file && !b.file) || (a.file && b.file)) {
     return a.displayName.localeCompare(b.displayName);
@@ -40,7 +40,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(
-      Component.Explorer(sortFn: customSortFn_filesFirst),
+      Component.Explorer({
+        sortFn: customSortFn_filesFirst,
+      })
     ),
   ],
   right: [
@@ -63,7 +65,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(
-      Component.Explorer(sortFn: customSortFn_filesFirst),
+      Component.Explorer({
+        sortFn: customSortFn_filesFirst,
+      })
     ),
   ],
   right: [Component.Darkmode(),],
