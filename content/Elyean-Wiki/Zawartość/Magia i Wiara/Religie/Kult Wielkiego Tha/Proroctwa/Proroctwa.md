@@ -17,7 +17,8 @@ published: false
 
 Proroctwa to przepowiednie głoszone przez wiernych wyznawców, stanowiąc osobliwą doktrynę każdej z religii.
 
-### Spis Przepowiedni:
+## Spis Przepowiedni
+
 - [[Proroctwo - Początek]]
 - [[Proroctwo - Zamęt]]
 - [[Proroctwo - Sanktuarium]]
@@ -27,6 +28,7 @@ Proroctwa to przepowiednie głoszone przez wiernych wyznawców, stanowiąc osobl
 - [[Proroctwo - Odrodzenie]]
 - [[Proroctwo - Odkupienie]]
 - [[Proroctwo - Cykl]]
+
 
 ## Początek
 
