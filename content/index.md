@@ -3,12 +3,10 @@ lang: pl-PL
 title: Elyean Wiki
 tags:
   - index
-aliases:
-  - Strona Główna
-  - Index
+aliases: []
 date: 02-11-2024
 description: Witaj na Elyean Wiki
-enableToc: true
+enableToc: false
 draft: false
 published: false
 ---
