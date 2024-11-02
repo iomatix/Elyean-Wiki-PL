@@ -13,7 +13,7 @@ draft: false
 published: false
 ---
 
-Gdy nieugięta ciemność zwycięży, a wszechbyt ponownie zdobyty przez [[Wszechmrok - Omniatene|Wszechmrok]] zostanie, a [[ten o wielu twarzach]] opuści swoje sanktuarium – nadejdzie koniec.
+Gdy nieugięta ciemność zwycięży, a Wszechistnienie ponownie zdobyty przez [[Wszechmrok - Omniatene|Wszechmrok]] zostanie, a [[ten o wielu twarzach]] opuści swoje sanktuarium – nadejdzie koniec.
 
 Tylko jeden się ostanie. [[Elyean-Wiki/Zawartość/Magia i Wiara/Wiedza/Domena.md|Bastion]], należący do dzierżącego [[Wieczny Płomień]], a wszystko, co zostało dotychczas stworzone przez [[Twórcy|Twórców]], pochłonie nieskończona ciemność. 
 

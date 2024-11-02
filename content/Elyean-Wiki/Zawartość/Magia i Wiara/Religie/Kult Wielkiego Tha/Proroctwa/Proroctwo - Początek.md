@@ -12,7 +12,7 @@ enableToc: false
 draft: false
 published: false
 ---
-[[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Potępieni/Wszechmrok - Omniatene.md|Pradawna Ciemność]] władzę sprawuje, a bezkres mroku Wszechbyt ogarnia.
+[[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Potępieni/Wszechmrok - Omniatene.md|Pradawna Ciemność]] władzę sprawuje, a bezkres mroku Wszechistnienie ogarnia.
 
 Jednak, gdy prawo wiecznej nocy uchyli się ku końcowi, nastanie chaos, czekający na swe przebudzenie od zarania istnienia – prastary i nieskończony. Tętniący barwami energii, pulsujących życiem w tanecznym szale, które przyciągają się i odpychają.
 

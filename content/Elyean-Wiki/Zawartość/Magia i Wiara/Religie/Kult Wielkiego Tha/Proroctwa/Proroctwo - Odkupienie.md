@@ -2,7 +2,8 @@
 lang: pl-PL
 title: Proroctwo - Odkupienie
 tags:
-  - tag-me
+  - prophecy
+  - cult-of-tha
 aliases:
   - prophecy - retribution
 date: 02-11-2024
@@ -11,6 +12,9 @@ enableToc: false
 draft: false
 published: false
 ---
-[[Ten o wielu twarzach - Thatum|Thatum]]
+Zarówno [[Twórcy]], jak i [[Ten o wielu twarzach - Thatum|Thatum]], znają opowieść każdej cząstki energii będącej ich częścią. 
+W cząstkach tych spisana została historia Wszechistnienia.
 
-wyznawcy thatuma zostaną odkupieni i nagrodzeni, jako ze thatum zna historie kazdej czastki energii (poniewaz sa jego czescia teraz) bedzie wiedzial kto jest kto - stworzy ponownie stworcow i koło się zatoczy bo jest to naturalny cykl wszechświata zmierzając ku kierunku proroctwa początek
+Gdy tylko [[Wielki Stwórca - Tha|Tha]] odzyska świadomość i stoczy bój z [[Wszechmrok - Omniatene|Omniatene]], połączy wszystkie utracone cząstki istnienia, w różnobarwną całość – przywracając Wszechistnienie do jej pierwotnego stanu.
+
+W kolejnym cyklu nagrodzi swoich wiernych, aby dołączyli do niego, jako nowi Twórcy.
