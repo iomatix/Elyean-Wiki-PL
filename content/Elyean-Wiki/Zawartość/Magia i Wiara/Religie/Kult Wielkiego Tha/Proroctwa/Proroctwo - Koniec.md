@@ -7,7 +7,7 @@ tags:
 aliases:
   - prophecy - the end
 date: 02-11-2024
-description: Notatka zawierająca część treści proroctwa związanego z Kultem Wielkiego Tha.
+description: Fragment notatki zawierającej część treści proroctwa związanego z Kultem Wielkiego Tha.
 enableToc: false
 draft: false
 published: false
