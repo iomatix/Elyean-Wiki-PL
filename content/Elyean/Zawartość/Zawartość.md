@@ -11,4 +11,4 @@ enableToc: false
 draft: false
 published: false
 ---
-- [[Elyean-Wiki/Zawartość|Eksploruj Zawartość]]
+- [[Elyean/Zawartość|Eksploruj Zawartość]]

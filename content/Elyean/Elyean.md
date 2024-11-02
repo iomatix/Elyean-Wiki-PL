@@ -1,3 +1,3 @@
 
-[[Elyean-Wiki/Księgi|Eksploruj księgi i podręczniki]]
-[[Elyean-Wiki/Zawartość|Eksploruj Zawartość]]
+[[Elyean/Księgi|Eksploruj księgi i podręczniki]]
+[[Elyean/Zawartość|Eksploruj Zawartość]]

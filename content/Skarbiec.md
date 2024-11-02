@@ -19,11 +19,11 @@ enableToc: true
 draft: false
 published: false
 ---
-- [[Elyean-Wiki/Zawartość]]
-	- [[Elyean-Wiki/Zawartość/Magia i Wiara]]
-	- [[Elyean-Wiki/Zawartość/Przedmioty]]
-	- [[Elyean-Wiki/Zawartość/Przygoda]]
-	- [[Elyean-Wiki/Zawartość/Środowisko]]
-	- [[Elyean-Wiki/Zawartość/Struktury]]
-	- [[Elyean-Wiki/Zawartość/Tryb Strategiczny]]
-- [[Elyean-Wiki/Księgi]]
+- [[Elyean/Zawartość]]
+	- [[Elyean/Zawartość/Magia i Wiara]]
+	- [[Elyean/Zawartość/Przedmioty]]
+	- [[Elyean/Zawartość/Przygoda]]
+	- [[Elyean/Zawartość/Środowisko]]
+	- [[Elyean/Zawartość/Struktury]]
+	- [[Elyean/Zawartość/Tryb Strategiczny]]
+- [[Elyean/Księgi]]
