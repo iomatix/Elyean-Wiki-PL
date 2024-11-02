@@ -13,7 +13,7 @@ draft: false
 published: false
 ---
 
-## [[Kult Wielkiego Tha]] — Proroctwa
+# [[Kult Wielkiego Tha]] — Proroctwa
 
 Proroctwa to przepowiednie głoszone przez wiernych wyznawców, stanowiąc osobliwą doktrynę każdej z religii.
 
