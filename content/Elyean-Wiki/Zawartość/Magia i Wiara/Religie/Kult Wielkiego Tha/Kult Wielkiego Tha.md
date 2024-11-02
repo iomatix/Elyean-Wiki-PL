@@ -25,7 +25,7 @@ Następnie przywróci świat do jego oryginalnego stanu, stając się jedności�
 Istnieją przypuszczenia, że obrzędy wyznawców tej religii są oparte na wierzeniach i tradycjach ludów starożytnych.
 ### Rozdziały:
 - [[Proroctwa]]
-- [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone|Nadprzyrodzone]]
+- [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone|Nadprzyrodzone]]
 - [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Postacie/Postacie|Postacie]]
 
 
