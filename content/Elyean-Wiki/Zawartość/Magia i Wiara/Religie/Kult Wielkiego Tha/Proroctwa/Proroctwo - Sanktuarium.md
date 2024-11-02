@@ -15,7 +15,7 @@ published: false
 Taniec barw wytraca swą prędkość, a odległości między światami stają się coraz większe, zacierając granicę między światłem a ciemnością.
 Nadchodzi dzień, w którym Pieśń [[Wielki Stwórca - Tha|Tha]] ucichnie, a on sam pozostanie jedynie jednobarwną plamą, zamkniętą w samotnym więzieniu, otoczoną przez [[Wszechmrok - Omniatene|Wszechmrok]].
 
-Tak, albowiem [[Ten o wielu twarzach - Thatum|Thatum o wielu twarzach]] powstanie, a jego szaleństwo nieuchronnie pogrąży wszechbyt w ciemności ponownie. Dlatego to [[Twórcy|Twórcy]] połączą swe siły, aby oddzielić raz na zawsze Ciemność od Mroku. 
+Tak, albowiem [[Ten o wielu twarzach - Thatum|ten o wielu twarzach]] powstanie, a jego szaleństwo nieuchronnie pogrąży wszechbyt w ciemności ponownie. Dlatego to [[Twórcy|Twórcy]] połączą swe siły, aby oddzielić raz na zawsze Ciemność od Mroku. 
 
 Za pomocą darów, otrzymanych od stwórcy swego, stworzą [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Artefakty/Wieczne Sanktuarium.md|Sanktuarium]], do którego Wszechmrok nie może mieć dostępu, a pieczę nad wejściem będzie sprawował Twórca niosący [[Wieczny Płomień]]. 
 

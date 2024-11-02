@@ -1,6 +1,24 @@
-Thatum wydostaje się z więzienia, Wszechmrok przejmuje nad nim kontrolę
+---
+lang: pl-PL
+title: Proroctwo - Koniec
+tags:
+  - prophecy
+  - cult-of-tha
+aliases:
+  - prophecy - the end
+date: 02-11-2024
+description: Notatka zawierająca część treści proroctwa związanego z Kultem Wielkiego Tha.
+enableToc: false
+draft: false
+published: false
+---
 
-zwycięży Wszechmrok i pochłonie wszystkie światy z wyjątkiem jednego (świata posiadającego płomień).
+Gdy nieugięta ciemność zwycięży, a wszechbyt ponownie zdobyty przez [[Wszechmrok - Omniatene|Wszechmrok]] zostanie, a [[ten o wielu twarzach]] opuści swoje sanktuarium – nadejdzie koniec.
 
-Wszechmrok chce aby Thatum odebrał i zniszczył płomień - który jest w ostatnim świecie, ODZYSKUJE PŁOMIEŃ - koniec tego next
+Tylko jeden się ostanie. [[Elyean-Wiki/Zawartość/Magia i Wiara/Wiedza/Domena.md|Bastion]], należący do dzierżącego [[Wieczny Płomień]], a wszystko, co zostało dotychczas stworzone przez [[Twórcy|Twórców]], pochłonie nieskończona ciemność. 
+
+To w tej domenie Thatum, będzie musiał uzyskać uznanie.
+Jego zadaniem pożreć zdrajcę i zniszczyć Płomień raz na zawsze, w imieniu Omniatene. 
+
+Albowiem [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Wielki Stwórca - Tha.md|On]] nadchodzi, a wraz z nim koniec.
 
