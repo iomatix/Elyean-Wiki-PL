@@ -16,7 +16,6 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pl-PL",
-    dateFormat: 'DD MM YYYY HH:mm',
     baseUrl: "iomatix.github.io/Elyean-Wiki-PL/",
     ignorePatterns: ["private", "templates", "assets", "Excalidraw", "Tags", ".obsidian"],
     defaultDateType: "modified",
