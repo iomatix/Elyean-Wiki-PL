@@ -1,6 +1,6 @@
 ---
 lang: pl-PL
-title: Wieczna Pieśń
+title: Wszechistnienie - Omnisum
 tags:
   - tag-me
   - todo
@@ -12,4 +12,6 @@ draft: true
 published: false
 ---
 
+
 TODO
+Czy iść w kierunku dodatkowego bóstwa/bytu magicznego / czy pozostawić miejscem?

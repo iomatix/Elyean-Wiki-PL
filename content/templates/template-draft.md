@@ -3,6 +3,7 @@ lang: pl-PL
 title: "{{title}}"
 tags:
   - tag-me
+  - todo
 aliases:
   - Other names for this note. This is a list of strings.
 date: "{{date}}"

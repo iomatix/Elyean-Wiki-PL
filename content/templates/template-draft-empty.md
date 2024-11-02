@@ -1,15 +1,13 @@
 ---
 lang: pl-PL
-title: Wieczna Pieśń
+title: "{{title}}"
 tags:
   - tag-me
   - todo
 aliases: 
-date: 02-11-2024
+date: "{{date}}"
 description: 
 enableToc: true
 draft: true
 published: false
 ---
-
-TODO
