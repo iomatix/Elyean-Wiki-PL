@@ -15,6 +15,6 @@ published: false
 Zarówno [[Twórcy]], jak i [[Ten o wielu twarzach - Thatum|Thatum]], znają opowieść każdej cząstki energii będącej ich częścią. 
 W cząstkach tych spisana została historia Wszechistnienia.
 
-Gdy tylko [[Wielki Stwórca - Tha|Tha]] odzyska świadomość i stoczy bój z [[Wszechmrok - Omniatene|Omniatene]], połączy wszystkie utracone cząstki istnienia, w różnobarwną całość – przywracając Wszechistnienie do jej pierwotnego stanu.
+Gdy tylko [[Wielki Stwórca - Tha|Tha]] odzyska świadomość i stoczy bój z [[Wszechmrok - Omniatene|Omniatene]], połączy wszystkie utracone cząstki istnienia, w różnobarwną całość – przywracając Wszechistnienie do jego pierwotnego stanu.
 
 W kolejnym cyklu nagrodzi swoich wiernych, aby dołączyli do niego, jako nowi Twórcy.

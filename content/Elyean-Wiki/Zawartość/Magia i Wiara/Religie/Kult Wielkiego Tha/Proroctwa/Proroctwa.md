@@ -4,6 +4,7 @@ title: Proroctwa
 tags:
   - cult-of-tha
   - prophecy
+  - collection
 aliases:
   - prophecies
 date: 02-11-2024

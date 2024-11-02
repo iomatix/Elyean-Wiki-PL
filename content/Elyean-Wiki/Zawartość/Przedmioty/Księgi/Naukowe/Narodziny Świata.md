@@ -26,7 +26,7 @@ Dzięki Elurze możemy leczyć chorych, lecz to Belhios pozwala przywracać do �
 
 Magia tej dwójki wykracza poza konwencjonalne dziedziny, a ich moce są uosobieniem drogi, przez którą toczą się nasze życia. Gdy nadejdzie czas, to właśnie oni zdecydują o losie naszych dusz, gdy nasze ciała ostatecznie przeminą.
 
-Na czele całego kolegium Strażników stoi **[[Strażnik Równowagi - Rhaet|Rhaet]]**, reprezentujący **Krąg Równowagi**. Arbiter i rozjemca, który podejmuje fundamentalne decyzje w celu utrzymania naturalnego porządku wszechistnienia. Rhaet obdarza nas mocą wpływania na przyrodę, komunikowania się z naturą oraz przekształcania naszych ciał na podobieństwo dzikich stworzeń.
+Na czele całego kolegium Strażników stoi **[[Strażnik Równowagi - Rhaet|Rhaet]]**, reprezentujący **Krąg Równowagi**. Arbiter i rozjemca, który podejmuje fundamentalne decyzje w celu utrzymania naturalnego porządku we Wszechistnieniu. Rhaet obdarza nas mocą wpływania na przyrodę, komunikowania się z naturą oraz przekształcania naszych ciał na podobieństwo dzikich stworzeń.
 
 Poza Siedmioma Strażnikami znajdują się również dwie istotne postaci: **[[Patronka Pieczy - Manthisa|Manthisa]]**, wybrana przez Aurorę na patronkę pieczy, łącząca nas bezpośrednio z Matką Stworzenia, oraz **[[Patron Arcanum - Arcon|Arcona]]**, patron Arcanum, który jako wierny sługa Aurory pełni funkcję katalizatora i przekaźnika jej mocy, a także mocy samych Strażników.
 
