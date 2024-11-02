@@ -2,7 +2,8 @@
 lang: pl-PL
 title: Proroctwa
 tags:
-  - tag-me
+  - cult-of-tha
+  - prophecy
 aliases:
   - prophecies
 date: 02-11-2024
