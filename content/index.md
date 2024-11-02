@@ -8,8 +8,8 @@ aliases:
   - Index
 date: 02-11-2024
 description: Witaj na Elyean Wiki
-enableToc: false
-draft: true
+enableToc: true
+draft: false
 published: false
 ---
 ## Strona jest w trakcie budowy
