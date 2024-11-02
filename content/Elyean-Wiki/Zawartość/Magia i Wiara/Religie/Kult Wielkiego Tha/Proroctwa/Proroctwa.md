@@ -12,7 +12,7 @@ draft: false
 published: false
 ---
 
-## [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha ]]— Proroctwa
+## [[Kult Wielkiego Tha]] — Proroctwa
 
 Proroctwa to przepowiednie głoszone przez wiernych wyznawców, stanowiąc osobliwą doktrynę każdej z religii.
 
