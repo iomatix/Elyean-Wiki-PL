@@ -12,7 +12,7 @@ title: Skarbiec
 tags:
   - vault
 aliases:
-  - Other names for this note. This is a list of strings.
+  - vault
 date: 02-11-2024
 description: Description of the page used for link previews.
 enableToc: true

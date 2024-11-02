@@ -7,9 +7,8 @@ import { classNames } from "../util/lang"
 
 // Helper function to sort files by date
 const sortByDateDescending = (a: any, b: any) => {
-  const dateA = getDate(cfg, fileData)!, cfg.locale).getTime()
-  new Date(a.frontmatter?.date || 0).getTime()
-  const dateB = new Date(b.frontmatter?.date || 0).getTime()
+  const dateA = new Date(a.date || 0).getTime()
+  const dateB = new Date(b.date || 0).getTime()
   return dateB - dateA // Newest files first
 }
 
@@ -35,8 +34,8 @@ const NewestFiles: QuartzComponent = ({
 
   // Use defaults if not in userOpts
   const options: Options = { ...defaultOptions, ...inputOptions }
-  // Validation of newestType, default = published
-  const validNewestType = ["published", "modified", "created"].includes(options.newestType) ? options.newestType : "published"
+  // Validation of newestType, default = cfg default DataType
+  const validNewestType = ["published", "modified", "created"].includes(options.newestType) ? options.newestType : cfg.defaultDateType
 
   // Validation of maxFiles, default = 5
   const validMaxFiles = options.maxFiles > 0 ? options.maxFiles : 5
@@ -55,9 +54,7 @@ const NewestFiles: QuartzComponent = ({
           newestFiles.map((file) => (
             <li>
               <a href={resolveRelative(fileData.slug!, file.slug!)} class="internal">
-              {file.frontmatter?.title} - {formatDate(getDate(cfg, fileData)!, cfg.locale)}
-              
-              {new Date(file.dates?.[validNewestType as keyof typeof file.dates] || new Date()).toLocaleString()}
+              {file.frontmatter?.title} - {formatDate((file.dates?.[validNewestType as keyof typeof file.dates] || new Date(0)), cfg.locale)}
               </a>
             </li>
           ))
