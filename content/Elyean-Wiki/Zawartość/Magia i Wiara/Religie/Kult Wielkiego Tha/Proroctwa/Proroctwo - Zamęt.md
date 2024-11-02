@@ -15,7 +15,7 @@ published: false
 Gdy taniec barw nabierze pędu, a [[Wielki Stwórca - Tha]] zatraci się w labiryncie własnych myśli, wędrując po nim w rytmie [[Wieczna Pieśń|pieśni bez końca]], której każda kolejna nuta stanie się nowym [[Twórcy|Twórcą]], a wyglądać to będzie niczym rozdarty horyzont, na którym światło spotyka cień. 
 
 Ten stan trwać ma, a jednocześnie unosić się – dryfować przez przestrzeń i czas.
-[[Wszechmrok - Omniatene|Wszechmrok]] przepełni niepokój, jakby samo istnienie wypalało jego świadomość. 
+[[Wszechmrok - Omniatene|Wszechmrok]] przepełnia niepokój, jakby samo istnienie wypalało jego świadomość. 
 
 Wielki Tha, w swej mądrości, obdarzy swoje dzieci darami, albowiem poznał zarówno przeszłość, jak i przyszłość.
 Wie on, że z każdą minioną chwilą, jego obecność słabnąć będzie, a istota istnienia zaniknie.

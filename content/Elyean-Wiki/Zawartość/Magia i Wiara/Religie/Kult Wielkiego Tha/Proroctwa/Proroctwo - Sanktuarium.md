@@ -2,7 +2,8 @@
 lang: pl-PL
 title: Proroctwo - Pieczęć
 tags:
-  - tag-me
+  - prophecy
+  - cult-of-tha
 aliases:
   - prophecy - sanctuary
 date: 02-11-2024
@@ -16,8 +17,8 @@ Nadchodzi dzień, w którym Pieśń [[Wielki Stwórca - Tha|Tha]] ucichnie, a on
 
 Tak, albowiem [[Ten o wielu twarzach - Thatum|Thatum o wielu twarzach]] powstanie, a jego szaleństwo nieuchronnie pogrąży wszechbyt w ciemności ponownie. Dlatego to [[Twórcy|Twórcy]] połączą swe siły, aby oddzielić raz na zawsze Ciemność od Mroku. 
 
-Za pomocą darów otrzymanych od stwórcy swego, stworzą Sanktuarium, do którego Wszechmrok nie będzie mieć dostępu, a pieczę nad wejściem będzie sprawował niosący [[Wieczny Płomień]]. 
+Za pomocą darów, otrzymanych od stwórcy swego, stworzą [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Artefakty/Wieczne Sanktuarium.md|Sanktuarium]], do którego Wszechmrok nie może mieć dostępu, a pieczę nad wejściem będzie sprawował Twórca niosący [[Wieczny Płomień]]. 
 
-To w tym Sanktuarium Thatum na zawsze pozostanie, a krzyk jego przenikać będzie przez wszystkie światy.
+To w tym Sanktuarium Thatum na zawsze pozostanie, a krzyk jego przenikać będzie przez wszystkie światy i pozostawi na nich piętno.
 
 
