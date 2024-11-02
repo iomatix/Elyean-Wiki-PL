@@ -1,3 +1,17 @@
+---
+lang: pl-PL
+title: Panteon Siedmiu Strażników
+tags:
+  - tag-me
+  - todo
+aliases: 
+date: 02-11-2024
+description: 
+enableToc: true
+draft: true
+published: false
+---
+
 TODO: + odnieść się do Genezy (księga)
 W naszych wierzeniach, Aurora jest uznawana nie tylko za źródło wszelkiej magii, czy inkarnację nieskończonej mądrości, lecz również za matkę stworzenia.
 

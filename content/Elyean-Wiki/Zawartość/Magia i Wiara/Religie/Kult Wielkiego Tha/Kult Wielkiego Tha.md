@@ -9,11 +9,11 @@ aliases:
   - cult of the father tha
 date: 02-11-2024
 description: Strona dotycząca religii znanej jako Kult Wielkiego Tha.
-enableToc: false
+enableToc: true
 draft: false
 published: false
 ---
-## Kult Wielkiego Tha
+# Kult Wielkiego Tha
 
 Wyznawcy kultu czczą [[Wielki Stwórca - Tha|Wielkiego Stwórcę Tha]], wyczekując jego powrotu.  Wierzą, że gdy [[Ten o wielu twarzach - Thatum|Thatum]]wydostanie się ze swojego [[Mroczny Wymiar|więzienia]], odrodzi się i odbierze skradziony przed eonami [[Wieczny Płomień]]. 
 
@@ -23,7 +23,9 @@ Następnie przywróci świat do jego oryginalnego stanu, stając się jedności�
 [[Proroctwa|Proroctwo]] głosi, że Thatum zakończy obecny porządek rzeczy i przyniesie odkupienie wszelkim bytom, a jego szczerzy wyznawcy zostaną nagrodzeni, aby następnie dołączyć do kręgu [[Twórcy|Twórców]] podczas następnego cyklu wszechświata.
 
 Istnieją przypuszczenia, że obrzędy wyznawców tej religii są oparte na wierzeniach i tradycjach ludów starożytnych.
-### Rozdziały:
+
+## Dostępne artykuły
+
 - [[Proroctwa]]
 - [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone|Nadprzyrodzone]]
 - [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Postacie/Postacie|Postacie]]
