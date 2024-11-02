@@ -17,7 +17,7 @@ Nadchodzi dzień, w którym Pieśń [[Wielki Stwórca - Tha|Tha]] ucichnie, a on
 
 Tak, albowiem [[Ten o wielu twarzach - Thatum|ten o wielu twarzach]] powstanie, a jego szaleństwo nieuchronnie pogrąży Wszechistnienie w ciemności ponownie. Dlatego to [[Twórcy|Twórcy]] połączą swe siły, aby oddzielić raz na zawsze Ciemność od Mroku. 
 
-Za pomocą darów, otrzymanych od stwórcy swego, stworzą [[Elyean-Wiki/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Artefakty/Wieczne Sanktuarium.md|Sanktuarium]], do którego Wszechmrok nie może mieć dostępu, a pieczę nad wejściem będzie sprawował Twórca niosący [[Wieczny Płomień]]. 
+Za pomocą darów, otrzymanych od stwórcy swego, stworzą [[Wieczne Sanktuarium|Sanktuarium]], do którego Wszechmrok nie może mieć dostępu, a pieczę nad wejściem będzie sprawował Twórca niosący [[Wieczny Płomień]]. 
 
 To w tym Sanktuarium Thatum na zawsze pozostanie, a krzyk jego przenikać będzie przez wszystkie światy i pozostawi na nich piętno.
 
