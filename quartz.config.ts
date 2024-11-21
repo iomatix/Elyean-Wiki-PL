@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "iomatix.github.io/Elyean-Wiki-PL/",
     ignorePatterns: ["dev", "private", "templates", "assets", "Jira", "Excalidraw", "Tags", ".obsidian"],
     defaultDateType: "published",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
