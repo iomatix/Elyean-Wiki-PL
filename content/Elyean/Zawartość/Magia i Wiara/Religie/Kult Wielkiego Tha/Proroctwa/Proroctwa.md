@@ -16,7 +16,9 @@ published: false
 
 # [[Kult Wielkiego Tha]] — Proroctwa
 
-Proroctwa to przepowiednie głoszone przez wiernych wyznawców, stanowiąc osobliwą doktrynę każdej z religii.
+Proroctwa to przepowiednie głoszone przez wiernych wyznawców – stanowią **osobliwą doktrynę** każdej religii, nadając jej unikalny kształt i sens.
+
+Kultyści nazywają **zbiór proroctw** „**Hymnem Istnienia**”, a niektóre teksty określają mianem „**Hymnów Upadku**”.
 
 ## Spis Przepowiedni
 

@@ -17,7 +17,7 @@ Gdy taniec barw nabierze pędu, a [[Wielki Stwórca - Tha]] zatraci się w labir
 Ten stan trwać ma, a jednocześnie unosić się – dryfować przez przestrzeń i czas.
 [[Wszechmrok - Omniatene|Wszechmrok]] przepełnia niepokój, jakby samo istnienie wypalało jego świadomość. 
 
-Wielki Tha, w swej mądrości, obdarzy swoje dzieci darami, albowiem poznał zarówno przeszłość, jak i przyszłość. Wie on, że z każdą minioną chwilą, jego obecność słabnąć będzie, a istota istnienia zaniknie.
+***Wielki Tha, w swej mądrości, obdarzy swoje dzieci darami, albowiem poznał zarówno przeszłość, jak i przyszłość. Wie on, że z każdą minioną chwilą, jego obecność słabnąć będzie, a istota istnienia zaniknie.***
 
 Wśród niezliczonych darów, które przepływają przez czas, istnieją trzy, które za każdym razem zmienią oblicze wszechświata.
 - [[Wieczny Płomień|Wieczny Płomień]], który rozproszy nienawidzący życia Wszechmrok, niejednokrotnie ocali istnienie, nadając Twórcom moc władania nad istotami i tchnienia życia w światy niezliczone.

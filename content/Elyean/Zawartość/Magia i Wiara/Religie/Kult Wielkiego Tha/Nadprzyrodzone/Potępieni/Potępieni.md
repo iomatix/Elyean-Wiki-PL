@@ -20,5 +20,5 @@ Potępieni to wszelkie byty magiczne, które są antagonizowane przez religię l
 
 ## Kompendium Bytów Potępionych
 
-- [[Ten o wielu twarzach - Thatum]]
+- [[Ten o Wielu Twarzach - Thatum]]
 - [[Wszechmrok - Omniatene]]

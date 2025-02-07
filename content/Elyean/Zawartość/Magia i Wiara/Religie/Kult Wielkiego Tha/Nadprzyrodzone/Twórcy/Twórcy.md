@@ -21,4 +21,4 @@ Twórcy to potężne byty magiczne stworzone z energii [[Wielki Stwórca - Tha|T
 
 - [[Gasnący - Wyrvgarth]]
 - [[Zdrajczyni - Aurora]]
-- [[ Władczyni Echa i Formy - Eliastre]]
+- [[Władczyni Echa i Formy - Eliastre]]

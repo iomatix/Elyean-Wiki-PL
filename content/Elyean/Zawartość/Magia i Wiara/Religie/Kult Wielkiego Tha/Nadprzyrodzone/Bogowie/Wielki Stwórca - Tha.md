@@ -2,8 +2,8 @@
 lang: pl-PL
 title: Wielki Stwórca - Tha
 tags:
-  - tag-me
-  - todo
+  - gods
+  - cult-of-tha
 aliases: 
 date: 02-11-2024
 description: 

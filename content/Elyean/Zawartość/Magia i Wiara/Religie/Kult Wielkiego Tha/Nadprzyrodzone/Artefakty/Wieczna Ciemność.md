@@ -2,15 +2,20 @@
 lang: pl-PL
 title: Wieczna Ciemność
 tags:
-  - tag-me
-  - todo
+  - artifacts
+  - cult-of-tha
+  - crystal
 aliases: 
 date: 02-11-2024
 description: 
-enableToc: true
-draft: true
-published: false
+enableToc: false
+draft: false
+published: true
 ---
+*„Czyńcie z niej tarczę lub miecz, lecz pamiętajcie: nawet cień rzucony przez płomień może wzniecić pożar”*. 
 
-TODO
-TODO
+Artefakt zwany **Lustrem Próżni** – nieprzenikniony kryształ, który pochłania dźwięk, pamięć, a w odpowiednich rękach – wszelką energię.
+Według legend może zarówno **scalić pęknięcia w [[Wszechistnienie - Omnisum|tkance istnienia]]jak i rozerwać ją na strzępy**, tworząc bezładny wir drążący dziurę w rzeczywistości.
+
+Kapłani Tha wierzyli, że jest to narzędzie równowagi – *”Kamień ten niesie chłód, który gasi pożary pychy, i ciszę, w której zaklęty jest głos pierwszych gwiazd.”*. 
+Jednakże w [[Proroctwa|Hymnach Upadku]]ostrzegano : *”… a gdy Ciemność nasyci się światłem, wyda na świat coś, co światłem nie jest”*.

@@ -17,8 +17,10 @@ published: false
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Artefakty
 
 Artefakty to potężne magiczne relikwie powiązane z obrzędami, wiarą lub tradycją religii.
+
 ## Kompendium Artefaktów
 
 - [[Wieczna Pieśń]]
 - [[Wieczny Płomień]]
 - [[Wieczna Ciemność]]
+- [[Pieczęć Wiecznego Sanktuarium]]

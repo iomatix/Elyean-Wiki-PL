@@ -18,4 +18,4 @@ Jednak, gdy prawo wiecznej nocy uchyli się ku końcowi, nastanie chaos, czekaj�
 
 Niektóre z nich wydają się splecione więzami pokrewieństwa, a inne zaś stanowią przeciwstawne sobie skrajności, jakby ich istnienie wymuszało zachowanie równowagi w tej pradawnej otchłani.
 
-Szepty najstarszych głoszą, że to [[Wielki Stwórca - Tha]], który powstał z początku i końca, a jego bezkresna potęga zwiastuje nadejście tego, co nieuniknione – zamętu.
+***Szepty najstarszych głoszą, że to [[Wielki Stwórca - Tha]], który powstał z początku i końca, a jego bezkresna potęga zwiastuje nadejście tego, co nieuniknione – zamętu.***

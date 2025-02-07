@@ -13,12 +13,11 @@ draft: false
 published: false
 ---
 
-Gdy nieugięta ciemność zwycięży, a Wszechistnienie ponownie zdobyte przez [[Wszechmrok - Omniatene|Wszechmrok]] zostanie, a [[ten o wielu twarzach]] opuści swoje sanktuarium – nadejdzie koniec.
+Gdy nieugięta ciemność zwycięży, a [[Wszechmrok - Omniatene|Wszechistnienie]]ponownie zdobyte przez [[Wszechmrok - Omniatene|Wszechmrok]] zostanie, a [[Ten o Wielu Twarzach - Thatum|Ten o Wielu Twarzach]] opuści swoje sanktuarium – nadejdzie koniec.
 
-Tylko jeden się ostanie. [[Domena|Bastion]], należący do dzierżącego [[Wieczny Płomień]], a wszystko, co zostało dotychczas stworzone przez [[Twórcy|Twórców]], pochłonie nieskończona ciemność. 
+Tylko jeden się ostanie. [[Domena|Bastion]], należący do dzierżącego [[Wieczny Płomień]], a wszystko, co zostało dotychczas stworzone przez [[Twórcy|Twórców]], pochłonie Ciemność nieskończona, która gdy nasyci się światłem, wyda na świat coś, co światłem nie jest.
 
 To w tej domenie Thatum, będzie musiał uzyskać uznanie.
-Jego zadaniem pożreć zdrajcę i zniszczyć Płomień raz na zawsze, w imieniu Omniatene. 
+Jego zadaniem pożreć zdrajcę i zniszczyć Płomień raz na zawsze, w imieniu [[Wszechmrok - Omniatene|Omniatene]]. 
 
-Albowiem [[Wielki Stwórca - Tha|On]] nadchodzi, a wraz z nim koniec.
-
+***Albowiem [[Wielki Stwórca - Tha|On]] nadchodzi, a wraz z nim koniec.***

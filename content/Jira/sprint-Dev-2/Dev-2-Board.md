@@ -34,12 +34,6 @@ kanban-plugin: basic
 - [ ] [[Quest - PEZE-122]] 
  Klaudia Rogus 
  [New Avalon] Defining common grasses, plants, vegetables.
-- [ ] [[Quest - PEZE-128]] 
- Mateusz Wypchlak 
- [Origin] Gods who created Elyean.
-- [ ] [[Undertaking - PEZE-129]] 
- Mateusz Wypchlak 
- Clearly define role, legends and effects of deities [Wyrvgarth, Aurora, Thatum]
 - [ ] [[Quest - PEZE-131]] 
  Mateusz Wypchlak 
  [Misc] Create content templates at World Anvil.
@@ -48,6 +42,12 @@ kanban-plugin: basic
  [Misc] Create content templates at content vault.
 
 ## Ready
+- [ ] [[Quest - PEZE-128]] 
+ Mateusz Wypchlak 
+ [Origin] Gods who created Elyean.
+- [ ] [[Undertaking - PEZE-129]] 
+ Mateusz Wypchlak 
+ Clearly define role, legends and effects of deities [Wyrvgarth, Aurora, Thatum]
 
 ## In Verification
 - [ ] [[Quest - PEZE-130]] 

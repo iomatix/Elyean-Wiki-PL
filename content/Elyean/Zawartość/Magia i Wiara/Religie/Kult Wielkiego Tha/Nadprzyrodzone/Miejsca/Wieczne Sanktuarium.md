@@ -2,8 +2,10 @@
 lang: pl-PL
 title: Wieczne Sanktuarium
 tags:
-  - tag-me
-  - todo
+  - cult-of-tha
+  - place
+  - supernatural
+  - spiritual
 aliases: 
 date: 02-11-2024
 description: 

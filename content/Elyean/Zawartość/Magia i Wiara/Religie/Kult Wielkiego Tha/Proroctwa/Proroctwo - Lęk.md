@@ -16,7 +16,7 @@ Nadejście Wielkiej Trójki jest nieuniknione. Będą to [[Thatum]], [[Omniatene
 
 Jednak nie bójcie się końca, albowiem koniec jest początkiem, który doprowadzi do odrodzenia.
 
-Thatum, z każdym kolejnym pożartym światem, będzie odzyskiwał cząstkę tego [[Wielki Stwórca - Tha|czym był przed eonami]], a doprowadzi to do odkupienia.
+***Thatum, z każdym kolejnym pożartym światem, będzie odzyskiwał cząstkę tego [[Wielki Stwórca - Tha|czym był przed eonami]], a doprowadzi to do odkupienia***.
 
 
 
