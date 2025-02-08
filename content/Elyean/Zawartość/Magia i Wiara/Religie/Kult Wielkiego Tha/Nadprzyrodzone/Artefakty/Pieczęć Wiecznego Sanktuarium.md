@@ -7,7 +7,7 @@ tags:
   - key
 aliases: 
 date: 02-11-2024
-description: 
+description: Pieczęć Wiecznego Sanktuarium
 enableToc: false
 draft: false
 published: true

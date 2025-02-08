@@ -1,4 +1,5 @@
 ---
+fileClass: template-draft
 lang: pl-PL
 title: "{{title}}"
 tags:
@@ -11,6 +12,57 @@ description: Description of the page used for link previews.
 enableToc: true
 draft: true
 published: false
+fields:
+  - name: lang
+    type: Input
+    default: pl-PL
+  - name: title
+    type: Input
+    default: "{{title}}"
+  - name: tags
+    type: Multi
+    default:
+      - tag-me
+      - todo
+  - name: aliases
+    type: Input
+    default: ""
+  - name: date
+    type: Date
+    default: "{{date}}"
+  - name: description
+    type: Input
+    default: ""
+  - name: enableToc
+    type: Boolean
+    default: true
+  - name: draft
+    type: Boolean
+    default: true
+  - name: published
+    type: Boolean
+    default: false
+limit: 20
+mapWithTag: false
+icon: package
+tagNames: 
+filesPaths: 
+bookmarksGroups: 
+excludes: 
+extends: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+version: "2.0"
 ---
 Szybkie omówienie metadanych:
 - **lang**: język tekstu zgodny z lokalizacją strony (pl-PL, en-US, en-GB)
@@ -23,7 +75,7 @@ Szybkie omówienie metadanych:
 - **draft:** włączenie tej opcji ukrywa artykuł z wszelkich spisów. Należy odznaczyć published.
 - **published:** włączenie tej opcji potwierdza gotowość artykułu do publikacji. Należy odznaczyć również draft.
 
-Więcej informacji na wiki: 
+Więcej informacji na wiki:
 - [Quartz - Authoring Content](https://quartz.jzhao.xyz/authoring-content)
 Więcej o formacie artykułów:
 - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
