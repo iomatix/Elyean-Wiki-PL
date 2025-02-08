@@ -6,7 +6,7 @@ tags:
   - cult-of-tha
   - crystal
 aliases: 
-date: "{{date}}"
+date: 02-11-2024
 description: Wieczna Ciemność
 enableToc: false
 draft: false

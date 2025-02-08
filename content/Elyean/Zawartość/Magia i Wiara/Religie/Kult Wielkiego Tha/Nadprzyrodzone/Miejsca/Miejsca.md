@@ -1,13 +1,13 @@
 ---
 lang: pl-PL
-title: "{{title}}"
+title: Miejsca
 tags:
   - cult-of-tha
   - place
   - spiritual
 aliases:
   - Other names for this note. This is a list of strings.
-date: "{{date}}"
+date: 02-11-2024
 description: Miejsca szczególnie ważne dla wyznawców Kultu Wielkiego Tha.
 enableToc: true
 draft: false
