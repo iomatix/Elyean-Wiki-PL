@@ -5,16 +5,16 @@ title: "{{title}}"
 tags:
   - tag-me
   - todo
-aliases: 
+aliases: []
 date: "{{date}}"
-description: 
+description:
 enableToc: true
 draft: true
 published: false
 fields:
   - name: lang
     type: Input
-    default: pl-PL
+    default: "pl-PL"
   - name: title
     type: Input
     default: "{{title}}"
@@ -24,8 +24,8 @@ fields:
       - tag-me
       - todo
   - name: aliases
-    type: Input
-    default: ""
+    type: Multi
+    default: []
   - name: date
     type: Date
     default: "{{date}}"
@@ -44,22 +44,5 @@ fields:
 limit: 20
 mapWithTag: false
 icon: package
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-version: "2.49"
+version: "2.3276"
 ---

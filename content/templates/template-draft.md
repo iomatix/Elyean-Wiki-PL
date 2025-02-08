@@ -15,7 +15,7 @@ published: false
 fields:
   - name: lang
     type: Input
-    default: pl-PL
+    default: "pl-PL"
   - name: title
     type: Input
     default: "{{title}}"
@@ -25,8 +25,8 @@ fields:
       - tag-me
       - todo
   - name: aliases
-    type: Input
-    default: ""
+    type: Multi
+    default: []
   - name: date
     type: Date
     default: "{{date}}"
@@ -45,24 +45,7 @@ fields:
 limit: 20
 mapWithTag: false
 icon: package
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
-savedViews: []
-favoriteView: 
-fieldsOrder:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-version: "2.0"
+version: "2.3276"
 ---
 Szybkie omówienie metadanych:
 - **lang**: język tekstu zgodny z lokalizacją strony (pl-PL, en-US, en-GB)
