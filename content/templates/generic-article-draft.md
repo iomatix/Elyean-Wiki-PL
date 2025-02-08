@@ -1,4 +1,5 @@
 ---
+fileClass: quartz_article
 lang: pl-PL
 title: "{{title}}"
 tags:

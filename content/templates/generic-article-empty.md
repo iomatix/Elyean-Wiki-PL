@@ -1,12 +1,13 @@
 ---
+fileClass: quartz_article
 lang: pl-PL
 title: "{{title}}"
 tags:
   - tag-me
   - todo
-aliases: []
+aliases: 
 date: "{{date}}"
-description:
+description: 
 enableToc: true
 draft: true
 published: false

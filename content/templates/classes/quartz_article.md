@@ -67,13 +67,13 @@ fields:
     id: yuEcn1
 version: "2.10"
 limit: 20
-icon: note
+icon: scroll-text
 tagNames: 
 filesPaths: 
 bookmarksGroups: 
 excludes: 
 extends: 
-savedViews: []
+savedViews: 
 favoriteView: 
 fieldsOrder:
   - yuEcn1

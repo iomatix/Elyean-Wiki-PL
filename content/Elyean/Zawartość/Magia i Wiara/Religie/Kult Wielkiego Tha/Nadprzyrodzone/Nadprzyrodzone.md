@@ -18,6 +18,7 @@ published: false
 
 Ta kategoria zawiera listę zjawisk nadprzyrodzonych oraz bytów magicznych, które są częścią mitologii w obrębie wybranej religii.
 
+VIEW[{date}]
 ## Dostępne artykuły
 
 - [[Bogowie]]
