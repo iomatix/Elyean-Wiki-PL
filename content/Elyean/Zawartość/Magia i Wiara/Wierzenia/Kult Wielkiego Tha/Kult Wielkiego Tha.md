@@ -28,9 +28,9 @@ Istnieją przypuszczenia, że obrzędy wyznawców tej religii są oparte na wier
 
 ## Dostępne artykuły
 
-- [[Elyean/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Księgi/Księgi|Księgi]]
+- [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Księgi/Księgi|Księgi]]
 - [[Proroctwa]]
-- [[Elyean/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone|Nadprzyrodzone]]
-- [[Elyean/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Postacie/Postacie|Postacie]]
+- [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone|Nadprzyrodzone]]
+- [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Postacie|Postacie]]
 
 
