@@ -1,16 +1,18 @@
 ---
-lang: pl-PL
-title: Proroctwo - Zamęt
+lang: 
+title: 
 tags:
   - prophecy
   - cult-of-tha
 aliases:
-  - prophecy - chaos
-date: 02-11-2024
-description: Fragment notatki zawierającej część treści proroctwa związanego z Kultem Wielkiego Tha.
-enableToc: false
-draft: false
-published: false
+  - Prophecy - Chaos
+date: 
+description: 
+enableToc: 
+draft: 
+published: 
+prophecyCollection: 
+faithID:
 ---
 Gdy taniec barw nabierze pędu, a [[Wielki Stwórca - Tha]] zatraci się w labiryncie własnych myśli, wędrując po nim w rytmie [[Wieczna Pieśń|pieśni bez końca]], której każda kolejna nuta stanie się nowym [[Twórcy|Twórcą]], a wyglądać to będzie niczym rozdarty horyzont, na którym światło spotyka cień. 
 

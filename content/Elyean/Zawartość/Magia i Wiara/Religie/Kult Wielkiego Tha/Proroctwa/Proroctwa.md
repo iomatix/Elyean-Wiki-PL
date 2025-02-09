@@ -1,19 +1,20 @@
 ---
+fileClass: faith_prophecy
+prophecyCollection: Hymns of Existence
+faithID: Cult of Father Tha
 lang: pl-PL
 title: Proroctwa
 tags:
   - cult-of-tha
   - prophecy
-  - collection
 aliases:
-  - prophecies
+  - Prophecies
 date: 02-11-2024
 description: Zbiór proroctw i przepowiedni Kultu Wielkiego Tha.
 enableToc: true
 draft: false
 published: false
 ---
-
 # [[Kult Wielkiego Tha]] — Proroctwa
 
 Proroctwa to przepowiednie głoszone przez wiernych wyznawców – stanowią **osobliwą doktrynę** każdej religii, nadając jej unikalny kształt i sens.

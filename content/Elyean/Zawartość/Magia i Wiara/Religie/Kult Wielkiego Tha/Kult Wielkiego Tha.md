@@ -3,10 +3,10 @@ lang: pl-PL
 title: Kult Wielkiego Tha
 tags:
   - cult-of-tha
-  - religion
   - cult
+  - faith
 aliases:
-  - cult of the father tha
+  - Cult of the Father Tha
 date: 02-11-2024
 description: Strona dotycząca religii znanej jako Kult Wielkiego Tha.
 enableToc: true
@@ -28,6 +28,7 @@ Istnieją przypuszczenia, że obrzędy wyznawców tej religii są oparte na wier
 
 ## Dostępne artykuły
 
+- [[Elyean/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Księgi/Księgi|Księgi]]
 - [[Proroctwa]]
 - [[Elyean/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone|Nadprzyrodzone]]
 - [[Elyean/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Postacie/Postacie|Postacie]]

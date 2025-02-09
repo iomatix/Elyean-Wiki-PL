@@ -2,9 +2,11 @@
 lang: pl-PL
 title: Panteon Siedmiu Strażników
 tags:
-  - tag-me
-  - todo
-aliases: 
+  - seven-guardians-pantheon
+  - religion
+  - faith
+aliases:
+  - Pantheon of the Seven Guardians
 date: 02-11-2024
 description: 
 enableToc: true

@@ -67,8 +67,8 @@ fields:
     id: yuEcn1
 version: "2.10"
 limit: 20
-icon: scroll-text
-tagNames: 
+icon: scroll
+tagNames: article
 filesPaths: 
 bookmarksGroups: 
 excludes: 
@@ -85,4 +85,5 @@ fieldsOrder:
   - 95WqEt
   - zklrw0
   - NdHVsS
+"":
 ---

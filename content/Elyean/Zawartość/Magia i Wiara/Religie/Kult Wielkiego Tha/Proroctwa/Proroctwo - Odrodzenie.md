@@ -1,16 +1,20 @@
 ---
+fileClass: faith
 lang: pl-PL
 title: Proroctwo - Odrodzenie
 tags:
   - prophecy
   - cult-of-tha
 aliases:
-  - prophecy - renaissance
+  - Prophecy - Renaissance
 date: 02-11-2024
 description: Fragment notatki zawierającej część treści proroctwa związanego z Kultem Wielkiego Tha.
 enableToc: false
 draft: false
 published: false
+class: 
+faithID: 
+prophecyCollection:
 ---
 
 Gdy właściwy dzień nadejdzie, a zdrajca dzierżący [[Wieczny Płomień]] zostanie przez [[Ten o Wielu Twarzach - Thatum|Thatum]] w całości pożarty.  Ten, co samego siebie zatracił, odzyska to, co Mrok z cząstek jego rozproszy.  

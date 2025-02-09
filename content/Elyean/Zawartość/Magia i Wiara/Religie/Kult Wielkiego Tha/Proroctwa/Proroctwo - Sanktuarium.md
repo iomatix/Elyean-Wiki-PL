@@ -5,7 +5,7 @@ tags:
   - prophecy
   - cult-of-tha
 aliases:
-  - prophecy - sanctuary
+  - Prophecy - Sanctuary
 date: 02-11-2024
 description: Fragment notatki zawierającej część treści proroctwa związanego z Kultem Wielkiego Tha.
 enableToc: false
