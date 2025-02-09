@@ -7,6 +7,7 @@ title: Proroctwo - Lęk
 tags:
   - prophecy
   - cult-of-tha
+  - faith
 aliases:
   - Prophecy - Fear
 date: 02-11-2024

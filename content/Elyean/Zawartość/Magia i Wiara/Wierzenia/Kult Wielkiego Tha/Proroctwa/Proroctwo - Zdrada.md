@@ -7,6 +7,7 @@ title: Proroctwo - Zdrada
 tags:
   - prophecy
   - cult-of-tha
+  - faith
 aliases:
   - Prophecy - Betreyal
 date: 02-11-2024

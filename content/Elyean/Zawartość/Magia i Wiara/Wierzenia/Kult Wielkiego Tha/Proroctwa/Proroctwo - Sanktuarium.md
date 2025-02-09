@@ -7,6 +7,7 @@ title: Proroctwo - Sanktuarium
 tags:
   - prophecy
   - cult-of-tha
+  - faith
 aliases:
   - Prophecy - Sanctuary
 date: 02-11-2024

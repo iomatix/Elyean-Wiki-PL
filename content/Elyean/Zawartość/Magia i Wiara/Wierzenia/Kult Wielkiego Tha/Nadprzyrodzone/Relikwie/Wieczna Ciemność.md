@@ -1,16 +1,32 @@
 ---
+fileClass: faith_relic
 lang: pl-PL
 title: Wieczna Ciemność
 tags:
-  - artifacts
   - cult-of-tha
   - crystal
+  - relics
 aliases: 
 date: 02-11-2024
 description: Wieczna Ciemność
 enableToc: false
 draft: false
 published: true
+faithID: Cult of Father Tha
+relicName: Eternal Darkness
+relicAlternateNames: Mirror of the Void, Abyssal Crystal
+relicType: Absorption Prism, Crystal
+relicOrigin: Omniatene
+relicPowerLevel:
+  - Power of Creation & Destruction
+  - Dimensional Impact
+  - Time-Influencing
+  - World-Altering
+relicPowerLevelNumber: 9
+relicDomain: Abyss
+relicState:
+  - active
+sourceOfContent: Zero Edition - Main Module
 ---
 *„Czyńcie z niej tarczę lub miecz, lecz pamiętajcie: nawet cień rzucony przez płomień może wzniecić pożar”*. 
 

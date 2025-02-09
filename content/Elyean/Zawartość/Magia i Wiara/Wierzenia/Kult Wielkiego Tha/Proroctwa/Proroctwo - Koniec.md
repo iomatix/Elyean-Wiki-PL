@@ -7,6 +7,7 @@ title: Proroctwo - Koniec
 tags:
   - prophecy
   - cult-of-tha
+  - faith
 aliases:
   - Prophecy - the End
 date: 02-11-2024

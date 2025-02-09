@@ -1,16 +1,32 @@
 ---
+fileClass: faith_relic
 lang: pl-PL
 title: Wieczna Pieśń
 tags:
-  - artifacts
   - cult-of-tha
   - instrument
+  - relics
 aliases: 
 date: 02-11-2024
 description: 
 enableToc: false
 draft: false
 published: true
+relicName: Eternal Song
+relicAlternateNames: 
+relicType: Instrument
+relicOrigin: Omniatene
+relicPowerLevel:
+  - Dimensional Impact
+  - Power of Creation & Destruction
+  - Time-Influencing
+  - World-Altering
+relicPowerLevelNumber: 8
+relicDomain: Abyss
+relicState:
+  - sealed
+faithID: Cult of Father Tha
+sourceOfContent: Zero Edition - Main Module
 ---
 *„Graj, a usłyszysz echo własnej duszy. Graj zbyt długo – a echo stanie się krzykiem, który rozsadzi czas”*.
 

@@ -1,9 +1,10 @@
 ---
+fileClass: faith
 lang: pl-PL
-title: Artefakty
+title: Relikwie
 tags:
-  - artifacts
   - cult-of-Tha
+  - relics
 aliases:
   - relics
   - artifacts
@@ -12,13 +13,15 @@ description: Lista artefaktów powiązanych z Kultem Wielkiego Tha.
 enableToc: true
 draft: false
 published: false
+faithID: Cult of Father Tha
+sourceOfContent: Zero Edition - Main Module
 ---
 
-# [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Artefakty
+# [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Relikwie
 
 Artefakty to potężne magiczne relikwie powiązane z obrzędami, wiarą lub tradycją religii.
 
-## Kompendium Artefaktów
+## Kompendium Relikwi
 
 - [[Wieczna Pieśń]]
 - [[Wieczny Płomień]]

@@ -1,6 +1,5 @@
 ---
-fileClass: faith_prophecy
-prophecyCollection: Hymns of Existence
+fileClass: faith
 faithID: Cult of Father Tha
 lang: pl-PL
 title: Proroctwa

@@ -1,4 +1,6 @@
 ---
+fileClass: faith
+faithID: Cult of Father Tha
 lang: pl-PL
 title: Bogowie
 tags:
@@ -11,6 +13,7 @@ description: Lista bóstw czczonych przez Kult Wielkiego Tha.
 enableToc: true
 draft: false
 published: true
+sourceOfContent: Zero Edition - Main Module
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Bogowie
 

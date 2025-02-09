@@ -7,6 +7,7 @@ title: Proroctwo - Zamęt
 tags:
   - prophecy
   - cult-of-tha
+  - faith
 aliases:
   - Prophecy - Chaos
 date: 02-11-2024

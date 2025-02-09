@@ -7,6 +7,7 @@ title: Proroctwo - Odkupienie
 tags:
   - prophecy
   - cult-of-tha
+  - faith
 aliases:
   - Prophecy - Retribution
 date: 02-11-2024

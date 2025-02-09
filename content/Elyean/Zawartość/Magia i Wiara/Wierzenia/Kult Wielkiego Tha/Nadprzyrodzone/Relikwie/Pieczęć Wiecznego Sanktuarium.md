@@ -1,16 +1,31 @@
 ---
+fileClass: faith_relic
 lang: pl-PL
 title: Pieczęć Wiecznego Sanktuarium
 tags:
   - cult-of-tha
-  - artifacts
   - key
-aliases: 
+  - relics
+aliases:
+  - Seal of the Eternal Sanctuary
 date: 02-11-2024
 description: Pieczęć Wiecznego Sanktuarium
 enableToc: false
 draft: false
 published: true
+faithID: Cult of Father Tha
+relicName: Seal of the Eternal Sanctuary
+relicType: Key, Seal
+relicOrigin: Omniatene
+relicPowerLevel:
+  - Dimensional Impact
+  - Time-Influencing
+  - World-Altering
+relicPowerLevelNumber: 7
+relicDomain: Abyss
+relicState:
+  - undiscovered
+sourceOfContent: Zero Edition - Main Module
 ---
 *„Klucz jest bramą, a brama – kluczem. Lecz kto odważy się przekręcić zamek w sercu Nicości?”* 
 

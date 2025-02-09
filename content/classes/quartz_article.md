@@ -72,9 +72,10 @@ fields:
       sourceType: ValuesList
       valuesList:
         "1": Zero Edition - Main Module
+        "2": Placeholder
     path: ""
     id: qiu2V5
-version: "2.11"
+version: "2.12"
 limit: 100
 filesPaths: 
 bookmarksGroups: 

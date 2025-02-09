@@ -1,16 +1,32 @@
 ---
+fileClass: faith_relic
 lang: pl-PL
 title: Wieczny Płomień
 tags:
-  - artifacts
   - cult-of-tha
   - shield
+  - relics
 aliases: 
 date: 02-11-2024
 description: 
 enableToc: false
 draft: false
 published: true
+relicName: 
+relicAlternateNames: 
+relicType: 
+relicOrigin: Thatum
+relicPowerLevel:
+  - Power of Creation & Destruction
+  - Dimensional Impact
+  - Time-Influencing
+  - World-Altering
+relicPowerLevelNumber: 8
+relicDomain: Chaos
+relicState:
+  - active
+faithID: Cult of Father Tha
+sourceOfContent: Zero Edition - Main Module
 ---
 *"Niechaj żar jego serca będzie tarczą przeciw Nocy, która nienawidzi życia. Lecz cóż się stanie, gdy tarcza... zapłonie?"*.
 

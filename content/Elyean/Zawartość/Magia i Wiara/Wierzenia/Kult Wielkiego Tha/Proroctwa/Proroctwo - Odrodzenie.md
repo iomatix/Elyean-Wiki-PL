@@ -7,6 +7,7 @@ title: Proroctwo - Odrodzenie
 tags:
   - prophecy
   - cult-of-tha
+  - faith
 aliases:
   - Prophecy - Renaissance
 date: 02-11-2024
