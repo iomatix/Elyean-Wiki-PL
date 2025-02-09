@@ -3,7 +3,7 @@ fileClass: quartz_article
 lang: pl-PL
 title: Nadprzyrodzone
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - supernatural
   - spiritual
   - faith

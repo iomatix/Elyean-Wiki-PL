@@ -2,7 +2,7 @@
 lang: pl-PL
 title: Wieczne Sanktuarium
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - place
   - supernatural
   - spiritual

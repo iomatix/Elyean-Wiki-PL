@@ -1,12 +1,12 @@
 ---
 fileClass: faith_prophecy
 prophecyCollection: Hymns of Existence
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 lang: pl-PL
 title: Proroctwo - Zamęt
 tags:
   - prophecy
-  - cult-of-tha
+  - cult-of-father-tha
   - faith
 aliases:
   - Prophecy - Chaos

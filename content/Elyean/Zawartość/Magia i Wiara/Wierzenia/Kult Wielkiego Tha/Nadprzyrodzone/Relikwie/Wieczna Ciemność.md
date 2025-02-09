@@ -3,7 +3,7 @@ fileClass: faith_relic
 lang: pl-PL
 title: Wieczna Ciemność
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - crystal
   - relics
 aliases:
@@ -15,7 +15,7 @@ description: Wieczna Ciemność
 enableToc: false
 draft: false
 published: true
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 relicName: Eternal Darkness
 relicAlternateNames: Mirror of the Void, Abyssal Crystal
 relicType: Absorption Prism, Crystal

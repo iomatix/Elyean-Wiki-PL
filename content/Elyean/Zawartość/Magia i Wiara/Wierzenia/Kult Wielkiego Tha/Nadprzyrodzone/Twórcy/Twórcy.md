@@ -4,7 +4,7 @@ title: Twórcy
 tags:
   - creators
   - semi-gods
-  - cult-of-Tha
+  - cult-of-father-tha
 aliases:
   - creators
 date: 02-11-2024

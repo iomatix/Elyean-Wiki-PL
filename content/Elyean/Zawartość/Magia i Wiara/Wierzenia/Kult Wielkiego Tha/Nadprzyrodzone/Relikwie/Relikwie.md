@@ -3,7 +3,7 @@ fileClass: faith
 lang: pl-PL
 title: Relikwie
 tags:
-  - cult-of-Tha
+  - cult-of-father-tha
   - relics
 aliases:
   - relics
@@ -12,7 +12,7 @@ description: Lista artefaktów powiązanych z Kultem Wielkiego Tha.
 enableToc: true
 draft: false
 published: false
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 sourceOfContent: Zero Edition - Main Module
 ---
 

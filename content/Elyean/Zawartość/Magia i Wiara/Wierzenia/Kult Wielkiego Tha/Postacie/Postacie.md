@@ -1,10 +1,10 @@
 ---
 fileClass: faith
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 lang: pl-PL
 title: Postacie
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - characters
   - faith
 aliases:

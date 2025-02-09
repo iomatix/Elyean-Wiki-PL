@@ -2,7 +2,7 @@
 lang: pl-PL
 title: Miejsca
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - place
   - spiritual
 aliases:

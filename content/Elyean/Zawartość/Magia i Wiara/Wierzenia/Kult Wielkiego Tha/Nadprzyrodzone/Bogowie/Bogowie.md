@@ -1,11 +1,11 @@
 ---
 fileClass: faith
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 lang: pl-PL
 title: Bogowie
 tags:
   - gods
-  - cult-of-Tha
+  - cult-of-father-tha
 aliases:
   - gods
 date: 02-11-2024

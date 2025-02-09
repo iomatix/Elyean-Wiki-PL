@@ -2,7 +2,7 @@
 lang: pl-PL
 title: Wszechistnienie - Omnisum
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - place
   - spiritual
   - supernatural

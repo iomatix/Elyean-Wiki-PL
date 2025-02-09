@@ -3,7 +3,7 @@ fileClass: faith
 extends: quartz_article
 icon: church
 fields:
-  - name: faithID
+  - name: faithName
     type: Select
     options:
       sourceType: ValuesList
@@ -12,7 +12,7 @@ fields:
         "2": Pantheon of the Seven Guardians
     path: ""
     id: jSaKzT
-version: "2.2"
+version: "2.3"
 limit: 60
 filesPaths: 
 bookmarksGroups: 

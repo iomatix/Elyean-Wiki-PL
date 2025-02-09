@@ -1,14 +1,14 @@
 ---
 fileClass: faith
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 lang: pl-PL
 title: Proroctwa
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - prophecy
 aliases:
   - Prophecies
-date: 02-11-2024
+date: 02-09-2025
 description: Zbiór proroctw i przepowiedni Kultu Wielkiego Tha.
 enableToc: true
 draft: false

@@ -1,12 +1,12 @@
 ---
 fileClass: faith_prophecy
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 prophecyCollection: Hymns of Existence
 lang: pl-PL
 title: Proroctwo - Cykl
 tags:
   - prophecy
-  - cult-of-tha
+  - cult-of-father-tha
   - faith
 aliases:
   - Prophecy - Recurrence

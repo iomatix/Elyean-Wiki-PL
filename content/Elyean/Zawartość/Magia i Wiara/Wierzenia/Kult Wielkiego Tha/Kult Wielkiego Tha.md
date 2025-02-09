@@ -1,8 +1,10 @@
 ---
+fileClass: faith
+faithName: Cult of Father Tha
 lang: pl-PL
 title: Kult Wielkiego Tha
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - cult
   - faith
 aliases:
@@ -12,6 +14,7 @@ description: Strona dotycząca religii znanej jako Kult Wielkiego Tha.
 enableToc: true
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 # Kult Wielkiego Tha
 

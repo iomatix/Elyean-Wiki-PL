@@ -3,7 +3,7 @@ fileClass: faith_relic
 lang: pl-PL
 title: Pieczęć Wiecznego Sanktuarium
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - key
   - relics
 aliases:
@@ -13,7 +13,7 @@ description: Pieczęć Wiecznego Sanktuarium
 enableToc: false
 draft: false
 published: true
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 relicName: Seal of the Eternal Sanctuary
 relicType: Key, Seal
 relicOrigin: Omniatene

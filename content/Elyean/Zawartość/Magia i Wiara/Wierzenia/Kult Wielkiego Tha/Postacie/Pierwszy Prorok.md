@@ -1,11 +1,11 @@
 ---
 fileClass: faith, character
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 aliases: 
 lang: pl-PL
 title: Pierwszy Prorok
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - faith
   - prophet
   - seer

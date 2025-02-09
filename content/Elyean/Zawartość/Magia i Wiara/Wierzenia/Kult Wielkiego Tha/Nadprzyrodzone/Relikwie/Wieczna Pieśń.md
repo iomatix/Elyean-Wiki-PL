@@ -3,7 +3,7 @@ fileClass: faith_relic
 lang: pl-PL
 title: Wieczna Pieśń
 tags:
-  - cult-of-tha
+  - cult-of-father-tha
   - instrument
   - relics
 aliases:
@@ -26,7 +26,7 @@ relicPowerLevelNumber: 8
 relicDomain: Abyss
 relicState:
   - sealed
-faithID: Cult of Father Tha
+faithName: Cult of Father Tha
 sourceOfContent: Zero Edition - Main Module
 ---
 *„Graj, a usłyszysz echo własnej duszy. Graj zbyt długo – a echo stanie się krzykiem, który rozsadzi czas”*.
