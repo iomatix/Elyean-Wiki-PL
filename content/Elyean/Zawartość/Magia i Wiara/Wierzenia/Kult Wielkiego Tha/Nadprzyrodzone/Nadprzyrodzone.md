@@ -25,4 +25,5 @@ Ta kategoria zawiera listę zjawisk nadprzyrodzonych oraz bytów magicznych, kt�
 - [[Bogowie]]
 - [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Potępieni/Potępieni|Potępieni]]
 - [[Twórcy]]
+- [[Miejsca]]
 - [[Relikwie]]
