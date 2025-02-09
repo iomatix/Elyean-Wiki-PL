@@ -12,7 +12,7 @@ date: 02-11-2024
 description: Pieczęć Wiecznego Sanktuarium
 enableToc: false
 draft: false
-published: true
+published: false
 faithName: Cult of Father Tha
 relicName: Seal of the Eternal Sanctuary
 relicType: Key, Seal

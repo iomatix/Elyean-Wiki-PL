@@ -11,7 +11,7 @@ date: 02-11-2024
 description: 
 enableToc: false
 draft: false
-published: true
+published: false
 relicName: Eternal Flame
 relicAlternateNames: 
 relicType: 

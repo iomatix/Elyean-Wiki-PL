@@ -11,8 +11,8 @@ aliases:
   - Eternal Sanctuary
 date: 02-11-2024
 description: 
-enableToc: true
-draft: true
+enableToc: false
+draft: false
 published: false
 faithName: Cult of Father Tha
 placeName: Eternal Sanctuary
@@ -40,7 +40,4 @@ Dla jednych przybiera kształt labiryntu luster, które odbijają najgłębsze l
 
 Mówi się, że Sanktuarium istnieje *„… zarówno wszędzie, jak i nigdzie”*, lecz dostęp do niego wymaga **[[Pieczęć Wiecznego Sanktuarium|Pieczęci Wiecznego Sanktuarium]]** — relikwii zdolnej otworzyć jego wrota. 
 
-Legendy wspominają o **Bezimiennych Strażnikach**, istotach pozbawionych swoich imion.  Ich ciała przypominają mozaikę twrzy tych, którzy odważyli się spróbować uwolnić bóstwo.
-
-
-. Ich ciała przypominają mozaikę twarzy tych, którzy próbowali spróbowali uwolnić bóstwo.
+Legendy wspominają o **Bezimiennych Strażnikach**, istotach pozbawionych swoich imion.  Ich ciała przypominają gnijącą mozaikę twarzy tych, którzy odważyli się spróbować uwolnić bóstwo.
