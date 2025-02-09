@@ -71,8 +71,8 @@ fields:
         "10": Omniversal Influence
     path: ""
     id: JJUwUS
-version: "2.11"
-limit: 20
+version: "2.12"
+limit: 45
 mapWithTag: false
 tagNames: 
 filesPaths: 
