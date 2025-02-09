@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "pl-PL",
     baseUrl: "iomatix.github.io/Elyean-Wiki-PL/",
-    ignorePatterns: ["dev", "private", "templates", "assets", "Jira", "Excalidraw", "Tags", ".obsidian"],
+    ignorePatterns: [".obsidian", "assets", "Chats", "classes", "dev", "Excalidraw", "Jira", "private", "Tags", "templates", "thumbnails"],
     defaultDateType: "published",
     generateSocialImages: false,
     theme: {
