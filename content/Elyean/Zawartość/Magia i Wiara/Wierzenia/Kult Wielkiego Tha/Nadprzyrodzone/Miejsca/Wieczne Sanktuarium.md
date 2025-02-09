@@ -31,6 +31,16 @@ placeImpact:
 placeImpactNumber: 7
 sourceOfContent: Zero Edition - Main Module
 ---
+*„Gdzie pieczęć otwiera drogę, a wrota są jedynie odbiciem pragnień śmiertelnych”*
+
+Wieczne Sanktuarium to **nieuchwytny wymiar** lub **metafora transcendencji**, wspominana w księgach kultu Wielkiego Tha jako więzienie dla **[[Ten o Wielu Twarzach - Thatum|Thatum–a o Wielu Twarzach]]** — bóstwa, które według legend pożerało istnienia oraz przywłaszczało twarze zarówno bogów, jak i śmiertelników. 
+
+Sanktuarium nie posiada stałej formy. 
+Dla jednych przybiera kształt labiryntu luster, które odbijają najgłębsze lęki, lub pokazują najskrytsze pragnienia. Dla innych okazuje się delirycznym pustkowiem, przesiąkniętym szeptami pradawnych istot.
+
+Mówi się, że Sanktuarium istnieje *„… zarówno wszędzie, jak i nigdzie”*, lecz dostęp do niego wymaga **[[Pieczęć Wiecznego Sanktuarium|Pieczęci Wiecznego Sanktuarium]]** — relikwii zdolnej otworzyć jego wrota. 
+
+Legendy wspominają o **Bezimiennych Strażnikach**, istotach pozbawionych swoich imion.  Ich ciała przypominają mozaikę twrzy tych, którzy odważyli się spróbować uwolnić bóstwo.
 
 
-[[Pieczęć Wiecznego Sanktuarium]]
+. Ich ciała przypominają mozaikę twarzy tych, którzy próbowali spróbowali uwolnić bóstwo.
