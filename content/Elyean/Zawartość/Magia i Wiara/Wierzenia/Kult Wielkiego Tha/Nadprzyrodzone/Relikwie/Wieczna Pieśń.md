@@ -6,7 +6,8 @@ tags:
   - cult-of-tha
   - instrument
   - relics
-aliases: 
+aliases:
+  - Eternal Song
 date: 02-11-2024
 description: 
 enableToc: false

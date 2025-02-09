@@ -6,7 +6,10 @@ tags:
   - cult-of-tha
   - crystal
   - relics
-aliases: 
+aliases:
+  - Eternal Darkness
+  - Mirror of the Void
+  - Abyssal Crystal
 date: 02-11-2024
 description: Wieczna Ciemność
 enableToc: false

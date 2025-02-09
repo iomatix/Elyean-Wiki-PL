@@ -7,7 +7,6 @@ tags:
   - relics
 aliases:
   - relics
-  - artifacts
 date: 02-11-2024
 description: Lista artefaktów powiązanych z Kultem Wielkiego Tha.
 enableToc: true

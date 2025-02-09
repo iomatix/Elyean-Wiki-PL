@@ -12,7 +12,7 @@ description:
 enableToc: false
 draft: false
 published: true
-relicName: 
+relicName: Eternal Flame
 relicAlternateNames: 
 relicType: 
 relicOrigin: Thatum
