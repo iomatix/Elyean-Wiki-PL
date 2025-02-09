@@ -1,5 +1,7 @@
 ---
-fileClass: faith
+fileClass: faith_prophecy
+prophecyCollection: Hymns of Existence
+faithID: Cult of Father Tha
 lang: pl-PL
 title: Proroctwo - Odrodzenie
 tags:
@@ -12,9 +14,6 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
-class: 
-faithID: 
-prophecyCollection:
 ---
 
 Gdy właściwy dzień nadejdzie, a zdrajca dzierżący [[Wieczny Płomień]] zostanie przez [[Ten o Wielu Twarzach - Thatum|Thatum]] w całości pożarty.  Ten, co samego siebie zatracił, odzyska to, co Mrok z cząstek jego rozproszy.  

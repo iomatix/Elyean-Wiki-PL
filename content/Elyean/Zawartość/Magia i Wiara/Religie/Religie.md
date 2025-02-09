@@ -1,6 +1,6 @@
 ---
 lang: pl-PL
-title: Religie
+title: Wierzenia
 tags:
   - tag-me
   - todo
@@ -12,7 +12,7 @@ enableToc: true
 draft: true
 published: false
 ---
-# Religie w Elyean
+# Wierzenia w Elyean
 
 
 ## Spis dostępnych artykułów

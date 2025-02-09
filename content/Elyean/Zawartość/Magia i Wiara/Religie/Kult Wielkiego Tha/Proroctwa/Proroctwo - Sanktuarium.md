@@ -1,4 +1,7 @@
 ---
+fileClass: faith_prophecy
+prophecyCollection: Hymns of Existence
+faithID: Cult of Father Tha
 lang: pl-PL
 title: Proroctwo - Sanktuarium
 tags:

@@ -1,7 +1,7 @@
 ---
-fileClass: faith
-faithID: Cult of Father Tha
+fileClass: faith_prophecy
 prophecyCollection: Hymns of Existence
+faithID: Cult of Father Tha
 lang: pl-PL
 title: Proroctwo - Koniec
 tags:

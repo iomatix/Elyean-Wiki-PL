@@ -1,6 +1,7 @@
 ---
 fileClass: quartz_article
-mapWithTag: true
+extends: 
+icon: scroll
 fields:
   - name: lang
     type: Input
@@ -65,17 +66,23 @@ fields:
     options: {}
     path: ""
     id: yuEcn1
-version: "2.10"
-limit: 20
-icon: scroll
-tagNames: article
+  - name: sourceOfContent
+    type: Multi
+    options:
+      sourceType: ValuesList
+      valuesList:
+        "1": Zero Edition - Main Module
+    path: ""
+    id: qiu2V5
+version: "2.11"
+limit: 100
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
-savedViews: 
+savedViews: []
 favoriteView: 
 fieldsOrder:
+  - qiu2V5
   - yuEcn1
   - wvj0hb
   - 7D9MfR
@@ -85,5 +92,7 @@ fieldsOrder:
   - 95WqEt
   - zklrw0
   - NdHVsS
-"":
+"": 
+mapWithTag: false
+tagNames: 
 ---

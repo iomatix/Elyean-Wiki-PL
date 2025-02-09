@@ -1,8 +1,6 @@
 ---
 fileClass: faith
 extends: quartz_article
-mapWithTag: true
-tagNames: faith
 icon: church
 fields:
   - name: faithID
@@ -14,5 +12,13 @@ fields:
         "2": Pantheon of the Seven Guardians
     path: ""
     id: jSaKzT
-version: "2.1"
+version: "2.2"
+limit: 60
+filesPaths: 
+bookmarksGroups: 
+excludes: 
+savedViews: 
+favoriteView: 
+fieldsOrder:
+  - jSaKzT
 ---
