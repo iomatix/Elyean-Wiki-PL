@@ -15,6 +15,8 @@ published: false
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Twórcy
 
+TODO: dodać więcej mięska
+
 Twórcy to potężne byty magiczne stworzone z energii [[Wielki Stwórca - Tha|Tha]] zdolne do kreowania własnych [[Domena|światów]].
 
 ## Kompendium Twórców

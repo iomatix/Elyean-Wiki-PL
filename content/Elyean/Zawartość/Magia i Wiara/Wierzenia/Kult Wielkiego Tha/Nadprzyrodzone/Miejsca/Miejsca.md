@@ -15,6 +15,8 @@ published: true
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Miejsca
 
+ToDo: Dodać większy vibe kultu tak jak w [[Bogowie]]
+
 *Przestrzeń, która stała się sacrum*
 
 W systemach wierzeń i praktyk duchowych **miejsca** rzadko są jedynie punktami na mapie. To raczej:

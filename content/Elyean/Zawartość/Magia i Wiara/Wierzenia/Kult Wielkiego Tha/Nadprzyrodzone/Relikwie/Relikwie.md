@@ -18,6 +18,7 @@ sourceOfContent: Zero Edition - Main Module
 
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Relikwie
 
+TODO: opis relikwii w kontekście kultu
 Artefakty to potężne magiczne relikwie powiązane z obrzędami, wiarą lub tradycją religii.
 
 ## Kompendium Relikwi
