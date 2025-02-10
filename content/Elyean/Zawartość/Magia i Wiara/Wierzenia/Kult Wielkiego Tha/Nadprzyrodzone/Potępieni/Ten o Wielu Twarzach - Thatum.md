@@ -12,7 +12,7 @@ enableToc: false
 draft: false
 published: false
 beingName: The One of Many Faces
-beingAlternateNames: The Forgotten Primordial, The False God, The Nameless One, The Devourer of Identity, The Lurker in the Veil, The Shadow of Creation, The Whisper of Lies
+beingAlternateNames: The Forgotten Primordial, The False God, The Nameless One, The Devourer of Identity, The Lurker in the Veil, The Shadow of Creation, The Whisper of Lies, Dread’s Grin, Echo of Malice, The Weeping Maw, The Laughing Despair
 beingAliases: The Accursed, Hatred, Dread, Awe, Glee, Revulsion, Wrath, Malice, Torment, Hollow
 beingType:
   - Primaeval God

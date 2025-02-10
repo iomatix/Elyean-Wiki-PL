@@ -47,6 +47,7 @@
     "BC-ignore-in-edges": "checkbox",
     "BC-ignore-out-edges": "checkbox",
     "published": "checkbox",
-    "sourceOfContent": "text"
+    "sourceOfContent": "text",
+    "beingAlternateNames": "text"
   }
 }
