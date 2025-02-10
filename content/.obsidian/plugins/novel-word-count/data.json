@@ -76,6 +76,31 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "templates/template_generic-article-empty.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587638088,
+      "modifiedDate": 1738978724488,
+      "sizeInBytes": 177,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "templates/template_generic-article-draft.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -120,31 +145,6 @@
         "published": false
       }
     },
-    "templates/template_generic-article-empty.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587638088,
-      "modifiedDate": 1738978724488,
-      "sizeInBytes": 177,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Tags/Tags.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -162,6 +162,31 @@
       "createdDate": 1730587638084,
       "modifiedDate": 1714084513533,
       "sizeInBytes": 121,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "LICENSE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738970722278,
+      "modifiedDate": 1738978665640,
+      "sizeInBytes": 115,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -220,31 +245,6 @@
         "enableToc": true,
         "draft": false,
         "published": false
-      }
-    },
-    "LICENSE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738970722278,
-      "modifiedDate": 1738978665640,
-      "sizeInBytes": 115,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Jira/sprint-Dev-2/Undertaking - PEZE-129.md": {
@@ -322,31 +322,6 @@
         "nonWhitespaceCharacterCount": 191
       }
     },
-    "Jira/sprint-Dev-2/Quest - PEZE-127.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 248,
-      "nonWhitespaceCharacterCount": 208,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587638075,
-      "modifiedDate": 1730554562319,
-      "sizeInBytes": 248,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08333333333333333,
-        "wordCount": 25,
-        "characterCount": 248,
-        "nonWhitespaceCharacterCount": 208
-      }
-    },
     "Jira/sprint-Dev-2/Quest - PEZE-130.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -395,6 +370,31 @@
         "wordCount": 37,
         "characterCount": 324,
         "nonWhitespaceCharacterCount": 268
+      }
+    },
+    "Jira/sprint-Dev-2/Quest - PEZE-127.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 248,
+      "nonWhitespaceCharacterCount": 208,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587638075,
+      "modifiedDate": 1730554562319,
+      "sizeInBytes": 248,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 248,
+        "nonWhitespaceCharacterCount": 208
       }
     },
     "Jira/sprint-Dev-2/Quest - PEZE-126.md": {
@@ -472,31 +472,6 @@
         "nonWhitespaceCharacterCount": 186
       }
     },
-    "Jira/sprint-Dev-2/Quest - PEZE-123.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 217,
-      "nonWhitespaceCharacterCount": 181,
-      "readingTimeInMinutes": 0.07924528301886792,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587638070,
-      "modifiedDate": 1730554562308,
-      "sizeInBytes": 217,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07,
-        "wordCount": 21,
-        "characterCount": 217,
-        "nonWhitespaceCharacterCount": 181
-      }
-    },
     "Jira/sprint-Dev-2/Quest - PEZE-122.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -520,6 +495,31 @@
         "wordCount": 23,
         "characterCount": 236,
         "nonWhitespaceCharacterCount": 198
+      }
+    },
+    "Jira/sprint-Dev-2/Quest - PEZE-123.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 217,
+      "nonWhitespaceCharacterCount": 181,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587638070,
+      "modifiedDate": 1730554562308,
+      "sizeInBytes": 217,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 217,
+        "nonWhitespaceCharacterCount": 181
       }
     },
     "Jira/sprint-Dev-2/Quest - PEZE-121.md": {
@@ -675,31 +675,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Świat/Świat.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587638058,
-      "modifiedDate": 1730156208624,
-      "sizeInBytes": 35,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Świat/Mroczny Wymiar.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -717,6 +692,31 @@
       "createdDate": 1730587638056,
       "modifiedDate": 1730156235166,
       "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Świat/Świat.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587638058,
+      "modifiedDate": 1730156208624,
+      "sizeInBytes": 35,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1375,6 +1375,48 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Elyean/Zawartość/Zawartość.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 40,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "content"
+      ],
+      "createdDate": 1730587637986,
+      "modifiedDate": 1730586907729,
+      "sizeInBytes": 203,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 44,
+        "nonWhitespaceCharacterCount": 40
+      },
+      "frontmatter": {
+        "lang": "pl-PL",
+        "title": "Zawartość",
+        "tags": [
+          "content"
+        ],
+        "aliases": [
+          "content"
+        ],
+        "date": "02-11-2024",
+        "description": null,
+        "enableToc": false,
+        "draft": false,
+        "published": false
+      }
+    },
     "Elyean/Zawartość/Tryb Strategiczny/Tryb Strategiczny.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1442,73 +1484,6 @@
       "createdDate": 1730587637980,
       "modifiedDate": 1714075515707,
       "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Zawartość.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 44,
-      "nonWhitespaceCharacterCount": 40,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "content"
-      ],
-      "createdDate": 1730587637986,
-      "modifiedDate": 1730586907729,
-      "sizeInBytes": 203,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 44,
-        "nonWhitespaceCharacterCount": 40
-      },
-      "frontmatter": {
-        "lang": "pl-PL",
-        "title": "Zawartość",
-        "tags": [
-          "content"
-        ],
-        "aliases": [
-          "content"
-        ],
-        "date": "02-11-2024",
-        "description": null,
-        "enableToc": false,
-        "draft": false,
-        "published": false
-      }
-    },
-    "Elyean/Zawartość/Struktury/Struktury.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637971,
-      "modifiedDate": 1714075483293,
-      "sizeInBytes": 145,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1592,6 +1567,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Elyean/Zawartość/Struktury/Struktury.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637971,
+      "modifiedDate": 1714075483293,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Elyean/Zawartość/Struktury/Organizacje/Organizacje.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1617,31 +1617,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Struktury/Organizacje/Frakcje/Frakcje.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637966,
-      "modifiedDate": 1714075628094,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Struktury/Organizacje/Gildie/Gildie.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1658,6 +1633,31 @@
       "aliases": [],
       "createdDate": 1730587637968,
       "modifiedDate": 1714075623239,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Struktury/Organizacje/Frakcje/Frakcje.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637966,
+      "modifiedDate": 1714075628094,
       "sizeInBytes": 95,
       "sessionStart": {
         "noteCount": 0,
@@ -1942,31 +1942,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Przygoda/Pochodzenia/Pochodzenia Wychowawcze/Pochodzenia Wychowawcze.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637937,
-      "modifiedDate": 1714073840661,
-      "sizeInBytes": 117,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Przygoda/Pochodzenia/Pochodzenia Wyboru/Pochodzenia Wyboru.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1984,6 +1959,31 @@
       "createdDate": 1730587637936,
       "modifiedDate": 1714073855187,
       "sizeInBytes": 121,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Przygoda/Pochodzenia/Pochodzenia Wychowawcze/Pochodzenia Wychowawcze.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637937,
+      "modifiedDate": 1714073840661,
+      "sizeInBytes": 117,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2317,31 +2317,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Przedmioty/Receptury/Receptury.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637891,
-      "modifiedDate": 1714074361931,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Przedmioty/Surowce/Surowce.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2358,6 +2333,31 @@
       "aliases": [],
       "createdDate": 1730587637893,
       "modifiedDate": 1714074309588,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Przedmioty/Receptury/Receptury.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637891,
+      "modifiedDate": 1714074361931,
       "sizeInBytes": 95,
       "sessionStart": {
         "noteCount": 0,
@@ -2517,6 +2517,106 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Runy i Zwoje/Runy i Zwoje.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637877,
+      "modifiedDate": 1714074265579,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Magiczne Przedmioty.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637875,
+      "modifiedDate": 1714074640657,
+      "sizeInBytes": 154,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Magiczne Kryształy/Magiczne Kryształy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637873,
+      "modifiedDate": 1714074281491,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Magiczne Kontrakty/Magiczne Kontrakty.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637871,
+      "modifiedDate": 1714074255518,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Elyean/Zawartość/Przedmioty/Księgi/Księgi.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2590,106 +2690,6 @@
         "wordCount": 670,
         "characterCount": 5701,
         "nonWhitespaceCharacterCount": 4982
-      }
-    },
-    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Runy i Zwoje/Runy i Zwoje.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637877,
-      "modifiedDate": 1714074265579,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Magiczne Kryształy/Magiczne Kryształy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637873,
-      "modifiedDate": 1714074281491,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Magiczne Przedmioty.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637875,
-      "modifiedDate": 1714074640657,
-      "sizeInBytes": 154,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Przedmioty/Magiczne Przedmioty/Magiczne Kontrakty/Magiczne Kontrakty.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637871,
-      "modifiedDate": 1714074255518,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Elyean/Zawartość/Przedmioty/Kosztowności/Waluty/Waluty.md": {
@@ -2892,31 +2892,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Magiczne Kręgi.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637826,
-      "modifiedDate": 1730156825038,
-      "sizeInBytes": 426,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Magiczna Energia.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2942,6 +2917,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Magiczne Kręgi.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637826,
+      "modifiedDate": 1730156825038,
+      "sizeInBytes": 426,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Domena.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2959,6 +2959,131 @@
       "createdDate": 1730587637824,
       "modifiedDate": 1730155367546,
       "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637841,
+      "modifiedDate": 1714074054146,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia Taktyczne/Zaklęcia Taktyczne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637840,
+      "modifiedDate": 1714074072154,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia Strategiczne/Zaklęcia Strategiczne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637838,
+      "modifiedDate": 1714074083294,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia Nieskategoryzowane/Zaklęcia Nieskategoryzowane.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637836,
+      "modifiedDate": 1714074123616,
+      "sizeInBytes": 95,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklinanie/Zaklinanie.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637833,
+      "modifiedDate": 1714074062628,
+      "sizeInBytes": 95,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3010,31 +3135,6 @@
         "published": false
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Postacie/Postacie.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637818,
-      "modifiedDate": 1730393892846,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Postacie/Kapłani/Kapłani.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3051,6 +3151,31 @@
       "aliases": [],
       "createdDate": 1730587637817,
       "modifiedDate": 1730393903003,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Postacie/Postacie.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637818,
+      "modifiedDate": 1730393892846,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
@@ -3129,206 +3254,6 @@
         "published": false
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Śtrażniczka Światła - Elure.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637810,
-      "modifiedDate": 1718993552027,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Śmierci - Belhios.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637807,
-      "modifiedDate": 1718993571832,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Żywiołu Ziemi - Ghall.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637809,
-      "modifiedDate": 1718993527122,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Żywiołu Ognia - Annos.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637808,
-      "modifiedDate": 1718993509144,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Równowagi - Rhaet.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637806,
-      "modifiedDate": 1718993584125,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażniczka Żywiołu Wody - Aria.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637804,
-      "modifiedDate": 1718993520330,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażniczka Żywiołu Powietrza - Venthra.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637803,
-      "modifiedDate": 1718993537904,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnicy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637802,
-      "modifiedDate": 1730393539116,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Potępieni/Wyklęty - Wyrvgarth.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3379,7 +3304,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Patroni/Patron Arcanum - Arcon.md": {
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Patroni/Patronka Pieczy - Manthisa.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3393,8 +3318,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1730587637795,
-      "modifiedDate": 1718993739442,
+      "createdDate": 1730587637797,
+      "modifiedDate": 1718993610415,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
@@ -3429,7 +3354,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Patroni/Patronka Pieczy - Manthisa.md": {
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Patroni/Patron Arcanum - Arcon.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -3443,8 +3368,208 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1730587637797,
-      "modifiedDate": 1718993610415,
+      "createdDate": 1730587637795,
+      "modifiedDate": 1718993739442,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Żywiołu Ziemi - Ghall.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637809,
+      "modifiedDate": 1718993527122,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Śtrażniczka Światła - Elure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637810,
+      "modifiedDate": 1718993552027,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Żywiołu Ognia - Annos.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637808,
+      "modifiedDate": 1718993509144,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażniczka Żywiołu Wody - Aria.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637804,
+      "modifiedDate": 1718993520330,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Śmierci - Belhios.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637807,
+      "modifiedDate": 1718993571832,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnik Równowagi - Rhaet.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637806,
+      "modifiedDate": 1718993584125,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażniczka Żywiołu Powietrza - Venthra.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637803,
+      "modifiedDate": 1718993537904,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Panteon Siedmiu Strażników/Nadprzyrodzone/Strażnicy/Strażnicy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637802,
+      "modifiedDate": 1730393539116,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
@@ -3796,6 +3921,56 @@
         "published": false
       }
     },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Postacie.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637770,
+      "modifiedDate": 1739136728254,
+      "sizeInBytes": 344,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Pierwszy Prorok.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637769,
+      "modifiedDate": 1739136728192,
+      "sizeInBytes": 656,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Twórcy/Zdrajczyni - Aurora.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3915,152 +4090,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczna Pieśń.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637742,
-      "modifiedDate": 1739141888942,
-      "sizeInBytes": 1315,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczny Płomień.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637743,
-      "modifiedDate": 1739141891915,
-      "sizeInBytes": 1316,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczna Ciemność.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637740,
-      "modifiedDate": 1739141886447,
-      "sizeInBytes": 1504,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Relikwie.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 31,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 323,
-      "nonWhitespaceCharacterCount": 281,
-      "readingTimeInMinutes": 0.1169811320754717,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": [
-        "relics"
-      ],
-      "createdDate": 1730587637738,
-      "modifiedDate": 1739136727923,
-      "sizeInBytes": 658,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10333333333333333,
-        "wordCount": 31,
-        "characterCount": 323,
-        "nonWhitespaceCharacterCount": 281
-      },
-      "frontmatter": {
-        "fileClass": "faith",
-        "lang": "pl-PL",
-        "title": "Relikwie",
-        "tags": [
-          "cult-of-father-tha",
-          "relics"
-        ],
-        "aliases": [
-          "relics"
-        ],
-        "date": "02-11-2024",
-        "description": "Lista artefaktów powiązanych z Kultem Wielkiego Tha.",
-        "enableToc": true,
-        "draft": false,
-        "published": false,
-        "faithName": "Cult of Father Tha",
-        "sourceOfContent": "Zero Edition - Main Module"
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Pieczęć Wiecznego Sanktuarium.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637739,
-      "modifiedDate": 1739141894857,
-      "sizeInBytes": 1413,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Potępieni/Wszechmrok - Omniatene.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4155,6 +4184,187 @@
         "enableToc": true,
         "draft": false,
         "published": false
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczny Płomień.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637743,
+      "modifiedDate": 1739141891915,
+      "sizeInBytes": 1316,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczna Pieśń.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637742,
+      "modifiedDate": 1739141888942,
+      "sizeInBytes": 1315,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczna Ciemność.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1730587637740,
+      "modifiedDate": 1739141886447,
+      "sizeInBytes": 1504,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Relikwie.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 323,
+      "nonWhitespaceCharacterCount": 281,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "relics"
+      ],
+      "createdDate": 1730587637738,
+      "modifiedDate": 1739136727923,
+      "sizeInBytes": 658,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10333333333333333,
+        "wordCount": 31,
+        "characterCount": 323,
+        "nonWhitespaceCharacterCount": 281
+      },
+      "frontmatter": {
+        "fileClass": "faith",
+        "lang": "pl-PL",
+        "title": "Relikwie",
+        "tags": [
+          "cult-of-father-tha",
+          "relics"
+        ],
+        "aliases": [
+          "relics"
+        ],
+        "date": "02-11-2024",
+        "description": "Lista artefaktów powiązanych z Kultem Wielkiego Tha.",
+        "enableToc": true,
+        "draft": false,
+        "published": false,
+        "faithName": "Cult of Father Tha",
+        "sourceOfContent": "Zero Edition - Main Module"
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Pieczęć Wiecznego Sanktuarium.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 104,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 764,
+      "nonWhitespaceCharacterCount": 652,
+      "readingTimeInMinutes": 0.39245283018867927,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "Seal of the Eternal Sanctuary"
+      ],
+      "createdDate": 1730587637739,
+      "modifiedDate": 1739141894857,
+      "sizeInBytes": 1413,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3466666666666667,
+        "wordCount": 104,
+        "characterCount": 764,
+        "nonWhitespaceCharacterCount": 652
+      },
+      "frontmatter": {
+        "fileClass": "faith_relic",
+        "lang": "pl-PL",
+        "title": "Pieczęć Wiecznego Sanktuarium",
+        "tags": [
+          "cult-of-father-tha",
+          "key",
+          "relics"
+        ],
+        "aliases": [
+          "Seal of the Eternal Sanctuary"
+        ],
+        "date": "02-11-2024",
+        "description": "Pieczęć Wiecznego Sanktuarium",
+        "enableToc": false,
+        "draft": false,
+        "published": false,
+        "faithName": "Cult of Father Tha",
+        "relicName": "Seal of the Eternal Sanctuary",
+        "relicType": "Key, Seal",
+        "relicOrigin": "Omniatene",
+        "relicPowerLevel": [
+          "Dimensional Impact",
+          "Time-Influencing",
+          "World-Altering"
+        ],
+        "relicPowerLevelNumber": 7,
+        "relicDomain": "Abyss",
+        "relicState": [
+          "undiscovered"
+        ],
+        "sourceOfContent": "Zero Edition - Main Module"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone.md": {
@@ -4369,56 +4579,6 @@
         "sourceOfContent": "Zero Edition - Main Module"
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Postacie.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637770,
-      "modifiedDate": 1739136728254,
-      "sizeInBytes": 344,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Pierwszy Prorok.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637769,
-      "modifiedDate": 1739136728192,
-      "sizeInBytes": 656,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Kult Wielkiego Tha.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4491,7 +4651,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia.md": {
+    "Elyean/Zawartość/Magia i Wiara/Obrzędy/Obrzędy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4505,108 +4665,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1730587637841,
-      "modifiedDate": 1714074054146,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia Taktyczne/Zaklęcia Taktyczne.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637840,
-      "modifiedDate": 1714074072154,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia Strategiczne/Zaklęcia Strategiczne.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637838,
-      "modifiedDate": 1714074083294,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia Nieskategoryzowane/Zaklęcia Nieskategoryzowane.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637836,
-      "modifiedDate": 1714074123616,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklinanie/Zaklinanie.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637833,
-      "modifiedDate": 1714074062628,
+      "createdDate": 1730587637724,
+      "modifiedDate": 1714074027787,
       "sizeInBytes": 95,
       "sessionStart": {
         "noteCount": 0,
@@ -4632,31 +4692,6 @@
       "aliases": [],
       "createdDate": 1730587637726,
       "modifiedDate": 1714074041483,
-      "sizeInBytes": 95,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Obrzędy/Obrzędy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1730587637724,
-      "modifiedDate": 1714074027787,
       "sizeInBytes": 95,
       "sessionStart": {
         "noteCount": 0,
@@ -4841,6 +4876,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "classes/faith_being.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739125665448,
+      "modifiedDate": 1739126705739,
+      "sizeInBytes": 1151,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "classes/faith_relic.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4891,7 +4951,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "classes/faith_being.md": {
+    "classes/classes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4905,9 +4965,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739125665448,
-      "modifiedDate": 1739126705739,
-      "sizeInBytes": 1151,
+      "createdDate": 1739127054210,
+      "modifiedDate": 1739127054210,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4933,31 +4993,6 @@
       "createdDate": 1739115876027,
       "modifiedDate": 1739136803419,
       "sizeInBytes": 391,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "classes/classes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739127054210,
-      "modifiedDate": 1739127054210,
-      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
