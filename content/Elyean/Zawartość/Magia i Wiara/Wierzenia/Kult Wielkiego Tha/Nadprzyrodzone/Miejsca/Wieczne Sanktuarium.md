@@ -31,7 +31,7 @@ placeImpact:
 placeImpactNumber: 7
 sourceOfContent: Zero Edition - Main Module
 ---
-*„Gdzie pieczęć otwiera drogę, a wrota są jedynie odbiciem pragnień śmiertelnych”*
+*„Gdzie pieczęć otwiera drogę, a wrota są jedynie odbiciem pragnień śmiertelnych”*.
 
 Wieczne Sanktuarium to **nieuchwytny wymiar** lub **metafora transcendencji**, wspominana w księgach kultu Wielkiego Tha jako więzienie dla **[[Ten o Wielu Twarzach - Thatum|Thatum–a o Wielu Twarzach]]** — bóstwa, które według legend pożerało istnienia oraz przywłaszczało twarze zarówno bogów, jak i śmiertelników. 
 

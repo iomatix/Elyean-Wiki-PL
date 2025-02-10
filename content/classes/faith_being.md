@@ -1,6 +1,6 @@
 ---
 fileClass: faith_being
-extends: faith
+extends: 
 icon: shell
 fields:
   - name: beingName
@@ -28,11 +28,6 @@ fields:
     options: {}
     path: ""
     id: PKUvu0
-  - name: beingType
-    type: Input
-    options: {}
-    path: ""
-    id: dGQneH
   - name: beingPowerLevel
     type: Multi
     options:
@@ -63,5 +58,45 @@ fields:
     options: {}
     path: ""
     id: v6xDvQ
-version: "2.9"
+  - name: beingType
+    type: Multi
+    options:
+      sourceType: ValuesList
+      valuesList:
+        "1": Mortal
+        "2": Magical Being
+        "3": Divine Blood
+        "4": Half-God
+        "5": God
+        "6": Creator
+        "7": Primaeval God
+        "8": Omnipotent God
+        "9": Divine Being
+        "10": Forsaken Being
+        "11": Fallen Being
+        "12": Damned Being
+        "13": Exiled Being
+        "14": Accursed Being
+    path: ""
+    id: rHd4NW
+version: "2.21"
+limit: 45
+mapWithTag: false
+tagNames: 
+filesPaths: 
+bookmarksGroups: 
+excludes: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - v6xDvQ
+  - EhAdOy
+  - DRCKc3
+  - Eqf85c
+  - PKUvu0
+  - vRumnM
+  - rHd4NW
+  - vOywfc
+  - wsCQw1
+  - unzdgu
 ---

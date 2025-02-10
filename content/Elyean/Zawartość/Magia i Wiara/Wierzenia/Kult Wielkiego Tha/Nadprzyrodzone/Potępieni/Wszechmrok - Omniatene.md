@@ -2,8 +2,8 @@
 lang: pl-PL
 title: Wszechmrok - Omniatene
 tags:
-  - tag-me
-  - todo
+  - beings
+  - cult-of-father-tha
 aliases: 
 date: 02-11-2024
 description: 

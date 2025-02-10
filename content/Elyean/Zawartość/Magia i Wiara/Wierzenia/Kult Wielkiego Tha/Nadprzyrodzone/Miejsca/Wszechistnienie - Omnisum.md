@@ -32,4 +32,4 @@ Wierni Tha głoszą, że **nie sposób oddzielić w nim bytu od czasu**, formy o
 Czy to wszechmocna istota? Czy bezkształtna otchłań w studni czasu? Czy może iluzja, której nie warto badać? 
 Wtajemniczeni odpowiadają:* *„Wszechistnienie nie podlega definicjom – jest pytaniem i odpowiedzią, które zlewają się w jedno”*.
 
-W świętych tekstach zapisano: *„Gdybyś ujrzał jego prawdziwe oblicze, przestałbyś być sobą, a stałbyś się wszystkim”*.
+W świętych tekstach zapisane zostało, a *„Gdybyś ujrzał jego prawdziwe oblicze, przestałbyś być sobą, a stałbyś się wszystkim”.*
