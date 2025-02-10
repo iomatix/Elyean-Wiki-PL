@@ -6,9 +6,10 @@ tags:
   - cult-of-father-tha
   - shield
   - relics
-aliases: 
+aliases:
+  - Eternal Flame
 date: 02-11-2024
-description: 
+description: Płomień, który nigdy nie zgaśnie.
 enableToc: false
 draft: false
 published: false

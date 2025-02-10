@@ -9,7 +9,7 @@ tags:
 aliases:
   - Eternal Song
 date: 02-11-2024
-description: 
+description: Wieczna Pieśń, instrument o tysiącach kształtów
 enableToc: false
 draft: false
 published: false

@@ -5,9 +5,11 @@ title: Ten o wielu twarzach - Thatum
 tags:
   - beings
   - cult-of-father-tha
-aliases: 
+aliases:
+  - The One of Many Faces
+  - The Forgotten One
 date: 02-11-2024
-description: Description of the page used for link previews.
+description: Thatum o Wielu Twarzach
 enableToc: false
 draft: false
 published: false
@@ -29,7 +31,7 @@ beingCreatorName: Thatum
 ---
 *„Twarzy ma wiele, lecz ujawnia zawsze tylko jedną – nawet jeśli tylko na krótką chwilę, jakby każda z nich miała swoje własne życie, a on sam zagubił się w ich cieniu”.*
 
-Według kultystów jest to wcielenie [[Wielki Stwórca - Tha||pradawnego Thatuma]], bóstwa odpowiedzialnego, za kreację [[Twórcy|istot tak potężnych, że zdolne są do cudu stworzenia]]. On, który ma pochłonąć świat i oczyścić go w zarzewiu nienawiści, strachu i smutku, przywracając równowagę [[Wszechistnienie - Omnisum|Wszechistnienia]].
+Według kultystów jest to wcielenie [[Wielki Stwórca - Tha||pradawnego Thatum–a]], bóstwa odpowiedzialnego, za kreację [[Twórcy|istot tak potężnych, że zdolne są do cudu stworzenia]]. On, który ma pochłonąć świat i oczyścić go w zarzewiu nienawiści, strachu i smutku, przywracając równowagę [[Wszechistnienie - Omnisum|Wszechistnienia]].
 
 Opisywany jako mieszanina cienia, mięsa, twarzy i dłoni, które wiją się nieustannie, pokryte runami w krwawym odcieniu karmazynu.
 Gdy przyjmuje stałą formę, za każdym razem kradnąc czyjeś istnienie, przybiera nową twarz – uosobienie imienia, myśli i emocji, które niegdyś panowały w sercach bóstw czy śmiertelników. 

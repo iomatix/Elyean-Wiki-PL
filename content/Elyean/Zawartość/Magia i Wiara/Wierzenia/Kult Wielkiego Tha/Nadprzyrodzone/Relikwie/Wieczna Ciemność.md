@@ -11,7 +11,7 @@ aliases:
   - Mirror of the Void
   - Abyssal Crystal
 date: 02-11-2024
-description: Wieczna Ciemność
+description: Wieczna Ciemność, czyli Lustro Próżni...
 enableToc: false
 draft: false
 published: false

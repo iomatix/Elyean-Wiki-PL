@@ -7,9 +7,12 @@ tags:
   - place
   - spiritual
   - supernatural
-aliases: 
+aliases:
+  - Allverse,
+  - Omnirealm
+  - Universe
 date: 02-11-2024
-description: 
+description: Wszechistnienie
 enableToc: false
 draft: false
 published: false

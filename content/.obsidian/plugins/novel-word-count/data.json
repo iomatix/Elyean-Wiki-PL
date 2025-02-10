@@ -638,7 +638,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1730587638064,
-      "modifiedDate": 1739217170235,
+      "modifiedDate": 1739218970326,
       "sizeInBytes": 1573,
       "sessionStart": {
         "noteCount": 1,
@@ -2874,15 +2874,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.2333333333333334,
-      "characterCount": 5701,
-      "nonWhitespaceCharacterCount": 4982,
+      "characterCount": 5702,
+      "nonWhitespaceCharacterCount": 4983,
       "readingTimeInMinutes": 2.5283018867924527,
       "linkCount": 24,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1730587637865,
-      "modifiedDate": 1738966021532,
-      "sizeInBytes": 6086,
+      "modifiedDate": 1739218400156,
+      "sizeInBytes": 6089,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.2333333333333334,
@@ -4879,10 +4879,12 @@
       "readingTimeInMinutes": 0.3283018867924528,
       "linkCount": 5,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Eternal Flame"
+      ],
       "createdDate": 1730587637743,
-      "modifiedDate": 1739141891915,
-      "sizeInBytes": 1316,
+      "modifiedDate": 1739220381850,
+      "sizeInBytes": 1370,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.29,
@@ -4899,9 +4901,11 @@
           "shield",
           "relics"
         ],
-        "aliases": null,
+        "aliases": [
+          "Eternal Flame"
+        ],
         "date": "02-11-2024",
-        "description": null,
+        "description": "Płomień, który nigdy nie zgaśnie.",
         "enableToc": false,
         "draft": false,
         "published": false,
@@ -4943,8 +4947,8 @@
         "Abyssal Crystal"
       ],
       "createdDate": 1730587637740,
-      "modifiedDate": 1739141886447,
-      "sizeInBytes": 1504,
+      "modifiedDate": 1739220345576,
+      "sizeInBytes": 1530,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3233333333333333,
@@ -4967,7 +4971,7 @@
           "Abyssal Crystal"
         ],
         "date": "02-11-2024",
-        "description": "Wieczna Ciemność",
+        "description": "Wieczna Ciemność, czyli Lustro Próżni...",
         "enableToc": false,
         "draft": false,
         "published": false,
@@ -5053,8 +5057,8 @@
         "Eternal Song"
       ],
       "createdDate": 1730587637742,
-      "modifiedDate": 1739141888942,
-      "sizeInBytes": 1315,
+      "modifiedDate": 1739220360224,
+      "sizeInBytes": 1367,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.31666666666666665,
@@ -5075,7 +5079,7 @@
           "Eternal Song"
         ],
         "date": "02-11-2024",
-        "description": null,
+        "description": "Wieczna Pieśń, instrument o tysiącach kształtów",
         "enableToc": false,
         "draft": false,
         "published": false,
@@ -5166,15 +5170,18 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.7366666666666667,
-      "characterCount": 1696,
-      "nonWhitespaceCharacterCount": 1458,
+      "characterCount": 1697,
+      "nonWhitespaceCharacterCount": 1459,
       "readingTimeInMinutes": 0.8339622641509434,
       "linkCount": 4,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "The One of Many Faces",
+        "The Forgotten One"
+      ],
       "createdDate": 1730587637758,
-      "modifiedDate": 1739217387032,
-      "sizeInBytes": 2699,
+      "modifiedDate": 1739220139739,
+      "sizeInBytes": 2725,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -5190,9 +5197,12 @@
           "beings",
           "cult-of-father-tha"
         ],
-        "aliases": null,
+        "aliases": [
+          "The One of Many Faces",
+          "The Forgotten One"
+        ],
         "date": "02-11-2024",
-        "description": "Description of the page used for link previews.",
+        "description": "Thatum o Wielu Twarzach",
         "enableToc": false,
         "draft": false,
         "published": false,
@@ -5219,19 +5229,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 238,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 131,
-      "nonWhitespaceCharacterCount": 115,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 0,
+      "pageCount": 0.7933333333333333,
+      "characterCount": 1725,
+      "nonWhitespaceCharacterCount": 1476,
+      "readingTimeInMinutes": 0.8981132075471698,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1730587637760,
-      "modifiedDate": 1739212767674,
-      "sizeInBytes": 310,
+      "modifiedDate": 1739220205774,
+      "sizeInBytes": 2671,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04666666666666667,
@@ -5240,6 +5250,7 @@
         "nonWhitespaceCharacterCount": 115
       },
       "frontmatter": {
+        "fileClass": "faith_being",
         "lang": "pl-PL",
         "title": "Wszechmrok - Omniatene",
         "tags": [
@@ -5248,10 +5259,25 @@
         ],
         "aliases": null,
         "date": "02-11-2024",
-        "description": null,
-        "enableToc": true,
-        "draft": true,
-        "published": false
+        "description": "Uosobienie Wszechmroku - pustka, która nie odbija światła.",
+        "enableToc": false,
+        "draft": false,
+        "published": false,
+        "beingName": "Omniatene",
+        "beingAlternateNames": "The All-Dark, The Abyssal One, The Ever-Consuming Void, The Veil of Oblivion, The Eternal Eclipse",
+        "beingAliases": "The vastness of the night",
+        "beingDomain": "Abyss",
+        "beingSymbols": "Black Circle Inscribed with Ancient Runes, Ouroboros Devouring Itself, But Hollow Within, Eye Without a Pupil, Star with Broken Arms, Spiral Descending into the Void, Flaming Torch with Dark Fire",
+        "beingPowerLevel": [
+          "Primordial Power"
+        ],
+        "beingPowerLevelNumber": 4,
+        "beingEnergyOrigin": "Omniatene",
+        "beingCreatorName": "Omnisum",
+        "beingType": [
+          "Primaeval God",
+          "Damned Being"
+        ]
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Potępieni/Potępieni.md": {
@@ -5360,10 +5386,14 @@
       "readingTimeInMinutes": 0.33962264150943394,
       "linkCount": 1,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Allverse,",
+        "Omnirealm",
+        "Universe"
+      ],
       "createdDate": 1730587637753,
-      "modifiedDate": 1739212408111,
-      "sizeInBytes": 1240,
+      "modifiedDate": 1739220305604,
+      "sizeInBytes": 1295,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.29333333333333333,
@@ -5381,9 +5411,13 @@
           "spiritual",
           "supernatural"
         ],
-        "aliases": null,
+        "aliases": [
+          "Allverse,",
+          "Omnirealm",
+          "Universe"
+        ],
         "date": "02-11-2024",
-        "description": null,
+        "description": "Wszechistnienie",
         "enableToc": false,
         "draft": false,
         "published": false,
@@ -5421,8 +5455,8 @@
         "Eternal Sanctuary"
       ],
       "createdDate": 1730587637752,
-      "modifiedDate": 1739212430280,
-      "sizeInBytes": 1682,
+      "modifiedDate": 1739220235081,
+      "sizeInBytes": 1743,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.42,
@@ -5444,7 +5478,7 @@
           "Eternal Sanctuary"
         ],
         "date": "02-11-2024",
-        "description": null,
+        "description": "Opis Wiecznego Sanktuarium w kontekście wierzeń kultystów.",
         "enableToc": false,
         "draft": false,
         "published": false,

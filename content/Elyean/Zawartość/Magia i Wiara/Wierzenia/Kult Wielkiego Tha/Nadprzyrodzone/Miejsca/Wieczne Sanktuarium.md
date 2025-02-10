@@ -10,7 +10,7 @@ tags:
 aliases:
   - Eternal Sanctuary
 date: 02-11-2024
-description: 
+description: Opis Wiecznego Sanktuarium w kontekście wierzeń kultystów.
 enableToc: false
 draft: false
 published: false
