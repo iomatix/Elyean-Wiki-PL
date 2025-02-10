@@ -72,7 +72,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
   right: [
-    Component.Graph(
+    Component.Graph({
       localGraph: {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
@@ -101,7 +101,7 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false,
         enableRadial: true,
       },
-    ),
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
