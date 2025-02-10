@@ -16,7 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pl-PL",
-    baseUrl: "iomatix.github.io/Elyean-Wiki-PL/",
+    url: "https://iomatix.github.io",
+    baseUrl: "iomatix.github.io/Elyean-Wiki-PL",
     ignorePatterns: [".obsidian", "assets", "Chats", "classes", "dev", "Excalidraw", "Jira", "private", "Tags", "templates", "thumbnails"],
     defaultDateType: "published",
     generateSocialImages: false,
@@ -73,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({
         markdownLinkResolution: "shortest",
         lazyLoad: true,
-        prettyLinks: false,
+        prettyLinks: true,
        }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
