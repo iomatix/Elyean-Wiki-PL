@@ -1,3 +1,5 @@
-The license may change in the future after the release to be more open.
+The license is currently reserved, but we intend to make it more open after the official release.
+
+
 
 All rights reserved © Project Elyean 2025
