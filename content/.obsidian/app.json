@@ -1,0 +1,25 @@
+{
+  "spellcheckDictionary": [
+    "Venthrę",
+    "Elyean",
+    "Belhios",
+    "Elurze",
+    "Rhaet",
+    "Arcanum",
+    "Arcon",
+    "Tha",
+    "Thatum",
+    "Wszechmrok",
+    "mrok nie b",
+    "Omniatene"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [],
+  "uriCallbacks": true,
+  "newLinkFormat": "shortest",
+  "trashOption": "local",
+  "showUnsupportedFiles": false,
+  "promptDelete": false
+}

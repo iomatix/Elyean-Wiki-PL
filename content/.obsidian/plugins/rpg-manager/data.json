@@ -1,0 +1,9 @@
+{
+  "templatesFolder": "Elyean/Templates",
+  "assetsFolder": "assets",
+  "automaticMove": false,
+  "useSceneAnalyser": true,
+  "version": "4.1.14",
+  "customAttributes": [],
+  "forceFullWidth": true
+}
