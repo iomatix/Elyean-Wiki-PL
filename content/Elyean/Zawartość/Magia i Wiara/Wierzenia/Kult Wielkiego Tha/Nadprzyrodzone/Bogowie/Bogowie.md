@@ -21,7 +21,7 @@ sourceOfContent: Zero Edition - Main Module
 
 Bogowie to **osobliwe istoty**, które wymykają się pojęciu śmiertelników.
 Dla jednych są ucieleśnieniem sił natury, dla innych – strażnikami moralnego porządku. 
-Łączy je jedno: **kult**, który przemienia ich obecność *w żywą więź między ich światem – a światem śmiertelników*.  
+Łączy je jedno – **kult**, który przemienia ich obecność *w żywą więź między ich światem – a światem śmiertelników*.  
 
 Nie zawsze są łaskawi. Nie zawsze są sprawiedliwi. Ale zawsze **nadają kształt wierzeniom**, stając się studnią pragnień, lęków i pytań bez odpowiedzi.
 
