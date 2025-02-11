@@ -11,8 +11,8 @@ aliases:
 date: 02-11-2025
 description: Zbiór ksiąg, pism i wierzeń Kultu WIelkiego Tha.
 enableToc: true
-draft: true
-published: true
+draft: false
+published: false
 sourceOfContent: Zero Edition - Main Module
 ---
 # [[Kult Wielkiego Tha]] — Biblioteka

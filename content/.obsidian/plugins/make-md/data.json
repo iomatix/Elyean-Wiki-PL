@@ -339,12 +339,12 @@
     "//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie",
     "//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy",
     "//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone",
-    "//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha",
     "/",
     "//Elyean",
     "//Elyean/Elyean/Zawartość",
     "//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara",
-    "//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia"
+    "//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia",
+    "//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara,//Elyean,//Elyean/Elyean/Zawartość,//Elyean,//Elyean/Elyean/Zawartość/Elyean/Zawartość/Magia i Wiara/Elyean/Zawartość/Magia i Wiara/Wierzenia/Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -360,7 +360,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,
