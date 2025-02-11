@@ -5186,8 +5186,8 @@
         "Other names for this note. This is a list of strings."
       ],
       "createdDate": 1730587637751,
-      "modifiedDate": 1739298340961,
-      "sizeInBytes": 980,
+      "modifiedDate": 1739299669977,
+      "sizeInBytes": 981,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24666666666666667,
@@ -5210,7 +5210,7 @@
         "description": "Miejsca szczególnie ważne dla wyznawców Kultu Wielkiego Tha.",
         "enableToc": true,
         "draft": false,
-        "published": true
+        "published": false
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Wielki Stwórca - Tha.md": {
@@ -5671,8 +5671,8 @@
         "gods"
       ],
       "createdDate": 1730587637745,
-      "modifiedDate": 1739298512271,
-      "sizeInBytes": 1756,
+      "modifiedDate": 1739299665346,
+      "sizeInBytes": 1757,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5633333333333334,
@@ -5696,7 +5696,7 @@
         "description": "Lista bóstw czczonych przez Kult Wielkiego Tha.",
         "enableToc": true,
         "draft": false,
-        "published": true,
+        "published": false,
         "sourceOfContent": "Zero Edition - Main Module"
       }
     },

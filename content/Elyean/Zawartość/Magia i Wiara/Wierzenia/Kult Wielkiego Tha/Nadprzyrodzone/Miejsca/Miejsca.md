@@ -11,7 +11,7 @@ date: 02-11-2024
 description: Miejsca szczególnie ważne dla wyznawców Kultu Wielkiego Tha.
 enableToc: true
 draft: false
-published: true
+published: false
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Miejsca
 
