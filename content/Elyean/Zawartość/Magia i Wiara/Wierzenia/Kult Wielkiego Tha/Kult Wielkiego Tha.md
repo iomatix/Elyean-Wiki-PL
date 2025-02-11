@@ -23,16 +23,15 @@ Wyznawcy kultu czczą [[Wielki Stwórca - Tha|Wielkiego Stwórcę Tha]], wyczeku
 Mimo iż uważają, że Thatum pogrążony jest w szaleństwie, to gdy wydostanie się na wolność, odbierze płomień [[Zdrajczyni - Aurora|zdradzieckiej Aurorze]] i przekaże go prawowitemu opiekunowi - [[Gasnący - Wyrvgarth|Wyrvgarthowi]].
 Następnie przywróci świat do jego oryginalnego stanu, stając się jednością ze wszelką energią.
 
-[[Proroctwa|Proroctwo]] głosi, że Thatum zakończy obecny porządek rzeczy i przyniesie odkupienie wszelkim bytom, a jego szczerzy wyznawcy zostaną nagrodzeni, aby następnie dołączyć do kręgu [[Twórcy|Twórców]] podczas następnego cyklu wszechświata.
+[[Hymny Istnienia|Proroctwo]] głosi, że Thatum zakończy obecny porządek rzeczy i przyniesie odkupienie wszelkim bytom, a jego szczerzy wyznawcy zostaną nagrodzeni, aby następnie dołączyć do kręgu [[Twórcy|Twórców]] podczas następnego cyklu wszechświata.
 
 Istnieją przypuszczenia, że obrzędy wyznawców tej religii są oparte na wierzeniach i tradycjach ludów starożytnych.
 
 **Według wyznawców [[Panteon Siedmiu Strażników|Panteonu Siedmiu Strażników]], wyznawcy kultu to heretycy najwyższej rangi.**
 
-## Dostępne artykuły
+## Dostępne kategorie
 
-- [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Księgi/Księgi|Księgi]]
-- [[Proroctwa]]
+- [[Biblioteka Kultu|Biblioteka Kultu]]
 - [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone|Nadprzyrodzone]]
 - [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Postacie|Postacie]]
 

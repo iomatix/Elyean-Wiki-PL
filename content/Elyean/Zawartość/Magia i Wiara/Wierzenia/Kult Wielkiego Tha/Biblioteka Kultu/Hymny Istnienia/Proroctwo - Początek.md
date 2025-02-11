@@ -15,6 +15,7 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 [[Wszechmrok - Omniatene|Pradawna Ciemność]] władzę sprawuje, a bezkres mroku Wszechistnienie ogarnia.
 

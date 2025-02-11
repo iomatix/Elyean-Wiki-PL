@@ -15,5 +15,6 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 ***Albowiem jest to proces, który był, jest i trwać będzie.***

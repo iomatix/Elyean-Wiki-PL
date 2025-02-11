@@ -15,6 +15,7 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 
 Gdy nieugięta ciemność zwycięży, a [[Wszechmrok - Omniatene|Wszechistnienie]]ponownie zdobyte przez [[Wszechmrok - Omniatene|Wszechmrok]] zostanie, a [[Ten o Wielu Twarzach - Thatum|Ten o Wielu Twarzach]] opuści swoje sanktuarium – nadejdzie koniec.

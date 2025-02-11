@@ -28,7 +28,7 @@ beingType:
 sourceOfContent: Zero Edition - Main Module
 ---
 *„On nie chowa się w mroku, lecz **JEST** mrokiem”.*
-W pismach kultystów zapisano, że **Omniatene** – **Wszechmrok**, potępiany przez nich bóg ciemności, jest strażnikiem sekretów przedwiecznych. To on pilnuje, aby nikt nie odnalazł Thatum–a, uwięzionego za bramami prowadzącymi do [[Wieczne Sanktuarium|Wiecznego Sanktuarium]]. Wierni głoszą, że to Omniatene ma zwyciężyć i ponownie zawładnąć [[Wszechistnienie - Omnisum|Wszechistnieniem]], a będzie to miało miejsce podczas wydarzeń znanych pod nazwą [[Proroctwa|Hymnów Upadku]].
+W pismach kultystów zapisano, że **Omniatene** – **Wszechmrok**, potępiany przez nich bóg ciemności, jest strażnikiem sekretów przedwiecznych. To on pilnuje, aby nikt nie odnalazł Thatum–a, uwięzionego za bramami prowadzącymi do [[Wieczne Sanktuarium|Wiecznego Sanktuarium]]. Wierni głoszą, że to Omniatene ma zwyciężyć i ponownie zawładnąć [[Wszechistnienie - Omnisum|Wszechistnieniem]], a będzie to miało miejsce podczas wydarzeń znanych pod nazwą [[Hymny Istnienia|Hymnów Upadku]].
 
 Bóstwo rzekomo kontroluje [[Ten o Wielu Twarzach - Thatum|Thatum–a]], lecz w ostatecznym pojedynku to Thatum odzyska świadomość i zatriumfuje, aby następnie zjednoczyć całą energię istnienia i zmusić Wszechmrok do odwrotu, skazując go na bezkres samotności pośród niczego.
 

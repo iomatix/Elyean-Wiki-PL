@@ -15,6 +15,7 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 Zarówno [[Twórcy]], jak i [[Ten o Wielu Twarzach - Thatum|Thatum]], znają opowieść każdej cząstki energii będącej ich częścią. 
 W cząstkach tych spisana została historia Wszechistnienia.

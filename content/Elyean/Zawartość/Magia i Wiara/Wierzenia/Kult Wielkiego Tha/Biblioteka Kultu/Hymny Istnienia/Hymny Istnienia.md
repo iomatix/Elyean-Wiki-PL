@@ -2,17 +2,18 @@
 fileClass: faith
 faithName: Cult of Father Tha
 lang: pl-PL
-title: Proroctwa
+title: Hymny Istnienia
 tags:
   - cult-of-father-tha
   - prophecy
 aliases:
-  - Prophecies
+  - Hymns of Existence
 date: 02-09-2025
 description: Zbiór proroctw i przepowiedni Kultu Wielkiego Tha.
 enableToc: true
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 # [[Kult Wielkiego Tha]] — Proroctwa
 

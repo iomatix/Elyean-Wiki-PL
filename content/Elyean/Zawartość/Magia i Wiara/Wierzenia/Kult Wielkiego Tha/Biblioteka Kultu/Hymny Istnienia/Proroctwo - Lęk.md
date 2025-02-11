@@ -15,6 +15,7 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 Nadejście Wielkiej Trójki jest nieuniknione. Będą to [[Thatum]], [[Omniatene]] oraz ten, który dzierży [[Wieczny Płomień]]. Przyniosą oni nie śmierć, lecz pustkę. Przyniosą nie wybawienie, lecz pożrą wszystko.
 

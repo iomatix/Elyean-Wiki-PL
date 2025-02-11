@@ -1,7 +1,8 @@
 ---
-fileClass: quartz_article
+fileClass: faith
 lang: pl-PL
 title: Nadprzyrodzone
+faithName: Cult of Father Tha
 tags:
   - cult-of-father-tha
   - supernatural
@@ -18,6 +19,7 @@ sourceOfContent: Zero Edition - Main Module
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Nadprzyrodzone
 
+TODO: mięsko, personalizacja kategorii, nadanie nazwy unikalnej dla tej wiary
 Ta kategoria zawiera listę zjawisk nadprzyrodzonych oraz bytów magicznych, które są częścią mitologii w obrębie wybranej religii.
 
 ## Dostępne artykuły

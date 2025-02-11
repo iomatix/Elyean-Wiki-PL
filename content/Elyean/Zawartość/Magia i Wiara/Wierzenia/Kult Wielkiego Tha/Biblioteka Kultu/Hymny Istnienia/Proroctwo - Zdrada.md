@@ -15,6 +15,7 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 [[Twórcy|Twórcy]] posiadali nie tylko potężne relikwie, ale również coś znacznie ważniejszego.  Przed eonami, od [[Wielki Stwórca - Tha|Stwórcy swego]] otrzymali emocje, pragnienia i żądze.
 

@@ -15,6 +15,7 @@ description: Fragment notatki zawierającej część treści proroctwa związane
 enableToc: false
 draft: false
 published: false
+sourceOfContent: Zero Edition - Main Module
 ---
 Gdy taniec barw nabierze pędu, a [[Wielki Stwórca - Tha]] zatraci się w labiryncie własnych myśli, wędrując po nim w rytmie [[Wieczna Pieśń|pieśni bez końca]], której każda kolejna nuta stanie się nowym [[Twórcy|Twórcą]], a wyglądać to będzie niczym rozdarty horyzont, na którym światło spotyka cień. 
 
