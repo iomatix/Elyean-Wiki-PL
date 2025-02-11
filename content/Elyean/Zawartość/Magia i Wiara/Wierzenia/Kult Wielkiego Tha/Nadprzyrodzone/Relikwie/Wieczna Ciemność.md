@@ -10,7 +10,7 @@ aliases:
   - Eternal Darkness
   - Mirror of the Void
   - Abyssal Crystal
-date: 02-11-2024
+date: 02-08-2025
 description: Wieczna Ciemność, czyli Lustro Próżni...
 enableToc: false
 draft: false
@@ -26,7 +26,7 @@ relicPowerLevel:
   - Time-Influencing
   - World-Altering
 relicPowerLevelNumber: 9
-relicDomain: Abyss
+relicDomain: Abyss Domain
 relicState:
   - active
 sourceOfContent: Zero Edition - Main Module

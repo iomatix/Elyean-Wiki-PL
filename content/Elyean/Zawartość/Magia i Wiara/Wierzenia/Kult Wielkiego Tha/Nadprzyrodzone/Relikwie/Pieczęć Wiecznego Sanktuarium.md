@@ -8,7 +8,7 @@ tags:
   - relics
 aliases:
   - Seal of the Eternal Sanctuary
-date: 02-11-2024
+date: 02-08-2025
 description: Pieczęć Wiecznego Sanktuarium
 enableToc: false
 draft: false
@@ -22,7 +22,7 @@ relicPowerLevel:
   - Time-Influencing
   - World-Altering
 relicPowerLevelNumber: 7
-relicDomain: Abyss
+relicDomain: Abyss Domain
 relicState:
   - undiscovered
 sourceOfContent: Zero Edition - Main Module

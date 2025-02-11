@@ -11,7 +11,7 @@ aliases:
   - Thatum
   - All-father
   - The Great Creator
-date: 02-11-2024
+date: 02-10-2025
 description: Wielki Stwórca Thatum
 enableToc: false
 draft: false
@@ -22,7 +22,7 @@ beingAlternateNames: The Greatest Tha, Thatum, All-father, Thatum The Chaosborn
 beingAliases: The Great Creator
 beingType:
   - Primaeval God
-beingDomain: Chaos
+beingDomain: Chaos Domain
 beingSymbols: Key, Seal, Gate
 beingPowerLevel:
   - Primordial Power

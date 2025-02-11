@@ -8,7 +8,7 @@ tags:
   - relics
 aliases:
   - Eternal Song
-date: 02-11-2024
+date: 02-08-2025
 description: Wieczna Pieśń, instrument o tysiącach kształtów
 enableToc: false
 draft: false
@@ -23,7 +23,7 @@ relicPowerLevel:
   - Time-Influencing
   - World-Altering
 relicPowerLevelNumber: 8
-relicDomain: Abyss
+relicDomain: Abyss Domain
 relicState:
   - sealed
 faithName: Cult of Father Tha

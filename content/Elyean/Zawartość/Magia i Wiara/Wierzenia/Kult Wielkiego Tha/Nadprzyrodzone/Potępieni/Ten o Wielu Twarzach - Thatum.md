@@ -8,26 +8,28 @@ tags:
 aliases:
   - The One of Many Faces
   - The Forgotten One
-date: 02-11-2024
+date: 02-10-2025
 description: Thatum o Wielu Twarzach
 enableToc: false
 draft: false
 published: false
+faithName: Cult of Father Tha
 beingName: The One of Many Faces
 beingAlternateNames: The Forgotten Primordial, The False God, The Nameless One, The Devourer of Identity, The Lurker in the Veil, The Shadow of Creation, The Whisper of Lies, Dread’s Grin, Echo of Malice, The Weeping Maw, The Laughing Despair
-beingAliases: The Accursed, Hatred, Dread, Awe, Glee, Revulsion, Wrath, Malice, Torment, Hollow
+beingAliases: The Accursed, Hatred, Dread, Awe, Glee, Revulsion, Wrath, Malice, Torment, Hollow, False Thatum
 beingType:
   - Primaeval God
   - Accursed Being
   - Fallen Being
   - Forsaken Being
-beingDomain: Chaos
+beingDomain: Chaos Domain, Abyss Domain
 beingSymbols: Key, Seal, Gate, Face, Hand
 beingPowerLevel:
   - Limited Power
 beingPowerLevelNumber: 4
 beingEnergyOrigin: Thatum
 beingCreatorName: Thatum
+sourceOfContent: Zero Edition - Main Module
 ---
 *„Twarzy ma wiele, lecz ujawnia zawsze tylko jedną – nawet jeśli tylko na krótką chwilę, jakby każda z nich miała swoje własne życie, a on sam zagubił się w ich cieniu”.*
 
@@ -42,4 +44,4 @@ Zapisano, że to on jest tym, którego imiona zaginęły w czasie. Jego prawdziw
 
 *„W odmętach zapomnianych zakątków [[Wszechistnienie - Omnisum|Wszechistnienia]], zapieczętowany jest byt, który pozbawiono imienia. Tożsamość jego jest niczym więcej jak zlepkiem kłamstw”*.
 
-*„… Strach, Odraza, Zaskoczenie, Radość, Nienawiść, Smutek, czy Złość – albowiem wiele ma imion, tyle, co twarzy, **Zapomniany Przedwieczny**, **Przeklęty** przez Czas i Przestrzeń”*
+*„… Strach, Odraza, Zaskoczenie, Radość, Nienawiść, Smutek, czy Złość – albowiem wiele ma imion, tyle co twarzy, **Zapomniany Przedwieczny**, **Przeklęty** przez Czas i Przestrzeń”*

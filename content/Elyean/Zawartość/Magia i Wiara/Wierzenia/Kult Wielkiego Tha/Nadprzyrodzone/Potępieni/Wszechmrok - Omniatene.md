@@ -6,15 +6,16 @@ tags:
   - beings
   - cult-of-father-tha
 aliases: 
-date: 02-11-2024
+date: 02-10-2025
 description: Uosobienie Wszechmroku - pustka, która nie odbija światła.
 enableToc: false
 draft: false
 published: false
+faithName: Cult of Father Tha
 beingName: Omniatene
 beingAlternateNames: The All-Dark, The Abyssal One, The Ever-Consuming Void, The Veil of Oblivion, The Eternal Eclipse
-beingAliases: The vastness of the night
-beingDomain: Abyss
+beingAliases: The Vastness of the Night
+beingDomain: " Abyss Domain"
 beingSymbols: Black Circle Inscribed with Ancient Runes, Ouroboros Devouring Itself, But Hollow Within, Eye Without a Pupil, Star with Broken Arms, Spiral Descending into the Void, Flaming Torch with Dark Fire
 beingPowerLevel:
   - Primordial Power
@@ -24,6 +25,7 @@ beingCreatorName: Omnisum
 beingType:
   - Primaeval God
   - Damned Being
+sourceOfContent: Zero Edition - Main Module
 ---
 *„On nie chowa się w mroku, lecz **JEST** mrokiem”.*
 W pismach kultystów zapisano, że **Omniatene** – **Wszechmrok**, potępiany przez nich bóg ciemności, jest strażnikiem sekretów przedwiecznych. To on pilnuje, aby nikt nie odnalazł Thatum–a, uwięzionego za bramami prowadzącymi do [[Wieczne Sanktuarium|Wiecznego Sanktuarium]]. Wierni głoszą, że to Omniatene ma zwyciężyć i ponownie zawładnąć [[Wszechistnienie - Omnisum|Wszechistnieniem]], a będzie to miało miejsce podczas wydarzeń znanych pod nazwą [[Proroctwa|Hymnów Upadku]].

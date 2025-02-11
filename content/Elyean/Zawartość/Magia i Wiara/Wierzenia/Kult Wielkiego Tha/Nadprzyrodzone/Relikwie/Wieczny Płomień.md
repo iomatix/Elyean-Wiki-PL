@@ -8,7 +8,7 @@ tags:
   - relics
 aliases:
   - Eternal Flame
-date: 02-11-2024
+date: 02-08-2025
 description: Płomień, który nigdy nie zgaśnie.
 enableToc: false
 draft: false
@@ -23,7 +23,7 @@ relicPowerLevel:
   - Time-Influencing
   - World-Altering
 relicPowerLevelNumber: 8
-relicDomain: Chaos
+relicDomain: Chaos Domain
 relicState:
   - active
 faithName: Cult of Father Tha

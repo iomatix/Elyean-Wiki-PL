@@ -1,6 +1,6 @@
 ---
 fileClass: faith_being
-extends: 
+extends: faith
 icon: shell
 fields:
   - name: beingName
@@ -86,7 +86,7 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-savedViews: []
+savedViews: 
 favoriteView: 
 fieldsOrder:
   - v6xDvQ
