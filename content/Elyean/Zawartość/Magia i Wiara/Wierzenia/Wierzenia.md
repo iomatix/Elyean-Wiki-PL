@@ -14,6 +14,7 @@ published: false
 ---
 # Wierzenia w Elyean
 
+W Elyean istnieje wiele różnorodnych wierzeń, a każde z nich oferuje swoje unikalne spojrzenie na to, jak powstał świat. Wierzenia różnią się nie tylko w kwestii bogów, którym oddają cześć wyznawcy, ale także w sposobie ich przedstawiania i interpretacji, czym tak właściwie są. Niektóre kultury mogą czcić te same bóstwa, lecz ukazywać je w zupełnie odmiennym świetle, nadając im różne role i znaczenia.
 
 ## Spis dostępnych artykułów
 

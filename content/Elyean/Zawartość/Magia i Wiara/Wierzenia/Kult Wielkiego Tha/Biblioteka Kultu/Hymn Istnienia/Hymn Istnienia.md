@@ -2,7 +2,7 @@
 fileClass: faith
 faithName: Cult of Father Tha
 lang: pl-PL
-title: Hymny Istnienia
+title: Hymn Istnienia
 tags:
   - cult-of-father-tha
   - prophecy
@@ -17,7 +17,7 @@ sourceOfContent: Zero Edition - Main Module
 ---
 # [[Kult Wielkiego Tha]] — Proroctwa
 
-Proroctwa to przepowiednie głoszone przez wiernych wyznawców – stanowią **osobliwą doktrynę** każdej religii, nadając jej unikalny kształt i sens.
+Proroctwa, głoszone przez wyznawców, stanowią jeden z filarów doktryny, kształtując dogmaty i definiując sens religii.
 
 Kultyści nazywają **zbiór proroctw** „**Hymnem Istnienia**”, a niektóre teksty określają mianem „**Hymnów Upadku**”.
 

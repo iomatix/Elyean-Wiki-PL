@@ -15,9 +15,7 @@ published: false
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Twórcy
 
-TODO: dodać więcej mięska
-
-Twórcy to potężne byty magiczne stworzone z energii [[Wielki Stwórca - Tha|Tha]] zdolne do kreowania własnych [[Domena|światów]].
+**Twórcy** to potężne boskie istoty, stworzone z cząstki [[Wielki Stwórca - Tha|Tha]], zdolne do kontroli pływów magicznej energii, kreowania własnych [[Domena|światów]] i formowania istot magicznych. W wierzeniach kultystów zajmują wyjątkowe miejsce jako architekci rzeczywistości, których moce wykraczają poza granice zwykłej magii.
 
 ## Kompendium Twórców
 

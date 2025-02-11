@@ -37,4 +37,4 @@ Artefakt zwany **Lustrem Próżni** – nieprzenikniony kryształ, który poch
 Według legend może zarówno **scalić pęknięcia w [[Wszechistnienie - Omnisum|tkance istnienia]]jak i rozerwać ją na strzępy**, tworząc bezładny wir drążący dziurę w rzeczywistości.
 
 Kapłani Tha wierzyli, że jest to narzędzie równowagi – *”Kamień ten niesie chłód, który gasi pożary pychy, i ciszę, w której zaklęty jest głos pierwszych gwiazd.”*. 
-Jednakże w [[Hymny Istnienia|Hymnach Upadku]]ostrzegano : *”… a gdy Ciemność nasyci się światłem, wyda na świat coś, co światłem nie jest”*.
+Jednakże w [[Hymn Istnienia|Hymnach Upadku]]ostrzegano : *”… a gdy Ciemność nasyci się światłem, wyda na świat coś, co światłem nie jest”*.

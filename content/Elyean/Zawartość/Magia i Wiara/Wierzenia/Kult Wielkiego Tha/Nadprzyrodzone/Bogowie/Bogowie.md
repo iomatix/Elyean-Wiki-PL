@@ -15,7 +15,7 @@ draft: false
 published: true
 sourceOfContent: Zero Edition - Main Module
 ---
-# [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Bogowie
+# [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Istoty Otoczone Kultem
 
 *„Nie pytaj, czym są – zapytaj, czym stajesz się, gdy zbliżasz się do ich światła… lub cienia”.*
 
@@ -25,15 +25,18 @@ Dla jednych są ucieleśnieniem sił natury, dla innych – strażnikami moralne
 
 Nie zawsze są łaskawi. Nie zawsze są sprawiedliwi. Ale zawsze **nadają kształt wierzeniom**, stając się studnią pragnień, lęków i pytań bez odpowiedzi.
 
-### **Przejawy boskości w tekstach kultu**:
+## **Przejawy boskości w tekstach kultu**:
 
-- *„krew zalewa miasta, a armie wiją się w prochu przed Jego gniewem”* – jako źródło władzy,
+- *„Krew zalewa miasta, a armie wiją się w prochu przed Jego gniewem”* – jako źródło władzy,
 - *„Gdy przemówią przez święte symbole – kamień staje się ołtarzem, a wiatr modlitwą”* – jako inspiracja rytuałów,
-- *„Niech pląsają, opętani – W bagnie krwawej ulewy –  Gdzie ziemia pije, a niebo rzyga czerwienią”* – jako okrzyk bojowy,
+- *„Niech pląsają, opętani – W bagnie krwawej ulewy –  Gdzie ziemia pije, a niebo rzyga czerwienią”* – jako okrzyk wojenny,
 - *„Nawet ich milczenie jest pieśnią”* – jako zagadka, która napędza teologię.
 
-
-
-## Kompendium Bogów
+## Kompendium Istot Boskich
 
 - [[Wielki Stwórca - Tha]]
+- [[Ten o Wielu Twarzach - Thatum]]
+- [[Wszechmrok - Omniatene]]
+- [[Gasnący - Wyrvgarth]]
+- [[Zdrajczyni - Aurora]]
+- [[Władczyni Echa i Formy - Eliastre]]
