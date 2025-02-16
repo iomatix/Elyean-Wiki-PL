@@ -7,7 +7,7 @@ aliases:
 date: 
 description: 
 enableToc: 
-draft: 
+draft: true
 published: 
-sourceOfContent: 
+sourceOfContent:
 ---
