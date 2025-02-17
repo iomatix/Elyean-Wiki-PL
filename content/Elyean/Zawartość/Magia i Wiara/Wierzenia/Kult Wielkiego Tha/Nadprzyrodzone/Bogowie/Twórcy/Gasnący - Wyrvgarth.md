@@ -27,6 +27,7 @@ beingPowerLevelNumber: 3
 beingEnergyOrigin: Thatum
 beingCreatorName: Thatum
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-blue)
 ---
 
 TODO

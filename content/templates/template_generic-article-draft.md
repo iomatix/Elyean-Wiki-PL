@@ -34,6 +34,13 @@ Szybkie omówienie metadanych:
 - Fiolet = gotowe, do weryfikacji, lub do ponownej weryfikacji
 - Zielony = opublikowane i gotowe do przeniesienia
 
+Aby dodać adnotację/komentarz wystarczy użyć dwóch znaków ‘%’ i wpisać tytuł komentarza bez spacji, zatwierdzając enterem, a następnie dodać treść komentarza. Utworzony zostanie komentarz markdownowy.
+Dodatkowo można wygenerować notatkę, dotyczącą komentarzu wybierając z menu kontekstowego „create note from this comment”, która pojaw się w „dev/notes” tzn. o tutaj → [[notes]]
+Przykładowe komentarze pod spodem. Co więcej, w oknie „Enhanced Annotations” można ustalić styl takiego komentarza oraz przeszukać komentarze w obrębie otwartej notatki.
+
+%%comment: to jest komentarz%%
+%%comment: inny komentarz%%
+%%todo: do zrobienia XYZ%%
 
 Więcej informacji na wiki:
 - [Quartz - Authoring Content](https://quartz.jzhao.xyz/authoring-content)

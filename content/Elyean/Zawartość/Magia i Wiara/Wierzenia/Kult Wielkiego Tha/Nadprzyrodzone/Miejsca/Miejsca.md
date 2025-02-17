@@ -12,6 +12,7 @@ description: Miejsca szczególnie ważne dla wyznawców Kultu Wielkiego Tha.
 enableToc: true
 draft: false
 published: false
+color: var(--mk-color-blue)
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Miejsca
 

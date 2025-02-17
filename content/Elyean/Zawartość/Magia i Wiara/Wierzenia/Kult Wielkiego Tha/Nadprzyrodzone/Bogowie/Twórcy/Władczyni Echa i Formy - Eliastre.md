@@ -23,5 +23,6 @@ beingCreatorName:
 beingType: 
 faithName: 
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-blue)
 ---
 TODO

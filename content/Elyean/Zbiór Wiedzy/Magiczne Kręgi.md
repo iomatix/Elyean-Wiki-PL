@@ -1,3 +1,6 @@
+---
+color: var(--mk-color-orange)
+---
 
 ## Kręgi Natury
 ### **Krąg Ognia**

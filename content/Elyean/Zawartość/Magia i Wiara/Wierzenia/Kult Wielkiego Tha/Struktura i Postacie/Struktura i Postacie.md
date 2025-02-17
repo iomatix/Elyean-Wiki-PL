@@ -15,7 +15,9 @@ enableToc:
 draft: 
 published: 
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-blue)
 ---
 ## [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Postacie
 
+%%comment: Struktura organizacji, nie ma sensu wymieniania na WIKI postaci, które zajmują stanowiska w aktualnej osi czasu.%%
 

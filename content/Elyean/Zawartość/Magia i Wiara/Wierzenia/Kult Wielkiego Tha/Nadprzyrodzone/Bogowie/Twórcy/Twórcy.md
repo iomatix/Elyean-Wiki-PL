@@ -12,6 +12,7 @@ description: Spis twórców związanych z Kultem Wielkiego Tha.
 enableToc: true
 draft: false
 published: false
+color: var(--mk-color-blue)
 ---
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Twórcy
 

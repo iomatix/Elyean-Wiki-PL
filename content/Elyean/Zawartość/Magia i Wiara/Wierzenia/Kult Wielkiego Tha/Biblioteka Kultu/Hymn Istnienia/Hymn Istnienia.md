@@ -75,4 +75,3 @@ Kultyści nazywają **zbiór proroctw** „**Hymnem Istnienia**”, a niektór
 
 ![[Proroctwo - Cykl]]
 
-

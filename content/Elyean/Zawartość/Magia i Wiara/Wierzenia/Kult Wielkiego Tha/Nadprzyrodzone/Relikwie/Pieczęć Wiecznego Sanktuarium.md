@@ -26,6 +26,7 @@ relicDomain: Abyss Domain
 relicState:
   - undiscovered
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *„Klucz jest bramą, a brama – kluczem. Lecz kto odważy się przekręcić zamek w sercu Nicości?”* 
 

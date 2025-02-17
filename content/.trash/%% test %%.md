@@ -1,0 +1,3 @@
+---
+fileClass: quartz_article
+---

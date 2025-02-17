@@ -30,6 +30,7 @@ beingPowerLevelNumber: 5
 beingEnergyOrigin: Thatum
 beingCreatorName: Omnisum
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *„To ja jestem wszystkim, stworzycielem stwórców”*.
 

@@ -30,6 +30,7 @@ relicDomain: Abyss Domain
 relicState:
   - active
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *„Czyńcie z niej tarczę lub miecz, lecz pamiętajcie: nawet cień rzucony przez płomień może wzniecić pożar”*. 
 

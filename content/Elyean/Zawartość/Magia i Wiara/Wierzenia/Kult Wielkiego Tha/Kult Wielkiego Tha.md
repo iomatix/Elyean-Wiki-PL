@@ -19,7 +19,7 @@ color: var(--mk-color-blue)
 ---
 # Kult Wielkiego Tha
 
-Wyznawcy kultu czczą [[Wielki Stwórca - Tha|Wielkiego Stwórcę Tha]], wyczekując jego powrotu.  Wierzą, że gdy [[Ten o Wielu Twarzach - Thatum|Thatum]]wydostanie się ze swojego [[Mroczny Wymiar|więzienia]], odrodzi się i odbierze skradziony przed eonami [[Wieczny Płomień]]. 
+Wyznawcy kultu czczą [[Wielki Stwórca - Tha|Wielkiego Stwórcę Tha]], wyczekując jego powrotu. Wierzą, że gdy [[Ten o Wielu Twarzach - Thatum|Thatum]]wydostanie się ze swojego [[Mroczny Wymiar|więzienia]], odrodzi się i odbierze skradziony przed eonami [[Wieczny Płomień]]. 
 
 Mimo iż uważają, że Thatum pogrążony jest w szaleństwie, to gdy wydostanie się na wolność, odbierze płomień [[Zdrajczyni - Aurora|zdradzieckiej Aurorze]] i przekaże go prawowitemu opiekunowi - [[Gasnący - Wyrvgarth|Wyrvgarthowi]].
 Następnie przywróci świat do jego oryginalnego stanu, stając się jednością ze wszelką energią.
@@ -34,6 +34,6 @@ Istnieją przypuszczenia, że obrzędy wyznawców tej religii są oparte na wier
 
 - [[Biblioteka Kultu|Biblioteka Kultu]]
 - [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone|Nadprzyrodzone]]
-- [[Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Postacie|Postacie]]
+- [[Struktura i Postacie|Struktura i Postacie]]
 
 

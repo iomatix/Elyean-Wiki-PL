@@ -30,6 +30,7 @@ placeImpact:
   - Multi-Dimensional Impact
 placeImpactNumber: 7
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *„Gdzie pieczęć otwiera drogę, a wrota są jedynie odbiciem pragnień śmiertelnych”*.
 

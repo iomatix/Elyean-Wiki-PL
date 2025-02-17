@@ -28,6 +28,7 @@ relicState:
   - sealed
 faithName: Cult of Father Tha
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *„Graj, a usłyszysz echo własnej duszy. Graj zbyt długo – a echo stanie się krzykiem, który rozsadzi czas”*.
 

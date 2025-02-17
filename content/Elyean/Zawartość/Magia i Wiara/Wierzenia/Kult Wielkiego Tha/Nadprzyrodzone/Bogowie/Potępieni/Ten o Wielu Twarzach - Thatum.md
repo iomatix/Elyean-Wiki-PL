@@ -30,6 +30,7 @@ beingPowerLevelNumber: 4
 beingEnergyOrigin: Thatum
 beingCreatorName: Thatum
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *„Twarzy ma wiele, lecz ujawnia zawsze tylko jedną – nawet jeśli tylko na krótką chwilę, jakby każda z nich miała swoje własne życie, a on sam zagubił się w ich cieniu”.*
 

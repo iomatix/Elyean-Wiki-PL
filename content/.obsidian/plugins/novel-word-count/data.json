@@ -120,21 +120,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 227,
+      "wordCount": 308,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 1873,
-      "nonWhitespaceCharacterCount": 1608,
-      "readingTimeInMinutes": 0.8566037735849057,
-      "linkCount": 0,
+      "pageCount": 1.0266666666666666,
+      "characterCount": 2509,
+      "nonWhitespaceCharacterCount": 2160,
+      "readingTimeInMinutes": 1.1622641509433962,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": [
         "Other names for this note. This is a list of strings."
       ],
       "createdDate": 1730587638090,
-      "modifiedDate": 1739795692236,
-      "sizeInBytes": 2224,
+      "modifiedDate": 1739799789170,
+      "sizeInBytes": 2905,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5733333333333334,
@@ -638,7 +638,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1730587638064,
-      "modifiedDate": 1739795890214,
+      "modifiedDate": 1739810290119,
       "sizeInBytes": 1573,
       "sessionStart": {
         "noteCount": 1,
@@ -3595,156 +3595,6 @@
         }
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Pierwotna Energia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587637828,
-      "modifiedDate": 1730150718637,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Zbiór Wiedzy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587637829,
-      "modifiedDate": 1730150462765,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Magiczne Kręgi.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 38,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.12666666666666668,
-      "characterCount": 403,
-      "nonWhitespaceCharacterCount": 325,
-      "readingTimeInMinutes": 0.14339622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587637826,
-      "modifiedDate": 1730156825038,
-      "sizeInBytes": 426,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.12666666666666668,
-        "wordCount": 38,
-        "characterCount": 403,
-        "nonWhitespaceCharacterCount": 325
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Mroczna Energia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587637827,
-      "modifiedDate": 1730150468078,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Magiczna Energia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587637825,
-      "modifiedDate": 1730150747139,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Zbiór Wiedzy/Domena.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587637824,
-      "modifiedDate": 1730155367546,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Elyean/Zawartość/Magia i Wiara/Zaklęcia/Zaklęcia.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3962,21 +3812,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 87,
+      "wordCount": 160,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 629,
-      "nonWhitespaceCharacterCount": 528,
-      "readingTimeInMinutes": 0.3283018867924528,
+      "pageCount": 0.5333333333333333,
+      "characterCount": 1145,
+      "nonWhitespaceCharacterCount": 970,
+      "readingTimeInMinutes": 0.6037735849056604,
       "linkCount": 2,
       "embedCount": 2,
       "aliases": [
         "Other names for this note. This is a list of strings."
       ],
       "createdDate": 1730587637820,
-      "modifiedDate": 1739794855370,
-      "sizeInBytes": 919,
+      "modifiedDate": 1739800258056,
+      "sizeInBytes": 1498,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.29,
@@ -3998,7 +3848,8 @@
         "description": "Description of the page used for link previews.",
         "enableToc": true,
         "draft": true,
-        "published": false
+        "published": false,
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/TODO - Wiara wyznawców typowo wyrvgartha/TODO - Wiara wyznawców typowo wyrvgartha.md": {
@@ -4610,115 +4461,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Postacie.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 110,
-      "nonWhitespaceCharacterCount": 97,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "Characters"
-      ],
-      "createdDate": 1730587637770,
-      "modifiedDate": 1739286032957,
-      "sizeInBytes": 371,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02666666666666667,
-        "wordCount": 8,
-        "characterCount": 110,
-        "nonWhitespaceCharacterCount": 97
-      },
-      "frontmatter": {
-        "fileClass": "faith",
-        "faithName": "Cult of Father Tha",
-        "lang": "pl-PL",
-        "title": "Postacie",
-        "tags": [
-          "cult-of-father-tha",
-          "characters",
-          "faith"
-        ],
-        "aliases": [
-          "Characters"
-        ],
-        "date": null,
-        "description": null,
-        "enableToc": null,
-        "draft": null,
-        "published": null,
-        "sourceOfContent": "Zero Edition - Main Module"
-      }
-    },
-    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Postacie/Pierwszy Prorok.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 125,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4166666666666667,
-      "characterCount": 881,
-      "nonWhitespaceCharacterCount": 751,
-      "readingTimeInMinutes": 0.4716981132075472,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730587637769,
-      "modifiedDate": 1739287228548,
-      "sizeInBytes": 1593,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4166666666666667,
-        "wordCount": 125,
-        "characterCount": 881,
-        "nonWhitespaceCharacterCount": 751
-      },
-      "frontmatter": {
-        "fileClass": "faith, character",
-        "faithName": "Cult of Father Tha",
-        "aliases": null,
-        "lang": "pl-PL",
-        "title": "Pierwszy Prorok",
-        "tags": [
-          "cult-of-father-tha",
-          "faith",
-          "prophet",
-          "seer",
-          "characters"
-        ],
-        "date": "02-11-2024",
-        "description": null,
-        "enableToc": true,
-        "draft": true,
-        "published": false,
-        "characterName": null,
-        "characterFamilyName": null,
-        "characterEra": null,
-        "characterYearOfBirth": null,
-        "characterYearOfDeath": null,
-        "characterStatus": null,
-        "charaterAlternateNames": null,
-        "characterAliases": null,
-        "characterRace": null,
-        "characterGender": null,
-        "characterPlaceLastSeen": null,
-        "characterRole": null,
-        "characterAlignment": null,
-        "characterAffiliation": null,
-        "characterHomeLocation": null,
-        "characterImpact": null,
-        "characterImpactNumber": null,
-        "sourceOfContent": "Zero Edition - Main Module"
-      }
-    },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczny Płomień.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4736,8 +4478,8 @@
         "Eternal Flame"
       ],
       "createdDate": 1730587637743,
-      "modifiedDate": 1739284933827,
-      "sizeInBytes": 1377,
+      "modifiedDate": 1739801893904,
+      "sizeInBytes": 1406,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.29,
@@ -4778,7 +4520,8 @@
           "active"
         ],
         "faithName": "Cult of Father Tha",
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczna Pieśń.md": {
@@ -4798,8 +4541,8 @@
         "Eternal Song"
       ],
       "createdDate": 1730587637742,
-      "modifiedDate": 1739284930699,
-      "sizeInBytes": 1374,
+      "modifiedDate": 1739801892027,
+      "sizeInBytes": 1403,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.31666666666666665,
@@ -4840,7 +4583,8 @@
           "sealed"
         ],
         "faithName": "Cult of Father Tha",
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Wieczna Ciemność.md": {
@@ -4862,8 +4606,8 @@
         "Abyssal Crystal"
       ],
       "createdDate": 1730587637740,
-      "modifiedDate": 1739297064004,
-      "sizeInBytes": 1542,
+      "modifiedDate": 1739801889734,
+      "sizeInBytes": 1571,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.32666666666666666,
@@ -4906,7 +4650,8 @@
         "relicState": [
           "active"
         ],
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Pieczęć Wiecznego Sanktuarium.md": {
@@ -4926,8 +4671,8 @@
         "Seal of the Eternal Sanctuary"
       ],
       "createdDate": 1730587637739,
-      "modifiedDate": 1739284936547,
-      "sizeInBytes": 1420,
+      "modifiedDate": 1739801897164,
+      "sizeInBytes": 1449,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3466666666666667,
@@ -4966,7 +4711,8 @@
         "relicState": [
           "undiscovered"
         ],
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Relikwie.md": {
@@ -4986,8 +4732,8 @@
         "relics"
       ],
       "createdDate": 1730587637738,
-      "modifiedDate": 1739222034449,
-      "sizeInBytes": 698,
+      "modifiedDate": 1739801884753,
+      "sizeInBytes": 726,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12333333333333334,
@@ -5012,7 +4758,8 @@
         "draft": false,
         "published": false,
         "faithName": "Cult of Father Tha",
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Nadprzyrodzone.md": {
@@ -5032,8 +4779,8 @@
         "Supernatural"
       ],
       "createdDate": 1730587637755,
-      "modifiedDate": 1739298341071,
-      "sizeInBytes": 965,
+      "modifiedDate": 1739801801138,
+      "sizeInBytes": 993,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.15333333333333332,
@@ -5060,7 +4807,8 @@
         "enableToc": true,
         "draft": false,
         "published": false,
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Miejsca/Wszechistnienie - Omnisum.md": {
@@ -5071,8 +4819,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3,
-      "characterCount": 664,
-      "nonWhitespaceCharacterCount": 568,
+      "characterCount": 666,
+      "nonWhitespaceCharacterCount": 570,
       "readingTimeInMinutes": 0.33962264150943394,
       "linkCount": 1,
       "embedCount": 0,
@@ -5082,8 +4830,8 @@
         "Universe"
       ],
       "createdDate": 1730587637753,
-      "modifiedDate": 1739220305604,
-      "sizeInBytes": 1295,
+      "modifiedDate": 1739802787606,
+      "sizeInBytes": 1326,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3,
@@ -5125,7 +4873,8 @@
           "Multi-Dimensional Impact"
         ],
         "placeImpactNumber": 10,
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Miejsca/Wieczne Sanktuarium.md": {
@@ -5145,8 +4894,8 @@
         "Eternal Sanctuary"
       ],
       "createdDate": 1730587637752,
-      "modifiedDate": 1739220235081,
-      "sizeInBytes": 1743,
+      "modifiedDate": 1739801818761,
+      "sizeInBytes": 1772,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.42,
@@ -5190,7 +4939,8 @@
           "Multi-Dimensional Impact"
         ],
         "placeImpactNumber": 7,
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Miejsca/Miejsca.md": {
@@ -5210,8 +4960,8 @@
         "Other names for this note. This is a list of strings."
       ],
       "createdDate": 1730587637751,
-      "modifiedDate": 1739299669977,
-      "sizeInBytes": 981,
+      "modifiedDate": 1739801807989,
+      "sizeInBytes": 1009,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24666666666666667,
@@ -5234,7 +4984,8 @@
         "description": "Miejsca szczególnie ważne dla wyznawców Kultu Wielkiego Tha.",
         "enableToc": true,
         "draft": false,
-        "published": false
+        "published": false,
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Wielki Stwórca - Tha.md": {
@@ -5257,8 +5008,8 @@
         "The Great Creator"
       ],
       "createdDate": 1730587637746,
-      "modifiedDate": 1739284917736,
-      "sizeInBytes": 1278,
+      "modifiedDate": 1739801876596,
+      "sizeInBytes": 1307,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22333333333333333,
@@ -5301,7 +5052,8 @@
         "beingPowerLevelNumber": 5,
         "beingEnergyOrigin": "Thatum",
         "beingCreatorName": "Omnisum",
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Twórcy/Zdrajczyni - Aurora.md": {
@@ -5319,8 +5071,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1730587637766,
-      "modifiedDate": 1739284898277,
-      "sizeInBytes": 427,
+      "modifiedDate": 1739801869466,
+      "sizeInBytes": 455,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -5353,7 +5105,8 @@
         "beingCreatorName": null,
         "beingType": null,
         "faithName": null,
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Twórcy/Twórcy.md": {
@@ -5373,8 +5126,8 @@
         "creators"
       ],
       "createdDate": 1730587637765,
-      "modifiedDate": 1739298672579,
-      "sizeInBytes": 821,
+      "modifiedDate": 1739801863856,
+      "sizeInBytes": 849,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19666666666666666,
@@ -5397,7 +5150,8 @@
         "description": "Spis twórców związanych z Kultem Wielkiego Tha.",
         "enableToc": true,
         "draft": false,
-        "published": false
+        "published": false,
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Twórcy/Władczyni Echa i Formy - Eliastre.md": {
@@ -5415,8 +5169,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738967780704,
-      "modifiedDate": 1739284890094,
-      "sizeInBytes": 443,
+      "modifiedDate": 1739801866954,
+      "sizeInBytes": 471,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -5449,7 +5203,8 @@
         "beingCreatorName": null,
         "beingType": null,
         "faithName": null,
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Twórcy/Gasnący - Wyrvgarth.md": {
@@ -5467,8 +5222,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1730587637763,
-      "modifiedDate": 1739284882503,
-      "sizeInBytes": 607,
+      "modifiedDate": 1739801860870,
+      "sizeInBytes": 635,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -5507,7 +5262,8 @@
         "beingPowerLevelNumber": 3,
         "beingEnergyOrigin": "Thatum",
         "beingCreatorName": "Thatum",
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Potępieni/Wszechmrok - Omniatene.md": {
@@ -5525,8 +5281,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1730587637760,
-      "modifiedDate": 1739297063899,
-      "sizeInBytes": 2760,
+      "modifiedDate": 1739801844345,
+      "sizeInBytes": 2789,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7966666666666666,
@@ -5564,7 +5320,8 @@
           "Primaeval God",
           "Damned Being"
         ],
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Potępieni/Ten o Wielu Twarzach - Thatum.md": {
@@ -5585,8 +5342,8 @@
         "The Forgotten One"
       ],
       "createdDate": 1730587637758,
-      "modifiedDate": 1739284910043,
-      "sizeInBytes": 2833,
+      "modifiedDate": 1739801850016,
+      "sizeInBytes": 2862,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7366666666666667,
@@ -5629,7 +5386,8 @@
         "beingPowerLevelNumber": 4,
         "beingEnergyOrigin": "Thatum",
         "beingCreatorName": "Thatum",
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Potępieni/Potępieni.md": {
@@ -5650,8 +5408,8 @@
         "fallen"
       ],
       "createdDate": 1730587637757,
-      "modifiedDate": 1739222070866,
-      "sizeInBytes": 667,
+      "modifiedDate": 1739801832586,
+      "sizeInBytes": 695,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14333333333333334,
@@ -5675,7 +5433,8 @@
         "description": "Lista potężnych bytów magicznych, które zostały potępione przez Kult Wielkiego Tha.",
         "enableToc": true,
         "draft": false,
-        "published": false
+        "published": false,
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Bogowie/Bogowie.md": {
@@ -5695,8 +5454,8 @@
         "gods"
       ],
       "createdDate": 1730587637745,
-      "modifiedDate": 1739299665346,
-      "sizeInBytes": 1757,
+      "modifiedDate": 1739801838229,
+      "sizeInBytes": 1785,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5633333333333334,
@@ -5721,7 +5480,8 @@
         "enableToc": true,
         "draft": false,
         "published": false,
-        "sourceOfContent": "Zero Edition - Main Module"
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Kult Wielkiego Tha.md": {
@@ -5732,8 +5492,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.49333333333333335,
-      "characterCount": 1381,
-      "nonWhitespaceCharacterCount": 1211,
+      "characterCount": 1335,
+      "nonWhitespaceCharacterCount": 1166,
       "readingTimeInMinutes": 0.5584905660377358,
       "linkCount": 12,
       "embedCount": 0,
@@ -5741,8 +5501,8 @@
         "Cult of the Father Tha"
       ],
       "createdDate": 1730587637733,
-      "modifiedDate": 1739795647396,
-      "sizeInBytes": 1831,
+      "modifiedDate": 1739807821073,
+      "sizeInBytes": 1783,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.49333333333333335,
@@ -5789,7 +5549,7 @@
         "Library"
       ],
       "createdDate": 1738961328774,
-      "modifiedDate": 1739796006960,
+      "modifiedDate": 1739799892907,
       "sizeInBytes": 1307,
       "sessionStart": {
         "noteCount": 1,
@@ -5884,7 +5644,7 @@
         "Prophecy - Betreyal"
       ],
       "createdDate": 1730587637787,
-      "modifiedDate": 1739795016234,
+      "modifiedDate": 1739808321112,
       "sizeInBytes": 1450,
       "sessionStart": {
         "noteCount": 1,
@@ -6213,7 +5973,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.2633333333333333,
-      "characterCount": 884,
+      "characterCount": 883,
       "nonWhitespaceCharacterCount": 734,
       "readingTimeInMinutes": 0.2981132075471698,
       "linkCount": 10,
@@ -6222,8 +5982,8 @@
         "Hymns of Existence"
       ],
       "createdDate": 1730587637776,
-      "modifiedDate": 1739795025653,
-      "sizeInBytes": 1282,
+      "modifiedDate": 1739798645618,
+      "sizeInBytes": 1281,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2633333333333333,
@@ -6504,7 +6264,8 @@
               "valuesList": {
                 "1": "Placeholder",
                 "2": "Placeholder 2",
-                "3": "Placeholder 3"
+                "3": "Placeholder 3",
+                "4": "The First Eon"
               }
             },
             "path": "",
@@ -7425,7 +7186,8 @@
                 "1": "alive",
                 "2": "retired",
                 "3": "missing",
-                "4": "deceased"
+                "4": "deceased",
+                "5": "unknown"
               }
             },
             "path": "",
@@ -7665,6 +7427,569 @@
           "group": false
         },
         "sticker": "lucide//file-image"
+      }
+    },
+    "dev/notes/notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739798339336,
+      "modifiedDate": 1739798339336,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Struktura i Postacie/Pierwszy Prorok.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 263,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8766666666666667,
+      "characterCount": 2011,
+      "nonWhitespaceCharacterCount": 1733,
+      "readingTimeInMinutes": 0.9924528301886792,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": [
+        "The First Prophet"
+      ],
+      "createdDate": 1730587637769,
+      "modifiedDate": 1739810907032,
+      "sizeInBytes": 3383,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "faith, time, character",
+        "faithName": "Cult of Father Tha",
+        "aliases": [
+          "The First Prophet"
+        ],
+        "lang": "pl-PL",
+        "title": "Pierwszy Prorok",
+        "tags": [
+          "cult-of-father-tha",
+          "faith",
+          "prophet",
+          "seer",
+          "characters"
+        ],
+        "date": "02-11-2024",
+        "description": "Artykuł opowiada o pierwszym wybrańcu Thatuma.",
+        "enableToc": false,
+        "draft": false,
+        "published": false,
+        "characterName": "The First Prophet",
+        "charaterAlternateNames": "The First Seer, The First Priest",
+        "characterAliases": "Hooded One, Masked One, The Blood Archmage, The Twisted One",
+        "characterFamilyName": "unknown",
+        "timeEon": [
+          "The First Eon"
+        ],
+        "timeAge": "Age of the Ancients",
+        "timeEra": "Golden Era of the Ancients",
+        "characterEra": "Twilight of the Age of the Ancients",
+        "characterYearOfBirth": "unknown",
+        "characterYearOfDeath": "unknown",
+        "characterStatus": [
+          "unknown"
+        ],
+        "characterRace": "unknown",
+        "characterGender": "unknown",
+        "characterPlaceLastSeen": "Last seen during the Final Battle of Judgment Day",
+        "characterRole": "Leader, Head of the Cult",
+        "characterAlignment": [
+          "Neutral Evil"
+        ],
+        "characterAffiliation": null,
+        "characterHomeLocation": "unknown",
+        "characterImpact": [
+          "Global Impact"
+        ],
+        "characterImpactNumber": 7,
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-green)",
+        "timeCycle": null,
+        "timeMoon": null,
+        "timeDay": null,
+        "timeYear": null,
+        "timeTimeOfDay": null
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Struktura i Postacie/Pierwszy Kapłan.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 44,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 583,
+      "nonWhitespaceCharacterCount": 513,
+      "readingTimeInMinutes": 0.1660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739803327234,
+      "modifiedDate": 1739804238872,
+      "sizeInBytes": 583,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Struktura i Postacie/Struktura i Postacie.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 521,
+      "nonWhitespaceCharacterCount": 443,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587637770,
+      "modifiedDate": 1739805412345,
+      "sizeInBytes": 527,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Domena.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587637824,
+      "modifiedDate": 1739802860687,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Magiczna Energia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587637825,
+      "modifiedDate": 1739802860709,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Mroczna Energia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587637827,
+      "modifiedDate": 1739802860716,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Magiczne Kręgi.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 441,
+      "nonWhitespaceCharacterCount": 359,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587637826,
+      "modifiedDate": 1739802860713,
+      "sizeInBytes": 464,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Zbiór Wiedzy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587637829,
+      "modifiedDate": 1739802854716,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Pierwotna Energia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730587637828,
+      "modifiedDate": 1739802860720,
+      "sizeInBytes": 38,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Krwawy Rozpad.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 87,
+      "nonWhitespaceCharacterCount": 74,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739806843168,
+      "modifiedDate": 1739808115783,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "quartz_article",
+        "color": "var(--mk-color-orange)"
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Domena Cieni.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739808135451,
+      "modifiedDate": 1739808309650,
+      "sizeInBytes": 225,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "quartz_article",
+        "undefined": "",
+        "File": "Elyean/Zbiór Wiedzy/Domena Cienii.md",
+        "lang": null,
+        "title": null,
+        "tags": null,
+        "aliases": null,
+        "date": null,
+        "description": null,
+        "enableToc": null,
+        "draft": null,
+        "published": null,
+        "sourceOfContent": null,
+        "color": "var(--mk-color-orange)"
+      }
+    },
+    "Elyean/Zbiór Wiedzy/Złota Era Starożytnych.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 30,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739808124527,
+      "modifiedDate": 1739808312128,
+      "sizeInBytes": 258,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "quartz_article",
+        "undefined": "",
+        "File": "Elyean/Zbiór Wiedzy/Złota Era.md",
+        "lang": null,
+        "title": null,
+        "tags": null,
+        "aliases": null,
+        "date": null,
+        "description": null,
+        "enableToc": null,
+        "draft": null,
+        "published": null,
+        "sourceOfContent": null,
+        "color": "var(--mk-color-orange)"
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Magiczna Księga Proroka.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 301,
+      "nonWhitespaceCharacterCount": 265,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739809033627,
+      "modifiedDate": 1739810031985,
+      "sizeInBytes": 613,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "faith_relic",
+        "relicName": null,
+        "relicAlternateNames": null,
+        "relicType": null,
+        "relicOrigin": null,
+        "relicPowerLevelNumber": null,
+        "relicDomain": null,
+        "relicState": null,
+        "relicPowerLevel": null,
+        "faithName": null,
+        "lang": null,
+        "title": null,
+        "tags": null,
+        "aliases": null,
+        "date": null,
+        "description": null,
+        "enableToc": null,
+        "draft": null,
+        "published": null,
+        "sourceOfContent": null,
+        "color": "var(--mk-color-blue)"
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Maska Szeptów.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 142,
+      "nonWhitespaceCharacterCount": 123,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739808875368,
+      "modifiedDate": 1739809806176,
+      "sizeInBytes": 455,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "faith_relic",
+        "color": "var(--mk-color-blue)",
+        "relicName": null,
+        "relicAlternateNames": null,
+        "relicType": null,
+        "relicOrigin": null,
+        "relicPowerLevelNumber": null,
+        "relicDomain": null,
+        "relicState": null,
+        "relicPowerLevel": null,
+        "faithName": null,
+        "lang": null,
+        "title": null,
+        "tags": null,
+        "aliases": null,
+        "date": null,
+        "description": null,
+        "enableToc": null,
+        "draft": true,
+        "published": null,
+        "sourceOfContent": null
+      }
+    },
+    "Elyean/Zawartość/Magia i Wiara/Wierzenia/Kult Wielkiego Tha/Nadprzyrodzone/Relikwie/Przedwieczny Kryształ Absorbcji.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 67,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 590,
+      "nonWhitespaceCharacterCount": 471,
+      "readingTimeInMinutes": 0.2528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739809007610,
+      "modifiedDate": 1739809798007,
+      "sizeInBytes": 926,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "faith_relic",
+        "relicName": null,
+        "relicAlternateNames": null,
+        "relicType": null,
+        "relicOrigin": null,
+        "relicPowerLevelNumber": null,
+        "relicDomain": null,
+        "relicState": null,
+        "relicPowerLevel": null,
+        "faithName": null,
+        "lang": null,
+        "title": null,
+        "tags": null,
+        "aliases": null,
+        "date": null,
+        "description": null,
+        "enableToc": null,
+        "draft": true,
+        "published": null,
+        "sourceOfContent": null,
+        "color": "var(--mk-color-blue)"
       }
     }
   }

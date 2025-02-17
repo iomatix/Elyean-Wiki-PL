@@ -28,6 +28,7 @@ relicState:
   - active
 faithName: Cult of Father Tha
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *"Niechaj żar jego serca będzie tarczą przeciw Nocy, która nienawidzi życia. Lecz cóż się stanie, gdy tarcza... zapłonie?"*.
 

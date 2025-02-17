@@ -1,0 +1,1 @@
+![[Proroctwo - Zdrada#^1tw61l]]

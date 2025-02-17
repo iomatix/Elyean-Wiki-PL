@@ -14,6 +14,7 @@ draft: false
 published: false
 faithName: Cult of Father Tha
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-blue)
 ---
 
 # [[Elyean/PL/Zawartość/Magia i Wiara/Religie/Kult Wielkiego Tha/Index.md|Kult Wielkiego Tha]] — Relikwie

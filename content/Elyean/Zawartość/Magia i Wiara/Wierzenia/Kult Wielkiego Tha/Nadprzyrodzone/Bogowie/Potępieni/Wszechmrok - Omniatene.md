@@ -26,6 +26,7 @@ beingType:
   - Primaeval God
   - Damned Being
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 *„On nie chowa się w mroku, lecz **JEST** mrokiem”.*
 W pismach kultystów zapisano, że **Omniatene** – **Wszechmrok**, potępiany przez nich bóg ciemności, jest strażnikiem sekretów przedwiecznych. To on pilnuje, aby nikt nie odnalazł Thatum–a, uwięzionego za bramami prowadzącymi do [[Wieczne Sanktuarium|Wiecznego Sanktuarium]]. Wierni głoszą, że to Omniatene ma zwyciężyć i ponownie zawładnąć [[Wszechistnienie - Omnisum|Wszechistnieniem]], a będzie to miało miejsce podczas wydarzeń znanych pod nazwą [[Hymn Istnienia|Hymnów Upadku]].

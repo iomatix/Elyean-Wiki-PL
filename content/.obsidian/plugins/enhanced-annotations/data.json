@@ -1,17 +1,61 @@
 {
   "editorSuggest": {
     "enableAutoSuggest": true,
-    "triggerPhrase": "//",
-    "commentFormat": "html"
+    "triggerPhrase": "%%",
+    "commentFormat": "markdown"
   },
   "decoration": {
     "autoRegisterLabels": true,
     "styles": {
-      "labels": {},
+      "labels": {
+        "1739799508232": {
+          "label": "comment",
+          "id": "1739799508232",
+          "enableStyle": true,
+          "style": {
+            "color": "#adff9e",
+            "italic": true,
+            "fontWeight": "thin"
+          }
+        },
+        "1739799619365": {
+          "label": "todo",
+          "id": "1739799619365",
+          "enableStyle": true,
+          "style": {
+            "color": "#f7e06e",
+            "italic": true,
+            "fontWeight": "thin",
+            "fontSize": 20
+          }
+        },
+        "1739800000584": {
+          "label": "wierzenia",
+          "id": "1739800000584",
+          "enableStyle": true,
+          "style": {
+            "color": "#d777f6",
+            "italic": true,
+            "fontWeight": "thin"
+          }
+        },
+        "1739808314333": {
+          "label": "test",
+          "id": "1739808314333",
+          "enableStyle": true,
+          "style": {
+            "color": "#3da5f1",
+            "italic": true,
+            "fontWeight": "thin"
+          }
+        }
+      },
       "tag": {
         "style": {
           "fontSize": 10,
-          "opacity": 40
+          "opacity": 40,
+          "fontFamily": "monospace",
+          "fontWeight": "bold"
         },
         "enableStyle": true
       }
@@ -21,7 +65,7 @@
   "outline": {
     "fontSize": 12,
     "showLabelsFilter": false,
-    "showSearchInput": false,
+    "showSearchInput": true,
     "hiddenLabels": [],
     "hiddenTypes": []
   },
@@ -32,18 +76,16 @@
     "focusAnnotationInEditor": true
   },
   "notes": {
-    "defaultFolder": "notes",
+    "defaultFolder": "dev/notes",
     "notesNamingMode": "annotation-label/annotation-text",
-    "openNoteAfterCreation": false,
+    "openNoteAfterCreation": true,
     "insertLinkToNote": true,
     "defaultFolderMode": "customFolder",
     "template": "{{block_link}}",
     "truncateFileName": false
   },
   "idling": {
-    "daysUnused": [
-      "2025-02-17"
-    ]
+    "daysUnused": []
   },
   "clipboard": {
     "templates": {
