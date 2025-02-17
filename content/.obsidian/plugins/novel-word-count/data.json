@@ -7566,25 +7566,48 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 54,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 521,
-      "nonWhitespaceCharacterCount": 443,
-      "readingTimeInMinutes": 0.2037735849056604,
-      "linkCount": 0,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 279,
+      "nonWhitespaceCharacterCount": 244,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 3,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Characters"
+      ],
       "createdDate": 1730587637770,
-      "modifiedDate": 1739805412345,
-      "sizeInBytes": 527,
+      "modifiedDate": 1739811339009,
+      "sizeInBytes": 571,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "fileClass": "faith",
+        "faithName": "Cult of Father Tha",
+        "lang": "pl-PL",
+        "title": "Postacie",
+        "tags": [
+          "cult-of-father-tha",
+          "characters",
+          "faith"
+        ],
+        "aliases": [
+          "Characters"
+        ],
+        "date": null,
+        "description": null,
+        "enableToc": null,
+        "draft": null,
+        "published": null,
+        "sourceOfContent": "Zero Edition - Main Module",
+        "color": "var(--mk-color-blue)"
       }
     },
     "Elyean/Zbiór Wiedzy/Domena.md": {

@@ -21,3 +21,5 @@ color: var(--mk-color-blue)
 
 %%comment: Struktura organizacji, nie ma sensu wymieniania na WIKI postaci, które zajmują stanowiska w aktualnej osi czasu.%%
 
+- [[Pierwszy Prorok]]
+- [[Pierwszy Kapłan]]
