@@ -12,6 +12,7 @@ description:
 enableToc: true
 draft: true
 published: false
+color: var(--mk-color-orange)
 ---
 
 TODO: + odnieść się do Genezy (księga)

@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 
 Gdy nieugięta ciemność zwycięży, a [[Wszechmrok - Omniatene|Wszechistnienie]]ponownie zdobyte przez [[Wszechmrok - Omniatene|Wszechmrok]] zostanie, a [[Ten o Wielu Twarzach - Thatum|Ten o Wielu Twarzach]] opuści swoje sanktuarium – nadejdzie koniec.

@@ -24,6 +24,17 @@ Szybkie omówienie metadanych:
 - **draft:** włączenie tej opcji ukrywa artykuł z wszelkich spisów. Należy odznaczyć published.
 - **published:** włączenie tej opcji potwierdza gotowość artykułu do publikacji. Należy odznaczyć również draft.
 
+## Mała Legenda — Foldery i Pliki w Obsydian
+
+- Brak koloru = jest to draft
+- Czerwony = jest jakiś problem lub jest zablokowane przez inną notkę
+- Pomarańczowy = zakolejkowane jako następne do redakcji
+- Żółty = do poprawy
+- Niebieski = jest to w trakcie redagowania, ktoś nad tym pracuje
+- Fiolet = gotowe, do weryfikacji, lub do ponownej weryfikacji
+- Zielony = opublikowane i gotowe do przeniesienia
+
+
 Więcej informacji na wiki:
 - [Quartz - Authoring Content](https://quartz.jzhao.xyz/authoring-content)
 Więcej o formacie artykułów:

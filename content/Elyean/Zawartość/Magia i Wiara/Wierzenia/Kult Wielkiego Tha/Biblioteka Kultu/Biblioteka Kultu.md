@@ -14,10 +14,9 @@ enableToc: true
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 # [[Kult Wielkiego Tha]] — Biblioteka
-
-
 
 Biblioteka to miejsce, w którym przechowywane są pisma należące do [[Kult Wielkiego Tha|Kultu Wielkiego Tha]]. Starożytne teksty, traktaty i proroctwa zapisane przez dawnych wyznawców znajdują się w ukrytych archiwach oraz na półkach najstarszych uniwersytetów magicznych, gdzie badane są przez uczonych próbujących rozwikłać ich tajemnice.
 

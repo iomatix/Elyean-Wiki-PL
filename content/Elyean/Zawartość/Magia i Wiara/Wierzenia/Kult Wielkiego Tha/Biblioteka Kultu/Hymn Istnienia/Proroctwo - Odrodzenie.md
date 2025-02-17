@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 
 Gdy właściwy dzień nadejdzie, a zdrajca dzierżący [[Wieczny Płomień]] zostanie przez [[Ten o Wielu Twarzach - Thatum|Thatum]] w całości pożarty.  Ten, co samego siebie zatracił, odzyska to, co Mrok z cząstek jego rozproszy.  

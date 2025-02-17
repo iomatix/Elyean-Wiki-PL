@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 Taniec barw wytraca swą prędkość, a odległości między światami stają się coraz większe, zacierając granicę między światłem a ciemnością.
 Nadchodzi dzień, w którym Pieśń [[Wielki Stwórca - Tha|Tha]] ucichnie, a on sam pozostanie jedynie jednobarwną plamą, zamkniętą w samotnym więzieniu, otoczoną przez [[Wszechmrok - Omniatene|Wszechmrok]].

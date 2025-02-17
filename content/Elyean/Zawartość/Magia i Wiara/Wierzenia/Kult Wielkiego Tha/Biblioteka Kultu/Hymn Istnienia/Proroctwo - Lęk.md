@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 Nadejście Wielkiej Trójki jest nieuniknione. Będą to [[Thatum]], [[Omniatene]] oraz ten, który dzierży [[Wieczny Płomień]]. Przyniosą oni nie śmierć, lecz pustkę. Przyniosą nie wybawienie, lecz pożrą wszystko.
 

@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 Zarówno [[Twórcy]], jak i [[Ten o Wielu Twarzach - Thatum|Thatum]], znają opowieść każdej cząstki energii będącej ich częścią. 
 W cząstkach tych spisana została historia Wszechistnienia.

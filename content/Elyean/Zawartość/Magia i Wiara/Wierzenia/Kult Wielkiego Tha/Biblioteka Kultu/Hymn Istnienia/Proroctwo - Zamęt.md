@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 Gdy taniec barw nabierze pędu, a [[Wielki Stwórca - Tha]] zatraci się w labiryncie własnych myśli, wędrując po nim w rytmie [[Wieczna Pieśń|pieśni bez końca]], której każda kolejna nuta stanie się nowym [[Twórcy|Twórcą]], a wyglądać to będzie niczym rozdarty horyzont, na którym światło spotyka cień. 
 

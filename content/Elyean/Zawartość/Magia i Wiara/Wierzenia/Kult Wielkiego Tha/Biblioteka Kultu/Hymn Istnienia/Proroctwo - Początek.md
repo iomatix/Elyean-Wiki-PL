@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 [[Wszechmrok - Omniatene|Pradawna Ciemność]] władzę sprawuje, a bezkres mroku Wszechistnienie ogarnia.
 

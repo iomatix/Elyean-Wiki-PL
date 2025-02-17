@@ -37,9 +37,6 @@ kanban-plugin: basic
 - [ ] [[Quest - PEZE-131]] 
  Mateusz Wypchlak 
  [Misc] Create content templates at World Anvil.
-- [ ] [[Quest - PEZE-132]] 
- Mateusz Wypchlak 
- [Misc] Create content templates at content vault.
 
 ## Ready
 - [ ] [[Quest - PEZE-128]] 
@@ -48,6 +45,9 @@ kanban-plugin: basic
 - [ ] [[Undertaking - PEZE-129]] 
  Mateusz Wypchlak 
  Clearly define role, legends and effects of deities [Wyrvgarth, Aurora, Thatum]
+- [ ] [[Quest - PEZE-132]] 
+ Mateusz Wypchlak 
+ [Misc] Create content templates at content vault.
 
 ## In Verification
 - [ ] [[Quest - PEZE-130]] 

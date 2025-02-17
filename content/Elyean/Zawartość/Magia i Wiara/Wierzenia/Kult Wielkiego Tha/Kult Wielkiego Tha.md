@@ -15,6 +15,7 @@ enableToc: true
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-blue)
 ---
 # Kult Wielkiego Tha
 

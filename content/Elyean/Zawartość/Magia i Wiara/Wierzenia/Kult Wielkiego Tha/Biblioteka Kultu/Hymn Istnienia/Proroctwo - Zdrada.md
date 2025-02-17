@@ -16,6 +16,7 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 [[Twórcy|Twórcy]] posiadali nie tylko potężne relikwie, ale również coś znacznie ważniejszego.  Przed eonami, od [[Wielki Stwórca - Tha|Stwórcy swego]] otrzymali emocje, pragnienia i żądze.
 

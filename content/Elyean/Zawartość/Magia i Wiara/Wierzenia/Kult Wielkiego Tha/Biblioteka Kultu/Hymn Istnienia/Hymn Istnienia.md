@@ -14,6 +14,7 @@ enableToc: true
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 # [[Kult Wielkiego Tha]] — Proroctwa
 

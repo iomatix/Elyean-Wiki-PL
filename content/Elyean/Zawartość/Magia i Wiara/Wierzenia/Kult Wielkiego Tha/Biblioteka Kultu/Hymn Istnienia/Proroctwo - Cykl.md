@@ -16,5 +16,6 @@ enableToc: false
 draft: false
 published: false
 sourceOfContent: Zero Edition - Main Module
+color: var(--mk-color-green)
 ---
 ***Albowiem jest to proces, który był, jest i trwać będzie.***
