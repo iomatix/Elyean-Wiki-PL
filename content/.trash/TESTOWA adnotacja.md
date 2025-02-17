@@ -1,1 +1,0 @@
-![[Biblioteka Kultu#^mupu4s]]
