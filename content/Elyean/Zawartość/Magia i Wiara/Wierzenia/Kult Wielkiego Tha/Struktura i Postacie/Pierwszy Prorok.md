@@ -56,7 +56,7 @@ Nikt ze śmiertelnych nie zna tożsamości pierwszego wybrańca, lecz starożytn
 Był posiadaczem potężnych artefaktów – relikwii, które odnajdywał lub otrzymywał jako dar od bóstwa za swoje osiągnięcia.
 Stały się one symbolami pełniącej przez niego roli.
 - [[Maska Szeptów|Maski]], której nigdy nie ściągnął,
-- [[Magiczna Księga Proroka|Zagubionej Księgi]], w której spisał swą wiedzę,
+- [[Księga Pierwszego Proroctwa|Zagubionej Księgi]], w której spisał swą wiedzę,
 - [[Przedwieczny Kryształ Absorbcji|Potężnego katalizatora]], który został odebrany starożytnym.
 
 Pisma dotyczące proroka, wspominają o magicznym zjawisku zwanym „[[Krwawy Rozpad|Krwawym Rozpadem]]”, które nawiedziło imperium u zmierzchu [[Złota Era Starożytnych|Złotej Ery]]. Niejaki „*Krwawy Arcymistrz*” powiązany z [[Domena Cieni|Domeną Cieni]] został obwiniony przez starożytny lud za wywołanie choroby, a widziany był w czasie ostatniej bitwy kończącej cykl nazywany *„Dniem Sądu”*.
